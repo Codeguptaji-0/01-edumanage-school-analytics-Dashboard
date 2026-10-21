@@ -1,0 +1,1184 @@
+student_id,first_name,last_name,gender,dob,class_id,grade_level,admission_date,parent_name,parent_occupation,family_income_bracket,transport_opted,scholarship_percent,contact_phone,city
+STU-1001,Saksham,Krish,Male,2018-07-11,CLS-01A,1,2024-03-21,Vedant Krish,Salaried IT/Corporate,₹6L - ₹12L,True,0,+916228895347,Delhi NCR
+STU-1002,Xalak,Mody,Female,2018-06-08,CLS-01A,1,2024-04-21,Indrajit Mody,Retail/Shopkeeper,₹6L - ₹12L,True,0,03980818575,Delhi NCR
+STU-1003,Abha,Pathak,Female,2018-08-09,CLS-01A,1,2024-04-01,Charles Pathak,Salaried IT/Corporate,< ₹3L,True,100,04057152102,Delhi NCR
+STU-1004,Adya,Dara,Female,2018-03-10,CLS-01A,1,2024-03-31,Rishi Dara,Government Service,₹6L - ₹12L,False,0,+917696029839,Delhi NCR
+STU-1005,Andrew,Kanda,Male,2018-07-17,CLS-01A,1,2024-03-26,Aayush Kanda,Healthcare/Doctor,₹6L - ₹12L,True,0,+918430034856,Delhi NCR
+STU-1006,Chandani,Sani,Female,2018-05-02,CLS-01A,1,2024-03-11,Mohammed Sani,Business Owner,₹3L - ₹6L,True,0,+912918489119,Delhi NCR
+STU-1007,Edhitha,Tailor,Female,2018-10-08,CLS-01A,1,2024-03-16,Anthony Tailor,Salaried IT/Corporate,₹3L - ₹6L,False,25,07047164549,Delhi NCR
+STU-1008,Lavanya,Merchant,Female,2018-12-24,CLS-01A,1,2024-03-17,Max Merchant,Business Owner,₹6L - ₹12L,False,0,05070198143,Delhi NCR
+STU-1009,Jai,Lall,Male,2018-08-09,CLS-01A,1,2024-03-12,Falan Lall,Government Service,₹3L - ₹6L,False,0,+913118577523,Delhi NCR
+STU-1010,Mugdha,More,Female,2018-02-14,CLS-01A,1,2024-04-29,Yagnesh More,Salaried IT/Corporate,₹6L - ₹12L,True,0,+917398147976,Delhi NCR
+STU-1011,Nidhi,Koshy,Female,2018-10-06,CLS-01A,1,2024-03-07,Ishwar Koshy,Retail/Shopkeeper,> ₹25L,True,0,04634594166,Delhi NCR
+STU-1012,Hritik,Ganguly,Male,2018-04-09,CLS-01A,1,2024-04-19,Oscar Ganguly,Retail/Shopkeeper,₹6L - ₹12L,True,0,4052109383,Delhi NCR
+STU-1013,Champak,Oommen,Male,2018-07-19,CLS-01A,1,2024-04-19,Henry Oommen,Salaried IT/Corporate,₹3L - ₹6L,True,0,08904460041,Delhi NCR
+STU-1014,Vasudha,Trivedi,Female,2018-09-27,CLS-01A,1,2024-04-19,Advaith Trivedi,Government Service,₹3L - ₹6L,False,0,7236521922,Delhi NCR
+STU-1015,Viraj,Nagar,Male,2018-08-29,CLS-01A,1,2024-04-17,Tristan Nagar,Government Service,₹12L - ₹25L,True,0,02126694490,Delhi NCR
+STU-1016,Ekantika,Sani,Female,2018-08-06,CLS-01A,1,2024-04-03,Krishna Sani,Healthcare/Doctor,₹12L - ₹25L,True,0,+918960240058,Delhi NCR
+STU-1017,Amaira,Chacko,Female,2018-03-03,CLS-01A,1,2024-03-13,Girik Chacko,Business Owner,₹12L - ₹25L,True,0,4906248194,Delhi NCR
+STU-1018,Maanav,Kibe,Male,2018-08-17,CLS-01A,1,2024-03-04,Faras Kibe,Retail/Shopkeeper,> ₹25L,False,0,+917510082434,Delhi NCR
+STU-1019,Harshil,Brar,Male,2018-08-22,CLS-01A,1,2024-04-16,Farhan Brar,Retail/Shopkeeper,₹6L - ₹12L,False,0,+914356432724,Delhi NCR
+STU-1020,Daniel,Banerjee,Male,2018-01-26,CLS-01A,1,2024-03-16,Krish Banerjee,Government Service,₹3L - ₹6L,False,0,3566232142,Delhi NCR
+STU-1021,Anjali,Chowdhury,Female,2018-07-24,CLS-01A,1,2024-03-16,Lucky Chowdhury,Salaried IT/Corporate,₹3L - ₹6L,False,0,+916977353141,Delhi NCR
+STU-1022,Om,Gokhale,Male,2018-09-22,CLS-01A,1,2024-04-05,Zayyan Gokhale,Salaried IT/Corporate,< ₹3L,False,0,02455908098,Delhi NCR
+STU-1023,Amaira,Nazareth,Female,2018-12-27,CLS-01A,1,2024-04-28,Aryan Nazareth,Business Owner,₹3L - ₹6L,False,0,05148159198,Delhi NCR
+STU-1024,Neha,Morar,Female,2018-06-04,CLS-01A,1,2024-03-28,Wyatt Morar,Salaried IT/Corporate,₹12L - ₹25L,True,0,+916666481948,Delhi NCR
+STU-1025,Yamini,Virk,Female,2018-03-28,CLS-01A,1,2024-04-25,Rayaan Virk,Salaried IT/Corporate,₹6L - ₹12L,False,0,03554360268,Delhi NCR
+STU-1026,Jackson,Sastry,Male,2018-12-29,CLS-01A,1,2024-03-26,Samaksh Sastry,Business Owner,₹6L - ₹12L,False,0,7658111882,Delhi NCR
+STU-1027,Tripti,Bhattacharyya,Female,2018-04-27,CLS-01A,1,2024-04-21,Anirudh Bhattacharyya,Business Owner,₹12L - ₹25L,True,0,01763759424,Delhi NCR
+STU-1028,Wishi,Bhagat,Female,2018-04-20,CLS-01A,1,2024-03-08,Rayaan Bhagat,Government Service,₹3L - ₹6L,True,0,+918257077230,Delhi NCR
+STU-1029,Kabir,Pathak,Male,2018-08-17,CLS-01A,1,2024-03-23,Abhimanyu Pathak,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,+913929950576,Delhi NCR
+STU-1030,Sanaya,Anand,Female,2018-10-09,CLS-01A,1,2024-03-31,Max Anand,Salaried IT/Corporate,₹6L - ₹12L,False,0,04711024325,Delhi NCR
+STU-1031,Keya,Badami,Female,2018-08-30,CLS-01A,1,2024-04-27,Chandresh Badami,Salaried IT/Corporate,₹12L - ₹25L,True,0,9369234289,Delhi NCR
+STU-1032,Aarush,Saxena,Male,2018-07-20,CLS-01A,1,2024-03-01,Amol Saxena,Salaried IT/Corporate,₹6L - ₹12L,False,0,8658478515,Delhi NCR
+STU-1033,Varsha,Gandhi,Female,2018-10-31,CLS-01A,1,2024-03-18,Tanish Gandhi,Business Owner,> ₹25L,True,0,2929753086,Delhi NCR
+STU-1034,Rayaan,Walia,Male,2018-02-20,CLS-01A,1,2024-04-13,Dhruv Walia,Business Owner,₹6L - ₹12L,False,0,+914135799873,Delhi NCR
+STU-1035,Yashawini,Pillay,Female,2018-12-16,CLS-01A,1,2024-04-14,Jairaj Pillay,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,+910014844791,Delhi NCR
+STU-1036,Xalak,Dani,Female,2018-07-09,CLS-01A,1,2024-03-02,Charan Dani,Government Service,₹3L - ₹6L,False,0,+913946789417,Delhi NCR
+STU-1037,Ayush,Bath,Male,2018-06-30,CLS-01A,1,2024-04-04,Fariq Bath,Salaried IT/Corporate,₹3L - ₹6L,True,0,+913684769864,Delhi NCR
+STU-1038,Agastya,Tara,Male,2018-11-17,CLS-01B,1,2024-04-29,Jack Tara,Government Service,< ₹3L,False,25,05974067735,Delhi NCR
+STU-1039,Warinder,Manne,Male,2018-02-20,CLS-01B,1,2024-03-20,Aadi Manne,Government Service,₹3L - ₹6L,True,0,03613636678,Delhi NCR
+STU-1040,Dipta,Pandit,Female,2018-06-27,CLS-01B,1,2024-04-10,Mitesh Pandit,Business Owner,₹12L - ₹25L,True,0,3373120580,Delhi NCR
+STU-1041,Diya,Dewan,Female,2018-12-28,CLS-01B,1,2024-03-06,Ryan Dewan,Salaried IT/Corporate,₹12L - ₹25L,True,0,2568736257,Delhi NCR
+STU-1042,Yachana,Deshmukh,Female,2018-02-11,CLS-01B,1,2024-04-12,Praneel Deshmukh,Business Owner,₹3L - ₹6L,True,0,+914483147726,Delhi NCR
+STU-1043,Janaki,Kadakia,Female,2018-07-23,CLS-01B,1,2024-04-01,Yug Kadakia,Salaried IT/Corporate,> ₹25L,False,0,+919525722072,Delhi NCR
+STU-1044,Xalak,Kalita,Female,2018-08-06,CLS-01B,1,2024-04-26,Qasim Kalita,Salaried IT/Corporate,₹12L - ₹25L,True,0,2225883852,Delhi NCR
+STU-1045,Gunbir,Balasubramanian,Male,2018-07-06,CLS-01B,1,2024-03-13,Bachittar Balasubramanian,Business Owner,₹6L - ₹12L,False,0,0334166928,Delhi NCR
+STU-1046,Imaran,Suresh,Male,2018-01-08,CLS-01B,1,2024-03-10,Anirudh Suresh,Salaried IT/Corporate,₹12L - ₹25L,True,0,8018430394,Delhi NCR
+STU-1047,Vedant,Padmanabhan,Male,2018-06-10,CLS-01B,1,2024-03-04,Ishwar Padmanabhan,Retail/Shopkeeper,> ₹25L,True,0,06604868476,Delhi NCR
+STU-1048,Yashasvi,Hans,Female,2018-02-02,CLS-01B,1,2024-03-15,Logan Hans,Salaried IT/Corporate,₹12L - ₹25L,False,0,+912044637562,Delhi NCR
+STU-1049,Qarin,Mani,Male,2018-07-23,CLS-01B,1,2024-04-09,Mohammed Mani,Retail/Shopkeeper,₹12L - ₹25L,True,0,6454353655,Delhi NCR
+STU-1050,Jonathan,Dani,Male,2018-09-04,CLS-01B,1,2024-04-08,Parth Dani,Salaried IT/Corporate,> ₹25L,False,0,3286166050,Delhi NCR
+STU-1051,Ekavir,Nagarajan,Male,2018-02-23,CLS-01B,1,2024-03-22,Christopher Nagarajan,Government Service,₹6L - ₹12L,False,0,+916210822385,Delhi NCR
+STU-1052,Peter,Nadkarni,Male,2018-09-09,CLS-01B,1,2024-03-21,Logan Nadkarni,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,+911144685166,Delhi NCR
+STU-1053,Alka,Kar,Female,2018-01-26,CLS-01B,1,2024-03-20,Gabriel Kar,Business Owner,< ₹3L,True,0,5497097499,Delhi NCR
+STU-1054,Azaan,Chakraborty,Male,2018-03-16,CLS-01B,1,2024-03-16,Jason Chakraborty,Retail/Shopkeeper,₹6L - ₹12L,True,0,7205784269,Delhi NCR
+STU-1055,Ekaja,Sachdeva,Female,2018-11-01,CLS-01B,1,2024-04-04,Jeet Sachdeva,Salaried IT/Corporate,₹6L - ₹12L,True,0,+911317588710,Delhi NCR
+STU-1056,Pahal,Bains,Female,2018-11-05,CLS-01B,1,2024-04-29,Jackson Bains,Business Owner,₹6L - ₹12L,True,0,+912856827093,Delhi NCR
+STU-1057,Hemani,Devi,Female,2018-10-25,CLS-01B,1,2024-04-13,Abeer Devi,Business Owner,₹6L - ₹12L,False,0,9290215913,Delhi NCR
+STU-1058,Divya,Mall,Female,2018-05-15,CLS-01B,1,2024-03-09,Abdul Mall,Government Service,₹3L - ₹6L,False,0,5538989884,Delhi NCR
+STU-1059,Chatura,Sanghvi,Male,2018-12-04,CLS-01B,1,2024-04-05,Yatan Sanghvi,Business Owner,₹6L - ₹12L,True,0,07027372304,Delhi NCR
+STU-1060,Mason,Sanghvi,Male,2018-05-27,CLS-01B,1,2024-04-07,Kalpit Sanghvi,Business Owner,₹6L - ₹12L,True,0,03432398559,Delhi NCR
+STU-1061,Harshil,Chandran,Male,2018-10-03,CLS-01B,1,2024-03-18,Nihal Chandran,Salaried IT/Corporate,₹3L - ₹6L,True,0,07085506220,Delhi NCR
+STU-1062,Lipika,Keer,Female,2018-11-08,CLS-01B,1,2024-03-19,Rudra Keer,Salaried IT/Corporate,₹3L - ₹6L,False,0,03681690229,Delhi NCR
+STU-1063,Varsha,Bal,Female,2018-05-19,CLS-01B,1,2024-04-10,Nathaniel Bal,Government Service,> ₹25L,True,0,07880384424,Delhi NCR
+STU-1064,Upma,Mall,Female,2018-04-11,CLS-01B,1,2024-03-28,Yatan Mall,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,01766165865,Delhi NCR
+STU-1065,Anjali,Sahni,Female,2018-08-25,CLS-01B,1,2024-03-14,Nathaniel Sahni,Salaried IT/Corporate,₹3L - ₹6L,False,10,8333842010,Delhi NCR
+STU-1066,Abhiram,Dhar,Male,2018-08-08,CLS-01B,1,2024-04-04,Dalbir Dhar,Salaried IT/Corporate,₹3L - ₹6L,False,0,03408093493,Delhi NCR
+STU-1067,Abeer,Chacko,Male,2018-07-08,CLS-01B,1,2024-04-15,Elijah Chacko,Retail/Shopkeeper,₹3L - ₹6L,False,25,9764867237,Delhi NCR
+STU-1068,Akshay,Murthy,Male,2018-12-02,CLS-01B,1,2024-03-07,Jagat Murthy,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910702096053,Delhi NCR
+STU-1069,Hema,Oak,Female,2018-08-09,CLS-01B,1,2024-04-11,Chandresh Oak,Business Owner,₹6L - ₹12L,True,0,+914605951864,Delhi NCR
+STU-1070,William,Dixit,Male,2018-08-28,CLS-01B,1,2024-03-03,Saksham Dixit,Government Service,> ₹25L,True,0,1833527146,Delhi NCR
+STU-1071,Vrishti,Bal,Female,2018-06-14,CLS-01B,1,2024-03-31,Ethan Bal,Business Owner,₹12L - ₹25L,True,0,+916155452025,Delhi NCR
+STU-1072,Vihaan,Pillai,Male,2018-07-18,CLS-01B,1,2024-03-15,Warjas Pillai,Business Owner,< ₹3L,True,0,03061171520,Delhi NCR
+STU-1073,Ishita,Bava,Female,2018-05-08,CLS-01B,1,2024-04-10,Wridesh Bava,Salaried IT/Corporate,₹3L - ₹6L,True,25,3340321289,Delhi NCR
+STU-1074,Aachal,Dass,Female,2018-09-20,CLS-01C,1,2024-03-03,Mitesh Dass,Healthcare/Doctor,> ₹25L,False,0,01056165270,Delhi NCR
+STU-1075,Ekaraj,Sura,Male,2018-11-16,CLS-01C,1,2024-03-05,Imaran Sura,Salaried IT/Corporate,₹6L - ₹12L,False,0,5616384484,Delhi NCR
+STU-1076,Pavani,Balakrishnan,Female,2018-08-22,CLS-01C,1,2024-03-22,Ikbal Balakrishnan,Healthcare/Doctor,₹12L - ₹25L,False,0,9179695010,Delhi NCR
+STU-1077,Indrajit,Pandya,Male,2018-08-03,CLS-01C,1,2024-04-05,Vivaan Pandya,Business Owner,₹6L - ₹12L,True,0,05684884084,Delhi NCR
+STU-1078,Leela,Mistry,Female,2018-09-05,CLS-01C,1,2024-03-27,Caleb Mistry,Healthcare/Doctor,₹3L - ₹6L,False,0,08325183280,Delhi NCR
+STU-1079,Dipta,Gera,Female,2018-08-18,CLS-01C,1,2024-03-18,Jeremiah Gera,Salaried IT/Corporate,₹12L - ₹25L,True,0,+912525741996,Delhi NCR
+STU-1080,Charles,Khosla,Male,2018-03-17,CLS-01C,1,2024-03-04,Rayaan Khosla,Salaried IT/Corporate,₹3L - ₹6L,False,0,00725994526,Delhi NCR
+STU-1081,Avni,Samra,Female,2018-10-19,CLS-01C,1,2024-04-16,Chaitanya Samra,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,+919066803363,Delhi NCR
+STU-1082,Fariq,Palla,Male,2018-10-10,CLS-01C,1,2024-03-26,Onkar Palla,Salaried IT/Corporate,> ₹25L,False,0,+911210721144,Delhi NCR
+STU-1083,Timothy,Uppal,Male,2018-03-26,CLS-01C,1,2024-03-08,Mohammed Uppal,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916221211180,Delhi NCR
+STU-1084,Jatin,Agrawal,Male,2018-03-26,CLS-01C,1,2024-03-07,Jason Agrawal,Salaried IT/Corporate,> ₹25L,True,0,+914771949103,Delhi NCR
+STU-1085,Krishna,Deo,Male,2018-08-04,CLS-01C,1,2024-04-25,Laksh Deo,Salaried IT/Corporate,₹6L - ₹12L,True,0,+913421319757,Delhi NCR
+STU-1086,Ethan,Narayanan,Male,2018-06-17,CLS-01C,1,2024-04-29,David Narayanan,Government Service,< ₹3L,True,50,6429377679,Delhi NCR
+STU-1087,Yutika,Srinivas,Female,2018-04-07,CLS-01C,1,2024-03-14,Mitesh Srinivas,Salaried IT/Corporate,₹3L - ₹6L,False,0,1458233681,Delhi NCR
+STU-1088,Meghana,Agarwal,Female,2018-12-01,CLS-01C,1,2024-03-30,Aditya Agarwal,Salaried IT/Corporate,₹6L - ₹12L,False,0,07387145790,Delhi NCR
+STU-1089,Dayita,Wason,Female,2018-09-23,CLS-01C,1,2024-04-02,Hemang Wason,Government Service,₹12L - ₹25L,False,0,1496360704,Delhi NCR
+STU-1090,Zashil,Sidhu,Male,2018-06-06,CLS-01C,1,2024-03-23,Frado Sidhu,Salaried IT/Corporate,₹12L - ₹25L,True,0,6254223564,Delhi NCR
+STU-1091,Luke,Mukhopadhyay,Male,2018-08-29,CLS-01C,1,2024-04-25,Bahadurjit Mukhopadhyay,Government Service,₹6L - ₹12L,False,0,5159974389,Delhi NCR
+STU-1092,Balendra,Gaba,Male,2018-07-11,CLS-01C,1,2024-03-30,Vihaan Gaba,Business Owner,₹6L - ₹12L,True,0,9219754862,Delhi NCR
+STU-1093,Amaira,Master,Female,2018-06-24,CLS-01C,1,2024-03-17,Hredhaan Master,Government Service,₹3L - ₹6L,True,0,+913717593333,Delhi NCR
+STU-1094,Sara,Kant,Female,2018-05-02,CLS-01C,1,2024-03-09,Jeet Kant,Government Service,₹12L - ₹25L,True,0,07305593171,Delhi NCR
+STU-1095,Ati,Joshi,Female,2018-12-16,CLS-01C,1,2024-04-16,Chatresh Joshi,Salaried IT/Corporate,₹3L - ₹6L,True,0,01886080501,Delhi NCR
+STU-1096,Manthan,Sami,Male,2018-10-14,CLS-01C,1,2024-04-18,Logan Sami,Business Owner,₹12L - ₹25L,False,0,08365785315,Delhi NCR
+STU-1097,Guneet,Hayer,Male,2018-07-06,CLS-01C,1,2024-04-12,Gavin Hayer,Government Service,₹3L - ₹6L,False,10,+911453191643,Delhi NCR
+STU-1098,Udarsh,Chanda,Male,2018-01-02,CLS-01C,1,2024-03-19,Udarsh Chanda,Government Service,₹12L - ₹25L,False,0,4623033271,Delhi NCR
+STU-1099,Nakul,Jha,Male,2018-06-30,CLS-01C,1,2024-03-27,Harish Jha,Retail/Shopkeeper,₹3L - ₹6L,False,0,4486609367,Delhi NCR
+STU-1100,Barkha,Kurian,Female,2018-03-26,CLS-01C,1,2024-04-15,Hritik Kurian,Business Owner,> ₹25L,False,0,+913120951448,Delhi NCR
+STU-1101,Nidra,Borde,Female,2018-06-10,CLS-01C,1,2024-04-22,Udarsh Borde,Business Owner,₹6L - ₹12L,False,0,4341846319,Delhi NCR
+STU-1102,Rachana,Chana,Female,2018-11-22,CLS-01C,1,2024-04-11,Nathaniel Chana,Business Owner,₹6L - ₹12L,False,0,2752913512,Delhi NCR
+STU-1103,Anjali,Hayre,Female,2018-12-30,CLS-01C,1,2024-03-04,Bahadurjit Hayre,Salaried IT/Corporate,₹12L - ₹25L,False,0,+916200970226,Delhi NCR
+STU-1104,Anamika,Pant,Female,2018-11-25,CLS-01C,1,2024-04-01,Neel Pant,Salaried IT/Corporate,₹3L - ₹6L,False,0,+911793813966,Delhi NCR
+STU-1105,Warinder,Balay,Male,2018-08-03,CLS-01C,1,2024-04-27,Tanish Balay,Salaried IT/Corporate,₹12L - ₹25L,True,0,02299813228,Delhi NCR
+STU-1106,Jatin,Choudhry,Male,2018-04-14,CLS-01C,1,2024-03-20,Abeer Choudhry,Government Service,₹6L - ₹12L,True,0,+912194044784,Delhi NCR
+STU-1107,Raghav,Kala,Male,2017-10-22,CLS-02A,2,2023-03-28,Wriddhish Kala,Business Owner,₹6L - ₹12L,True,0,+916455948789,Delhi NCR
+STU-1108,Bimala,Seth,Female,2017-08-16,CLS-02A,2,2023-04-22,Elijah Seth,Healthcare/Doctor,₹3L - ₹6L,True,0,3728008726,Delhi NCR
+STU-1109,Vyanjana,Rege,Female,2017-07-10,CLS-02A,2,2023-03-19,Abhimanyu Rege,Business Owner,₹12L - ₹25L,True,0,0396017257,Delhi NCR
+STU-1110,Sanaya,Gala,Female,2017-05-31,CLS-02A,2,2023-03-27,Akshay Gala,Business Owner,₹3L - ₹6L,False,0,8117306452,Delhi NCR
+STU-1111,Qushi,Ben,Female,2017-05-10,CLS-02A,2,2023-03-07,Chanakya Ben,Healthcare/Doctor,₹6L - ₹12L,True,0,04009766405,Delhi NCR
+STU-1112,Zehaan,Vasa,Male,2017-01-19,CLS-02A,2,2023-03-28,Victor Vasa,Business Owner,₹3L - ₹6L,False,0,6058588775,Delhi NCR
+STU-1113,Ucchal,Prakash,Female,2017-03-09,CLS-02A,2,2023-03-26,Noah Prakash,Retail/Shopkeeper,₹12L - ₹25L,True,0,+915127697792,Delhi NCR
+STU-1114,Adweta,Verma,Female,2017-07-27,CLS-02A,2,2023-03-16,Laksh Verma,Government Service,₹6L - ₹12L,True,0,+914539153523,Delhi NCR
+STU-1115,Chavvi,Garde,Female,2017-11-24,CLS-02A,2,2023-04-29,Yagnesh Garde,Business Owner,₹3L - ₹6L,False,25,+917114303061,Delhi NCR
+STU-1116,Shivansh,Bera,Male,2017-12-19,CLS-02A,2,2023-03-02,Gopal Bera,Healthcare/Doctor,₹3L - ₹6L,False,0,2879526151,Delhi NCR
+STU-1117,Isaiah,Hayer,Male,2017-01-29,CLS-02A,2,2023-04-29,Maanav Hayer,Salaried IT/Corporate,< ₹3L,False,0,07505659139,Delhi NCR
+STU-1118,Abdul,Kumer,Male,2017-06-19,CLS-02A,2,2023-03-06,Champak Kumer,Driver/Daily Wage Worker,< ₹3L,True,25,7282701469,Delhi NCR
+STU-1119,Azaan,Bakshi,Male,2017-06-21,CLS-02A,2,2023-04-29,Vedant Bakshi,Salaried IT/Corporate,< ₹3L,True,100,1816398866,Delhi NCR
+STU-1120,Jyoti,Thakkar,Female,2017-03-25,CLS-02A,2,2023-03-13,Balhaar Thakkar,Government Service,₹3L - ₹6L,True,0,0299517859,Delhi NCR
+STU-1121,Yashvi,Bains,Female,2017-08-08,CLS-02A,2,2023-03-21,Anmol Bains,Government Service,> ₹25L,True,0,04782075856,Delhi NCR
+STU-1122,Ekantika,Jain,Female,2017-10-07,CLS-02A,2,2023-03-19,Azaan Jain,Salaried IT/Corporate,< ₹3L,False,100,+911100297402,Delhi NCR
+STU-1123,Advaith,Chad,Male,2017-02-10,CLS-02A,2,2023-04-29,Hritik Chad,Salaried IT/Corporate,₹6L - ₹12L,True,0,7552750364,Delhi NCR
+STU-1124,Gopal,Cheema,Male,2017-09-05,CLS-02A,2,2023-04-28,Oscar Cheema,Retail/Shopkeeper,₹12L - ₹25L,True,0,2238117379,Delhi NCR
+STU-1125,Charvi,Rastogi,Female,2017-10-07,CLS-02A,2,2023-03-16,Jagat Rastogi,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916578061232,Delhi NCR
+STU-1126,Edhitha,Dash,Female,2017-07-12,CLS-02A,2,2023-04-21,Gabriel Dash,Government Service,< ₹3L,False,50,3773962339,Delhi NCR
+STU-1127,Arin,Sood,Male,2017-09-13,CLS-02A,2,2023-04-17,Zayyan Sood,Government Service,> ₹25L,False,0,02449016627,Delhi NCR
+STU-1128,Eshana,Varughese,Female,2017-04-16,CLS-02A,2,2023-04-16,Wriddhish Varughese,Government Service,₹6L - ₹12L,False,0,07713711335,Delhi NCR
+STU-1129,Janya,Bhakta,Female,2017-03-08,CLS-02A,2,2023-03-21,Atharv Bhakta,Healthcare/Doctor,₹12L - ₹25L,False,0,06757895507,Delhi NCR
+STU-1130,Gagan,Anne,Male,2017-08-19,CLS-02A,2,2023-04-04,Hardik Anne,Salaried IT/Corporate,₹6L - ₹12L,True,0,05065750517,Delhi NCR
+STU-1131,Ekiya,Bawa,Female,2017-12-22,CLS-02A,2,2023-03-18,Balveer Bawa,Retail/Shopkeeper,< ₹3L,False,50,4918726167,Delhi NCR
+STU-1132,Chaitanya,Grewal,Male,2017-03-03,CLS-02A,2,2023-04-22,Wazir Grewal,Salaried IT/Corporate,₹6L - ₹12L,False,0,+918850427064,Delhi NCR
+STU-1133,Nakul,Mitra,Male,2017-04-25,CLS-02A,2,2023-03-16,Krishna Mitra,Salaried IT/Corporate,₹12L - ₹25L,False,0,7434906068,Delhi NCR
+STU-1134,Lopa,Ramanathan,Female,2017-03-22,CLS-02A,2,2023-04-03,Harsh Ramanathan,Salaried IT/Corporate,₹6L - ₹12L,True,0,+919369994095,Delhi NCR
+STU-1135,Dalaja,Garg,Female,2017-10-10,CLS-02A,2,2023-04-17,Isaiah Garg,Healthcare/Doctor,₹6L - ₹12L,False,0,00889147584,Delhi NCR
+STU-1136,Meera,Sawhney,Female,2017-12-10,CLS-02A,2,2023-04-27,Samaksh Sawhney,Healthcare/Doctor,₹6L - ₹12L,True,0,02168815780,Delhi NCR
+STU-1137,Abdul,Contractor,Male,2017-06-30,CLS-02A,2,2023-03-18,Faqid Contractor,Salaried IT/Corporate,₹6L - ₹12L,False,0,6342447352,Delhi NCR
+STU-1138,Aadi,Dhaliwal,Male,2017-09-13,CLS-02A,2,2023-04-22,Ryan Dhaliwal,Business Owner,₹6L - ₹12L,False,0,6782744594,Delhi NCR
+STU-1139,Karan,Ratti,Male,2017-06-26,CLS-02A,2,2023-04-23,Quincy Ratti,Salaried IT/Corporate,₹6L - ₹12L,True,0,+910993948606,Delhi NCR
+STU-1140,Tanveer,Bansal,Male,2017-05-05,CLS-02A,2,2023-03-21,Owen Bansal,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910130216945,Delhi NCR
+STU-1141,Frado,Dewan,Male,2017-06-14,CLS-02A,2,2023-03-11,Maanav Dewan,Salaried IT/Corporate,₹6L - ₹12L,False,0,06364610909,Delhi NCR
+STU-1142,Vinaya,Pandey,Female,2017-06-08,CLS-02B,2,2023-04-11,Nicholas Pandey,Business Owner,₹3L - ₹6L,True,0,3758828487,Delhi NCR
+STU-1143,Chandran,Modi,Male,2017-02-17,CLS-02B,2,2023-03-18,Samarth Modi,Business Owner,> ₹25L,True,0,03328389994,Delhi NCR
+STU-1144,Ekiya,Varghese,Female,2017-11-30,CLS-02B,2,2023-03-15,Girish Varghese,Salaried IT/Corporate,₹12L - ₹25L,True,0,02777991326,Delhi NCR
+STU-1145,Indali,Nayar,Female,2017-06-17,CLS-02B,2,2023-03-08,Maanas Nayar,Business Owner,₹6L - ₹12L,True,0,9808102761,Delhi NCR
+STU-1146,Lajita,Sane,Female,2017-01-14,CLS-02B,2,2023-03-03,Nathan Sane,Retail/Shopkeeper,₹3L - ₹6L,False,10,+911040778685,Delhi NCR
+STU-1147,Max,Nagy,Male,2017-05-01,CLS-02B,2,2023-04-10,Falan Nagy,Government Service,₹6L - ₹12L,True,0,01504598419,Delhi NCR
+STU-1148,Chandran,Balakrishnan,Male,2017-05-18,CLS-02B,2,2023-04-09,Dakshesh Balakrishnan,Salaried IT/Corporate,₹6L - ₹12L,True,0,02600777991,Delhi NCR
+STU-1149,Chandresh,Agrawal,Male,2017-02-15,CLS-02B,2,2023-04-11,Jagdish Agrawal,Government Service,₹12L - ₹25L,True,0,+917329882352,Delhi NCR
+STU-1150,Jyoti,Ram,Female,2017-08-13,CLS-02B,2,2023-04-07,Yatan Ram,Retail/Shopkeeper,₹3L - ₹6L,False,0,9196527514,Delhi NCR
+STU-1151,Tarak,Bajwa,Male,2017-04-13,CLS-02B,2,2023-04-13,Gunbir Bajwa,Government Service,₹6L - ₹12L,True,0,5193298556,Delhi NCR
+STU-1152,Chanchal,Jhaveri,Female,2017-07-10,CLS-02B,2,2023-04-25,Chandran Jhaveri,Salaried IT/Corporate,₹3L - ₹6L,True,0,+912002152504,Delhi NCR
+STU-1153,Victor,Contractor,Male,2017-07-20,CLS-02B,2,2023-03-20,Logan Contractor,Salaried IT/Corporate,₹6L - ₹12L,False,0,9609225488,Delhi NCR
+STU-1154,Frado,Arora,Male,2017-05-04,CLS-02B,2,2023-03-13,Abhiram Arora,Salaried IT/Corporate,₹6L - ₹12L,True,0,0730146184,Delhi NCR
+STU-1155,Aarush,Sridhar,Male,2017-04-29,CLS-02B,2,2023-03-06,Jatin Sridhar,Retail/Shopkeeper,₹3L - ₹6L,False,10,07318434923,Delhi NCR
+STU-1156,Anita,Chana,Female,2017-07-12,CLS-02B,2,2023-03-23,Harshil Chana,Government Service,₹6L - ₹12L,True,0,04454917267,Delhi NCR
+STU-1157,Hemang,Shere,Male,2017-12-12,CLS-02B,2,2023-03-26,Nachiket Shere,Government Service,₹6L - ₹12L,False,0,5285811571,Delhi NCR
+STU-1158,Harini,Ghose,Female,2017-12-23,CLS-02B,2,2023-03-04,Laban Ghose,Salaried IT/Corporate,< ₹3L,False,100,4314042543,Delhi NCR
+STU-1159,Shivansh,Mitra,Male,2017-01-15,CLS-02B,2,2023-04-07,Harish Mitra,Salaried IT/Corporate,₹6L - ₹12L,False,0,00509317422,Delhi NCR
+STU-1160,Chameli,Bajwa,Female,2017-12-24,CLS-02B,2,2023-04-26,Darsh Bajwa,Business Owner,₹6L - ₹12L,True,0,06065443246,Delhi NCR
+STU-1161,Chameli,Lata,Female,2017-07-11,CLS-02B,2,2023-03-28,Tanveer Lata,Government Service,₹12L - ₹25L,False,0,+915337077488,Delhi NCR
+STU-1162,Guneet,Sunder,Male,2017-11-28,CLS-02B,2,2023-04-04,Fitan Sunder,Government Service,₹3L - ₹6L,True,0,+917382546966,Delhi NCR
+STU-1163,Sneha,Jani,Female,2017-01-29,CLS-02B,2,2023-04-15,Rishi Jani,Salaried IT/Corporate,₹6L - ₹12L,True,0,5944095617,Delhi NCR
+STU-1164,Maya,Narasimhan,Female,2017-10-24,CLS-02B,2,2023-04-06,Ekansh Narasimhan,Business Owner,₹3L - ₹6L,False,0,+910975848283,Delhi NCR
+STU-1165,Ayush,Bhavsar,Male,2017-03-05,CLS-02B,2,2023-04-05,Samaksh Bhavsar,Government Service,₹6L - ₹12L,False,0,+914909205764,Delhi NCR
+STU-1166,Nitara,Sharaf,Female,2017-04-11,CLS-02B,2,2023-03-14,Arjun Sharaf,Business Owner,₹6L - ₹12L,False,0,2994096206,Delhi NCR
+STU-1167,Janya,Divan,Female,2017-09-30,CLS-02B,2,2023-03-10,Gagan Divan,Salaried IT/Corporate,₹12L - ₹25L,False,0,00277575763,Delhi NCR
+STU-1168,Sathvik,Bhalla,Male,2017-06-25,CLS-02B,2,2023-04-16,Chakradev Bhalla,Healthcare/Doctor,> ₹25L,True,0,08685304771,Delhi NCR
+STU-1169,Harshil,Desai,Male,2017-12-19,CLS-02B,2,2023-03-31,Owen Desai,Salaried IT/Corporate,₹3L - ₹6L,False,0,3726967555,Delhi NCR
+STU-1170,Pallavi,Yadav,Female,2017-09-18,CLS-02B,2,2023-03-14,Patrick Yadav,Salaried IT/Corporate,₹12L - ₹25L,False,0,04812909230,Delhi NCR
+STU-1171,Sathvik,Karan,Male,2017-03-14,CLS-02B,2,2023-03-08,Atharv Karan,Business Owner,₹3L - ₹6L,False,0,9365643552,Delhi NCR
+STU-1172,Maya,Dani,Female,2017-04-20,CLS-02B,2,2023-04-13,Finn Dani,Business Owner,₹3L - ₹6L,False,0,+914075717907,Delhi NCR
+STU-1173,Yachana,Bahl,Female,2017-07-19,CLS-02B,2,2023-03-27,Ishwar Bahl,Salaried IT/Corporate,₹6L - ₹12L,True,0,6916546857,Delhi NCR
+STU-1174,Aayush,Balan,Male,2017-10-24,CLS-02C,2,2023-03-25,Joshua Balan,Business Owner,₹6L - ₹12L,True,0,0776411445,Delhi NCR
+STU-1175,Hredhaan,Konda,Male,2017-09-21,CLS-02C,2,2023-03-30,Dhruv Konda,Salaried IT/Corporate,₹12L - ₹25L,True,0,+915660926279,Delhi NCR
+STU-1176,Vamakshi,Pau,Female,2017-10-18,CLS-02C,2,2023-04-25,Yatan Pau,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,06438112572,Delhi NCR
+STU-1177,Wridesh,Kaul,Male,2017-08-28,CLS-02C,2,2023-03-03,Chatura Kaul,Business Owner,₹6L - ₹12L,False,0,3289085674,Delhi NCR
+STU-1178,Bhanumati,Krishnamurthy,Female,2017-05-24,CLS-02C,2,2023-04-17,Nicholas Krishnamurthy,Retail/Shopkeeper,₹3L - ₹6L,True,0,+914140556150,Delhi NCR
+STU-1179,Warda,Rana,Female,2017-08-29,CLS-02C,2,2023-04-21,Manthan Rana,Healthcare/Doctor,₹3L - ₹6L,False,0,07206755940,Delhi NCR
+STU-1180,Ekta,Koshy,Female,2017-03-24,CLS-02C,2,2023-04-08,Daniel Koshy,Salaried IT/Corporate,₹3L - ₹6L,False,0,5725093821,Delhi NCR
+STU-1181,Niharika,Walla,Female,2017-03-30,CLS-02C,2,2023-03-18,Christopher Walla,Business Owner,₹6L - ₹12L,False,0,00889628710,Delhi NCR
+STU-1182,Mugdha,Anand,Female,2017-01-28,CLS-02C,2,2023-04-02,Rohan Anand,Business Owner,₹6L - ₹12L,False,0,08831178670,Delhi NCR
+STU-1183,Dayamai,Rastogi,Female,2017-12-11,CLS-02C,2,2023-04-19,Omkaar Rastogi,Salaried IT/Corporate,> ₹25L,False,0,8567761484,Delhi NCR
+STU-1184,Wazir,Date,Male,2017-05-14,CLS-02C,2,2023-03-08,Rohan Date,Salaried IT/Corporate,₹12L - ₹25L,False,0,8478061409,Delhi NCR
+STU-1185,Panini,Manda,Female,2017-01-09,CLS-02C,2,2023-04-20,Krish Manda,Business Owner,₹12L - ₹25L,True,0,9722137329,Delhi NCR
+STU-1186,David,Khurana,Male,2017-01-20,CLS-02C,2,2023-04-04,Hardik Khurana,Business Owner,< ₹3L,True,0,2015495061,Delhi NCR
+STU-1187,Yutika,Panchal,Female,2017-03-20,CLS-02C,2,2023-03-09,Jatin Panchal,Business Owner,₹6L - ₹12L,False,0,1625915019,Delhi NCR
+STU-1188,Lohit,Bath,Male,2017-02-03,CLS-02C,2,2023-04-24,Amol Bath,Retail/Shopkeeper,₹3L - ₹6L,True,0,00553058296,Delhi NCR
+STU-1189,Ryan,Morar,Male,2017-08-21,CLS-02C,2,2023-04-12,Sarthak Morar,Salaried IT/Corporate,> ₹25L,False,0,00380202848,Delhi NCR
+STU-1190,Omya,Raman,Female,2017-07-21,CLS-02C,2,2023-03-26,Matthew Raman,Retail/Shopkeeper,₹12L - ₹25L,False,0,03567917428,Delhi NCR
+STU-1191,Aashi,Tak,Female,2017-03-10,CLS-02C,2,2023-04-23,Udant Tak,Retail/Shopkeeper,₹6L - ₹12L,False,0,8379165345,Delhi NCR
+STU-1192,Vrinda,Raj,Female,2017-12-23,CLS-02C,2,2023-04-16,Simon Raj,Salaried IT/Corporate,< ₹3L,False,0,+918268157434,Delhi NCR
+STU-1193,Zilmil,Sarraf,Female,2017-03-27,CLS-02C,2,2023-04-26,Amol Sarraf,Business Owner,₹6L - ₹12L,True,0,07097081786,Delhi NCR
+STU-1194,Netra,Bala,Female,2017-05-25,CLS-02C,2,2023-03-21,Onveer Bala,Salaried IT/Corporate,₹6L - ₹12L,True,0,5369642320,Delhi NCR
+STU-1195,Leela,Venkataraman,Female,2017-08-01,CLS-02C,2,2023-04-10,Dakshesh Venkataraman,Salaried IT/Corporate,₹12L - ₹25L,True,0,1332565126,Delhi NCR
+STU-1196,Tarak,Mohan,Male,2017-09-18,CLS-02C,2,2023-03-11,Kiaan Mohan,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910571198458,Delhi NCR
+STU-1197,Gabriel,Saxena,Male,2017-05-13,CLS-02C,2,2023-03-10,Ranveer Saxena,Retail/Shopkeeper,< ₹3L,True,0,+919551642583,Delhi NCR
+STU-1198,Jai,Sarna,Male,2017-08-25,CLS-02C,2,2023-03-20,Dominic Sarna,Salaried IT/Corporate,₹6L - ₹12L,False,0,09895160045,Delhi NCR
+STU-1199,Lohit,Dhaliwal,Male,2017-05-02,CLS-02C,2,2023-04-22,Pratyush Dhaliwal,Retail/Shopkeeper,₹6L - ₹12L,False,0,08756405110,Delhi NCR
+STU-1200,Dhriti,Vohra,Female,2017-05-20,CLS-02C,2,2023-04-08,Ikbal Vohra,Salaried IT/Corporate,₹6L - ₹12L,False,0,00085211395,Delhi NCR
+STU-1201,Ekiya,Banerjee,Female,2017-11-18,CLS-02C,2,2023-03-26,Chakradhar Banerjee,Salaried IT/Corporate,> ₹25L,False,0,8564539519,Delhi NCR
+STU-1202,Vanya,Gole,Female,2017-03-23,CLS-02C,2,2023-03-08,Jack Gole,Salaried IT/Corporate,₹6L - ₹12L,False,0,07480886005,Delhi NCR
+STU-1203,Bishakha,Chahal,Female,2017-12-22,CLS-02C,2,2023-03-29,Akshay Chahal,Business Owner,< ₹3L,False,50,08898768915,Delhi NCR
+STU-1204,Thomas,Rajagopalan,Male,2017-09-28,CLS-02C,2,2023-03-09,Wahab Rajagopalan,Business Owner,₹12L - ₹25L,True,0,9229758065,Delhi NCR
+STU-1205,Eiravati,Bhattacharyya,Female,2017-10-11,CLS-02C,2,2023-04-25,Nachiket Bhattacharyya,Government Service,₹6L - ₹12L,True,0,6235058427,Delhi NCR
+STU-1206,Damyanti,Shetty,Female,2017-09-11,CLS-02C,2,2023-03-03,Daksh Shetty,Retail/Shopkeeper,₹6L - ₹12L,False,0,07086096476,Delhi NCR
+STU-1207,Raksha,Sen,Female,2017-08-24,CLS-02C,2,2023-03-03,Matthew Sen,Healthcare/Doctor,₹3L - ₹6L,True,0,04234126971,Delhi NCR
+STU-1208,Vedhika,Edwin,Female,2017-12-05,CLS-02C,2,2023-03-04,Ekavir Edwin,Government Service,₹6L - ₹12L,True,0,+918268963140,Delhi NCR
+STU-1209,Aahana,Thakur,Female,2017-04-06,CLS-02C,2,2023-03-07,Wyatt Thakur,Government Service,₹12L - ₹25L,False,0,04558835298,Delhi NCR
+STU-1210,Bhavika,Tripathi,Female,2017-03-31,CLS-02C,2,2023-04-10,Advay Tripathi,Business Owner,< ₹3L,False,50,01537285351,Delhi NCR
+STU-1211,Viraj,Thakkar,Male,2016-02-17,CLS-03A,3,2022-03-08,Lucky Thakkar,Healthcare/Doctor,₹3L - ₹6L,False,0,+918217832939,Delhi NCR
+STU-1212,Ishanvi,Padmanabhan,Female,2016-12-14,CLS-03A,3,2022-04-20,Faris Padmanabhan,Retail/Shopkeeper,₹12L - ₹25L,False,0,2656973969,Delhi NCR
+STU-1213,Ojasvi,Chopra,Female,2016-02-04,CLS-03A,3,2022-04-01,Anay Chopra,Driver/Daily Wage Worker,> ₹25L,False,0,05600463180,Delhi NCR
+STU-1214,Upma,Arya,Female,2016-03-08,CLS-03A,3,2022-04-29,Nathaniel Arya,Salaried IT/Corporate,₹3L - ₹6L,True,0,6437335086,Delhi NCR
+STU-1215,Eiravati,Varma,Female,2016-05-07,CLS-03A,3,2022-04-05,William Varma,Government Service,₹3L - ₹6L,False,0,+918489910404,Delhi NCR
+STU-1216,Mahika,Baria,Female,2016-12-03,CLS-03A,3,2022-03-02,Qarin Baria,Business Owner,₹12L - ₹25L,False,0,6631414419,Delhi NCR
+STU-1217,Ojas,Sharma,Male,2016-10-01,CLS-03A,3,2022-04-23,Fiyaz Sharma,Business Owner,₹6L - ₹12L,False,0,3120293187,Delhi NCR
+STU-1218,Yashawini,Gola,Female,2016-01-16,CLS-03A,3,2022-04-10,Siddharth Gola,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,6586014162,Delhi NCR
+STU-1219,Radha,Panchal,Female,2016-08-11,CLS-03A,3,2022-03-24,Zayan Panchal,Government Service,₹6L - ₹12L,False,0,+913728058017,Delhi NCR
+STU-1220,Vedhika,Sandhu,Female,2016-04-29,CLS-03A,3,2022-04-11,Gautam Sandhu,Salaried IT/Corporate,₹3L - ₹6L,False,0,+911495991557,Delhi NCR
+STU-1221,Brinda,Salvi,Female,2016-08-15,CLS-03A,3,2022-04-04,Xavier Salvi,Salaried IT/Corporate,< ₹3L,True,50,+916106089568,Delhi NCR
+STU-1222,Naksh,Mand,Male,2016-03-28,CLS-03A,3,2022-04-02,Shivansh Mand,Salaried IT/Corporate,₹12L - ₹25L,False,0,1618107988,Delhi NCR
+STU-1223,Robert,Nagy,Male,2016-05-23,CLS-03A,3,2022-03-31,Agastya Nagy,Government Service,> ₹25L,False,0,0012618538,Delhi NCR
+STU-1224,Lavanya,Keer,Female,2016-02-18,CLS-03A,3,2022-04-03,Nathaniel Keer,Retail/Shopkeeper,₹6L - ₹12L,True,0,+918942145392,Delhi NCR
+STU-1225,Darika,Saraf,Female,2016-07-08,CLS-03A,3,2022-04-15,Neel Saraf,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,1216622549,Delhi NCR
+STU-1226,Aditya,Sami,Male,2016-02-29,CLS-03A,3,2022-04-04,Hredhaan Sami,Business Owner,₹3L - ₹6L,False,0,7705165507,Delhi NCR
+STU-1227,Lakshit,Patla,Male,2016-08-30,CLS-03A,3,2022-04-24,Hitesh Patla,Business Owner,₹6L - ₹12L,False,0,+913102065896,Delhi NCR
+STU-1228,Abeer,Palla,Male,2016-02-04,CLS-03A,3,2022-03-07,Jatin Palla,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,04691687901,Delhi NCR
+STU-1229,Arin,Dasgupta,Male,2016-04-17,CLS-03A,3,2022-03-04,Vihaan Dasgupta,Government Service,₹3L - ₹6L,True,0,+916699696318,Delhi NCR
+STU-1230,Eta,Natt,Female,2016-10-01,CLS-03A,3,2022-03-08,Yatan Natt,Salaried IT/Corporate,₹3L - ₹6L,True,0,+912220640510,Delhi NCR
+STU-1231,Nirja,Aggarwal,Female,2016-06-24,CLS-03A,3,2022-04-19,Jeet Aggarwal,Business Owner,₹6L - ₹12L,True,0,+918127884676,Delhi NCR
+STU-1232,Wahab,Bassi,Male,2016-08-22,CLS-03A,3,2022-04-20,Harish Bassi,Retail/Shopkeeper,₹3L - ₹6L,True,10,4313823050,Delhi NCR
+STU-1233,Ladli,Kota,Female,2016-12-26,CLS-03A,3,2022-04-28,Rishi Kota,Salaried IT/Corporate,₹12L - ₹25L,True,0,+915444884870,Delhi NCR
+STU-1234,Ayushman,Prabhakar,Male,2016-03-11,CLS-03A,3,2022-03-07,Ekansh Prabhakar,Healthcare/Doctor,₹3L - ₹6L,True,0,07677475174,Delhi NCR
+STU-1235,Sarthak,Sarma,Male,2016-03-10,CLS-03A,3,2022-04-03,Dev Sarma,Government Service,< ₹3L,True,0,03950737023,Delhi NCR
+STU-1236,Benjamin,Kata,Male,2016-01-30,CLS-03A,3,2022-03-31,Christopher Kata,Business Owner,₹12L - ₹25L,True,0,+913918620094,Delhi NCR
+STU-1237,Ekansh,Khare,Male,2016-06-06,CLS-03A,3,2022-03-12,Max Khare,Government Service,₹3L - ₹6L,False,0,5368277063,Delhi NCR
+STU-1238,Rehaan,Bhavsar,Male,2016-02-25,CLS-03A,3,2022-03-23,Krish Bhavsar,Salaried IT/Corporate,> ₹25L,False,0,0305543364,Delhi NCR
+STU-1239,Waida,Dhingra,Female,2016-05-15,CLS-03A,3,2022-03-18,Ansh Dhingra,Salaried IT/Corporate,₹6L - ₹12L,False,0,+917809370043,Delhi NCR
+STU-1240,Raghav,Chandra,Male,2016-11-30,CLS-03A,3,2022-04-18,Manthan Chandra,Government Service,< ₹3L,False,50,+919054139366,Delhi NCR
+STU-1241,Patrick,Kala,Male,2016-05-10,CLS-03A,3,2022-03-08,Faqid Kala,Salaried IT/Corporate,₹6L - ₹12L,False,0,05746215512,Delhi NCR
+STU-1242,Udarsh,Tiwari,Male,2016-01-15,CLS-03A,3,2022-03-30,Ekbal Tiwari,Retail/Shopkeeper,₹6L - ₹12L,True,0,+913195962742,Delhi NCR
+STU-1243,Kalpit,Shere,Male,2016-10-26,CLS-03A,3,2022-04-17,Abdul Shere,Business Owner,₹12L - ₹25L,False,0,+918023146514,Delhi NCR
+STU-1244,Samarth,Dugar,Male,2016-11-21,CLS-03A,3,2022-04-28,Pratyush Dugar,Salaried IT/Corporate,₹6L - ₹12L,False,0,05689353025,Delhi NCR
+STU-1245,Yutika,Keer,Female,2016-07-16,CLS-03A,3,2022-03-23,Abdul Keer,Salaried IT/Corporate,₹3L - ₹6L,True,0,9975953220,Delhi NCR
+STU-1246,Vivaan,Vora,Male,2016-04-30,CLS-03A,3,2022-04-21,Aayush Vora,Business Owner,< ₹3L,False,0,4899158124,Delhi NCR
+STU-1247,Vasatika,Jain,Female,2016-08-13,CLS-03A,3,2022-04-18,Vivaan Jain,Business Owner,₹6L - ₹12L,False,0,7211755771,Delhi NCR
+STU-1248,Chanakya,Ganesan,Male,2016-07-12,CLS-03B,3,2022-04-14,Faqid Ganesan,Government Service,₹3L - ₹6L,True,0,3426405451,Delhi NCR
+STU-1249,Ganga,Singh,Female,2016-06-19,CLS-03B,3,2022-04-27,Udarsh Singh,Business Owner,₹6L - ₹12L,True,0,9299468956,Delhi NCR
+STU-1250,Joshua,Narasimhan,Male,2016-12-15,CLS-03B,3,2022-04-18,Simon Narasimhan,Retail/Shopkeeper,₹6L - ₹12L,False,0,+917119585714,Delhi NCR
+STU-1251,Urvi,Oak,Female,2016-03-30,CLS-03B,3,2022-03-01,Gagan Oak,Healthcare/Doctor,₹3L - ₹6L,False,0,05135599720,Delhi NCR
+STU-1252,Keya,Bahri,Female,2016-09-09,CLS-03B,3,2022-04-18,Yatan Bahri,Healthcare/Doctor,> ₹25L,True,0,09062871822,Delhi NCR
+STU-1253,Leena,Dhingra,Female,2016-07-06,CLS-03B,3,2022-03-28,Ekansh Dhingra,Government Service,₹6L - ₹12L,True,0,+911476865692,Delhi NCR
+STU-1254,Girindra,Deep,Male,2016-03-02,CLS-03B,3,2022-03-14,Vincent Deep,Salaried IT/Corporate,₹6L - ₹12L,False,0,+915527406449,Delhi NCR
+STU-1255,Brijesh,Sidhu,Male,2016-05-16,CLS-03B,3,2022-04-09,Maanas Sidhu,Salaried IT/Corporate,₹3L - ₹6L,True,0,07736450813,Delhi NCR
+STU-1256,Chandran,Pall,Male,2016-05-10,CLS-03B,3,2022-03-29,Lohit Pall,Salaried IT/Corporate,₹6L - ₹12L,True,0,08771887215,Delhi NCR
+STU-1257,Jai,Nagar,Male,2016-01-11,CLS-03B,3,2022-04-28,Faras Nagar,Salaried IT/Corporate,₹6L - ₹12L,False,0,07854250092,Delhi NCR
+STU-1258,Isha,Thakkar,Female,2016-12-24,CLS-03B,3,2022-03-20,Vincent Thakkar,Business Owner,₹12L - ₹25L,True,0,2816502262,Delhi NCR
+STU-1259,Yadavi,Soni,Female,2016-07-07,CLS-03B,3,2022-03-14,Mitesh Soni,Healthcare/Doctor,₹3L - ₹6L,False,10,+915422452110,Delhi NCR
+STU-1260,Kai,Dora,Male,2016-01-28,CLS-03B,3,2022-03-21,Daniel Dora,Government Service,₹6L - ₹12L,False,0,+915997555297,Delhi NCR
+STU-1261,Azad,Agrawal,Male,2016-05-08,CLS-03B,3,2022-04-17,Kalpit Agrawal,Salaried IT/Corporate,₹12L - ₹25L,False,0,7667588228,Delhi NCR
+STU-1262,Neel,Dubey,Male,2016-01-16,CLS-03B,3,2022-03-01,Girindra Dubey,Business Owner,₹6L - ₹12L,False,0,02507960097,Delhi NCR
+STU-1263,Daniel,Saraf,Male,2016-05-23,CLS-03B,3,2022-04-16,Akshay Saraf,Business Owner,₹3L - ₹6L,True,25,1523846342,Delhi NCR
+STU-1264,Triya,Bala,Female,2016-07-27,CLS-03B,3,2022-03-11,Baljiwan Bala,Salaried IT/Corporate,₹12L - ₹25L,True,0,4962769980,Delhi NCR
+STU-1265,Onveer,Choudhary,Male,2016-11-08,CLS-03B,3,2022-03-18,Raghav Choudhary,Salaried IT/Corporate,₹6L - ₹12L,False,0,05645931980,Delhi NCR
+STU-1266,Manya,Butala,Female,2016-02-12,CLS-03B,3,2022-03-09,Tristan Butala,Business Owner,₹3L - ₹6L,False,0,1223381554,Delhi NCR
+STU-1267,Teerth,Prabhu,Male,2016-09-24,CLS-03B,3,2022-03-23,Zashil Prabhu,Salaried IT/Corporate,₹12L - ₹25L,True,0,+910479054278,Delhi NCR
+STU-1268,Wyatt,Varty,Male,2016-03-07,CLS-03B,3,2022-04-13,Gunbir Varty,Salaried IT/Corporate,< ₹3L,False,0,1727147226,Delhi NCR
+STU-1269,Maya,Salvi,Female,2016-11-02,CLS-03B,3,2022-03-11,Aarush Salvi,Salaried IT/Corporate,₹6L - ₹12L,True,0,6833578850,Delhi NCR
+STU-1270,Yashawini,Anand,Female,2016-04-22,CLS-03B,3,2022-03-01,Shivansh Anand,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,6599565639,Delhi NCR
+STU-1271,Tejas,Venkataraman,Male,2016-10-16,CLS-03B,3,2022-03-19,Nakul Venkataraman,Salaried IT/Corporate,₹12L - ₹25L,False,0,+919871302414,Delhi NCR
+STU-1272,Jalsa,Gupta,Female,2016-08-03,CLS-03B,3,2022-04-08,Reyansh Gupta,Salaried IT/Corporate,₹3L - ₹6L,False,0,02890628585,Delhi NCR
+STU-1273,Nidhi,Kibe,Female,2016-11-17,CLS-03B,3,2022-03-03,Kevin Kibe,Government Service,< ₹3L,True,0,09830185636,Delhi NCR
+STU-1274,Yoshita,Krishnan,Female,2016-07-23,CLS-03B,3,2022-04-12,Jackson Krishnan,Government Service,₹3L - ₹6L,True,0,05709911141,Delhi NCR
+STU-1275,Indrajit,Kumer,Male,2016-12-21,CLS-03B,3,2022-03-31,Gavin Kumer,Salaried IT/Corporate,₹3L - ₹6L,True,0,+917432084462,Delhi NCR
+STU-1276,Mason,Prabhu,Male,2016-09-08,CLS-03B,3,2022-04-27,Ranveer Prabhu,Business Owner,₹12L - ₹25L,False,0,01958673262,Delhi NCR
+STU-1277,Chavvi,Cherian,Female,2016-07-01,CLS-03B,3,2022-04-27,Vihaan Cherian,Government Service,₹12L - ₹25L,False,0,6399748688,Delhi NCR
+STU-1278,Rajeshri,Bera,Female,2016-01-15,CLS-03B,3,2022-04-18,Balhaar Bera,Salaried IT/Corporate,₹6L - ₹12L,True,0,+916282592997,Delhi NCR
+STU-1279,Orinder,Bera,Male,2016-12-06,CLS-03B,3,2022-03-30,Isaac Bera,Healthcare/Doctor,₹6L - ₹12L,True,0,+910729483411,Delhi NCR
+STU-1280,Darpan,Master,Male,2016-11-28,CLS-03B,3,2022-04-08,Om Master,Business Owner,< ₹3L,False,50,08253874878,Delhi NCR
+STU-1281,Owen,Baria,Male,2016-07-07,CLS-03B,3,2022-04-04,Ekaraj Baria,Retail/Shopkeeper,₹12L - ₹25L,False,0,8126026274,Delhi NCR
+STU-1282,Ranbir,Parsa,Male,2016-10-11,CLS-03B,3,2022-03-23,Abhiram Parsa,Healthcare/Doctor,₹6L - ₹12L,True,0,+912806978417,Delhi NCR
+STU-1283,Teerth,Tara,Male,2016-04-11,CLS-03B,3,2022-04-03,Ojas Tara,Government Service,₹12L - ₹25L,False,0,06409215888,Delhi NCR
+STU-1284,Urmi,Shenoy,Female,2016-08-24,CLS-03B,3,2022-04-10,Ekaraj Shenoy,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,06066820470,Delhi NCR
+STU-1285,Vritti,Khurana,Female,2016-10-29,CLS-03C,3,2022-03-08,Mason Khurana,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,1710696492,Delhi NCR
+STU-1286,Ranveer,Misra,Male,2016-01-06,CLS-03C,3,2022-04-16,Gagan Misra,Salaried IT/Corporate,₹3L - ₹6L,False,0,+917946835682,Delhi NCR
+STU-1287,Gautami,Ahuja,Female,2016-02-02,CLS-03C,3,2022-04-07,Aarush Ahuja,Business Owner,₹6L - ₹12L,False,0,01488642329,Delhi NCR
+STU-1288,Mason,Venkataraman,Male,2016-11-22,CLS-03C,3,2022-04-24,Liam Venkataraman,Government Service,₹12L - ₹25L,True,0,07557252735,Delhi NCR
+STU-1289,Anita,Ganesh,Female,2016-12-05,CLS-03C,3,2022-04-10,Girindra Ganesh,Salaried IT/Corporate,₹6L - ₹12L,True,0,+914566043524,Delhi NCR
+STU-1290,Hamsini,Vala,Female,2016-06-15,CLS-03C,3,2022-04-23,Anthony Vala,Salaried IT/Corporate,₹3L - ₹6L,True,0,+916017978131,Delhi NCR
+STU-1291,Zayyan,Pingle,Male,2016-08-29,CLS-03C,3,2022-04-02,Karan Pingle,Salaried IT/Corporate,₹6L - ₹12L,False,0,3047858547,Delhi NCR
+STU-1292,Ekansh,Datta,Male,2016-06-17,CLS-03C,3,2022-04-13,Harshil Datta,Government Service,₹6L - ₹12L,True,0,08357051154,Delhi NCR
+STU-1293,Mahika,Jhaveri,Female,2016-03-03,CLS-03C,3,2022-04-18,Anay Jhaveri,Salaried IT/Corporate,> ₹25L,False,0,+915681919977,Delhi NCR
+STU-1294,Vasatika,Bedi,Female,2016-10-10,CLS-03C,3,2022-04-27,Saksham Bedi,Salaried IT/Corporate,₹3L - ₹6L,True,0,2502849292,Delhi NCR
+STU-1295,Zilmil,Sarkar,Female,2016-06-30,CLS-03C,3,2022-03-27,Henry Sarkar,Business Owner,₹6L - ₹12L,False,0,4317572155,Delhi NCR
+STU-1296,Zaid,Seshadri,Male,2016-10-31,CLS-03C,3,2022-04-10,Tanveer Seshadri,Salaried IT/Corporate,> ₹25L,False,0,+910394347062,Delhi NCR
+STU-1297,Arin,Raja,Male,2016-11-12,CLS-03C,3,2022-04-07,Maanas Raja,Salaried IT/Corporate,> ₹25L,False,0,+914518709310,Delhi NCR
+STU-1298,Shivani,Mander,Female,2016-02-06,CLS-03C,3,2022-04-12,Azad Mander,Healthcare/Doctor,< ₹3L,True,0,08861400535,Delhi NCR
+STU-1299,Charita,Gulati,Female,2016-03-13,CLS-03C,3,2022-03-04,Aadi Gulati,Government Service,₹12L - ₹25L,False,0,4413591065,Delhi NCR
+STU-1300,Qarin,Dora,Male,2016-08-06,CLS-03C,3,2022-04-13,George Dora,Government Service,₹3L - ₹6L,True,0,01901585204,Delhi NCR
+STU-1301,Saanvi,Hayer,Female,2016-09-10,CLS-03C,3,2022-04-20,Andrew Hayer,Business Owner,< ₹3L,False,0,4093249814,Delhi NCR
+STU-1302,Aarna,Gara,Female,2016-11-23,CLS-03C,3,2022-04-04,Frederick Gara,Healthcare/Doctor,₹12L - ₹25L,True,0,5900209362,Delhi NCR
+STU-1303,Indali,Goyal,Female,2016-09-16,CLS-03C,3,2022-04-02,Atharv Goyal,Healthcare/Doctor,₹3L - ₹6L,True,0,0354764734,Delhi NCR
+STU-1304,Harrison,Pandit,Male,2016-01-09,CLS-03C,3,2022-03-30,Praneel Pandit,Driver/Daily Wage Worker,> ₹25L,False,0,3128112816,Delhi NCR
+STU-1305,Nidra,Dash,Female,2016-12-12,CLS-03C,3,2022-04-09,Onveer Dash,Business Owner,₹12L - ₹25L,False,0,+912931273111,Delhi NCR
+STU-1306,Wishi,Chokshi,Female,2016-04-20,CLS-03C,3,2022-03-06,Aarav Chokshi,Healthcare/Doctor,₹12L - ₹25L,True,0,6472475773,Delhi NCR
+STU-1307,Jagvi,Manda,Female,2016-12-30,CLS-03C,3,2022-03-10,Zashil Manda,Business Owner,< ₹3L,True,25,+919185530474,Delhi NCR
+STU-1308,Balendra,Sawhney,Male,2016-07-06,CLS-03C,3,2022-03-08,Nihal Sawhney,Salaried IT/Corporate,₹12L - ₹25L,True,0,+915470197192,Delhi NCR
+STU-1309,Aachal,Roy,Female,2016-08-17,CLS-03C,3,2022-04-17,Lohit Roy,Retail/Shopkeeper,< ₹3L,False,0,+914686592211,Delhi NCR
+STU-1310,Baghyawati,Bakshi,Female,2016-11-26,CLS-03C,3,2022-03-24,Udarsh Bakshi,Business Owner,₹6L - ₹12L,False,0,+917244419360,Delhi NCR
+STU-1311,Zayyan,Dara,Male,2016-05-16,CLS-03C,3,2022-03-06,Jason Dara,Business Owner,> ₹25L,True,0,+915964579118,Delhi NCR
+STU-1312,Ekbal,Andra,Male,2016-08-15,CLS-03C,3,2022-03-27,Harish Andra,Government Service,< ₹3L,True,25,04996167974,Delhi NCR
+STU-1313,Joshua,Dixit,Male,2016-12-07,CLS-03C,3,2022-04-16,Azad Dixit,Business Owner,₹12L - ₹25L,True,0,8936467689,Delhi NCR
+STU-1314,Kashvi,Nayar,Female,2016-05-23,CLS-03C,3,2022-04-07,Darpan Nayar,Government Service,₹6L - ₹12L,True,0,+915967184786,Delhi NCR
+STU-1315,Harrison,Iyer,Male,2016-01-03,CLS-03C,3,2022-04-27,Harrison Iyer,Salaried IT/Corporate,₹3L - ₹6L,False,0,01512125552,Delhi NCR
+STU-1316,Warinder,Thaman,Male,2016-01-13,CLS-03C,3,2022-03-22,Aarnav Thaman,Salaried IT/Corporate,₹3L - ₹6L,False,25,8428861905,Delhi NCR
+STU-1317,Bahadurjit,Toor,Male,2015-02-01,CLS-04A,4,2021-03-06,Chandresh Toor,Business Owner,₹12L - ₹25L,True,0,0704075392,Delhi NCR
+STU-1318,Zinal,Thaman,Female,2015-06-29,CLS-04A,4,2021-03-31,Gunbir Thaman,Government Service,₹6L - ₹12L,False,0,04921138289,Delhi NCR
+STU-1319,Ishwar,Koshy,Male,2015-03-27,CLS-04A,4,2021-03-25,Gunbir Koshy,Salaried IT/Corporate,₹6L - ₹12L,False,0,04972021339,Delhi NCR
+STU-1320,Jairaj,Jaggi,Male,2015-11-04,CLS-04A,4,2021-04-07,Samar Jaggi,Business Owner,₹6L - ₹12L,False,0,+910110045999,Delhi NCR
+STU-1321,Aayush,Kata,Male,2015-08-12,CLS-04A,4,2021-03-10,Harsh Kata,Business Owner,₹6L - ₹12L,True,0,+912744794681,Delhi NCR
+STU-1322,Fitan,Raju,Male,2015-01-14,CLS-04A,4,2021-03-07,Rushil Raju,Government Service,₹6L - ₹12L,False,0,03212964058,Delhi NCR
+STU-1323,Darpan,Mall,Male,2015-09-04,CLS-04A,4,2021-04-20,Girish Mall,Healthcare/Doctor,< ₹3L,True,100,04337150824,Delhi NCR
+STU-1324,Dayamai,Kalita,Female,2015-08-30,CLS-04A,4,2021-03-31,Om Kalita,Salaried IT/Corporate,₹6L - ₹12L,True,0,4836916453,Delhi NCR
+STU-1325,Victor,Dasgupta,Male,2015-02-04,CLS-04A,4,2021-03-22,Faras Dasgupta,Government Service,₹3L - ₹6L,False,0,0734722655,Delhi NCR
+STU-1326,Mohini,De,Female,2015-09-24,CLS-04A,4,2021-03-31,Ansh De,Salaried IT/Corporate,₹6L - ₹12L,True,0,+912008563934,Delhi NCR
+STU-1327,Tarak,Choudhury,Male,2015-03-19,CLS-04A,4,2021-03-12,Gagan Choudhury,Business Owner,₹12L - ₹25L,False,0,+914256837318,Delhi NCR
+STU-1328,Jack,Wagle,Male,2015-12-08,CLS-04A,4,2021-03-05,Vivaan Wagle,Retail/Shopkeeper,₹12L - ₹25L,False,0,3809082690,Delhi NCR
+STU-1329,Omisha,Parekh,Female,2015-11-06,CLS-04A,4,2021-04-26,Oscar Parekh,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,03530607501,Delhi NCR
+STU-1330,Ethan,Mallick,Male,2015-04-09,CLS-04A,4,2021-03-25,Vincent Mallick,Salaried IT/Corporate,₹12L - ₹25L,False,0,00765589453,Delhi NCR
+STU-1331,Aachal,Barad,Female,2015-06-22,CLS-04A,4,2021-03-12,Onkar Barad,Government Service,< ₹3L,False,50,9810137096,Delhi NCR
+STU-1332,Janani,Sankaran,Female,2015-01-26,CLS-04A,4,2021-04-29,Matthew Sankaran,Retail/Shopkeeper,₹6L - ₹12L,False,0,+915238258280,Delhi NCR
+STU-1333,Jeet,Desai,Male,2015-10-15,CLS-04A,4,2021-04-23,Simon Desai,Government Service,₹3L - ₹6L,False,0,1891602485,Delhi NCR
+STU-1334,Watika,Mannan,Female,2015-05-06,CLS-04A,4,2021-04-25,Balendra Mannan,Salaried IT/Corporate,₹6L - ₹12L,True,0,+911573659805,Delhi NCR
+STU-1335,Forum,Sodhi,Female,2015-05-19,CLS-04A,4,2021-03-10,Owen Sodhi,Salaried IT/Corporate,₹3L - ₹6L,False,0,+917119153163,Delhi NCR
+STU-1336,Wahab,Natt,Male,2015-02-20,CLS-04A,4,2021-03-21,Indrajit Natt,Salaried IT/Corporate,₹6L - ₹12L,False,0,3422406275,Delhi NCR
+STU-1337,Reyansh,Shetty,Male,2015-11-05,CLS-04A,4,2021-03-03,Gautam Shetty,Retail/Shopkeeper,< ₹3L,False,50,09386047905,Delhi NCR
+STU-1338,Watika,Menon,Female,2015-08-04,CLS-04A,4,2021-03-17,Wazir Menon,Salaried IT/Corporate,₹12L - ₹25L,False,0,6205888952,Delhi NCR
+STU-1339,Lakshit,Andra,Male,2015-05-28,CLS-04A,4,2021-03-28,Rishi Andra,Government Service,₹12L - ₹25L,True,0,9313902806,Delhi NCR
+STU-1340,Anthony,Dada,Male,2015-02-09,CLS-04A,4,2021-03-20,Yagnesh Dada,Healthcare/Doctor,₹6L - ₹12L,True,0,+915176315658,Delhi NCR
+STU-1341,Ayush,Lad,Male,2015-02-25,CLS-04A,4,2021-04-18,Shaurya Lad,Government Service,₹3L - ₹6L,True,0,+914625899894,Delhi NCR
+STU-1342,Ojasvi,Sheth,Female,2015-11-01,CLS-04A,4,2021-04-20,Reyansh Sheth,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,5386950627,Delhi NCR
+STU-1343,Xavier,Mohan,Male,2015-05-14,CLS-04A,4,2021-04-29,Fiyaz Mohan,Salaried IT/Corporate,< ₹3L,False,50,1287643422,Delhi NCR
+STU-1344,Samesh,Saha,Male,2015-09-09,CLS-04A,4,2021-03-24,Aarnav Saha,Government Service,< ₹3L,False,0,05755940565,Delhi NCR
+STU-1345,Ganga,Ahuja,Female,2015-04-12,CLS-04A,4,2021-03-30,Hitesh Ahuja,Healthcare/Doctor,< ₹3L,True,0,9392259180,Delhi NCR
+STU-1346,Hemani,Murthy,Female,2015-01-26,CLS-04A,4,2021-03-12,Saksham Murthy,Retail/Shopkeeper,₹3L - ₹6L,True,0,04921508780,Delhi NCR
+STU-1347,Ranveer,Ratta,Male,2015-05-22,CLS-04A,4,2021-03-30,Amol Ratta,Salaried IT/Corporate,< ₹3L,True,0,1376145017,Delhi NCR
+STU-1348,Sneha,Gade,Female,2015-01-20,CLS-04A,4,2021-04-24,Veer Gade,Driver/Daily Wage Worker,> ₹25L,False,0,8043742484,Delhi NCR
+STU-1349,Baljiwan,Master,Male,2015-10-17,CLS-04B,4,2021-04-12,Samar Master,Retail/Shopkeeper,₹6L - ₹12L,True,0,+919155532249,Delhi NCR
+STU-1350,Keya,Hayer,Female,2015-03-19,CLS-04B,4,2021-03-06,Charles Hayer,Government Service,₹12L - ₹25L,False,0,0011270850,Delhi NCR
+STU-1351,Qadim,Chawla,Male,2015-01-04,CLS-04B,4,2021-03-21,Henry Chawla,Salaried IT/Corporate,₹3L - ₹6L,True,25,02347123929,Delhi NCR
+STU-1352,Wazir,Mahajan,Male,2015-03-06,CLS-04B,4,2021-03-18,Owen Mahajan,Business Owner,₹6L - ₹12L,True,0,05788082453,Delhi NCR
+STU-1353,Waida,Babu,Female,2015-10-06,CLS-04B,4,2021-03-28,Sai Babu,Salaried IT/Corporate,< ₹3L,False,0,2124686814,Delhi NCR
+STU-1354,Januja,Vohra,Female,2015-01-30,CLS-04B,4,2021-03-23,Caleb Vohra,Healthcare/Doctor,₹12L - ₹25L,True,0,3450471955,Delhi NCR
+STU-1355,Indrajit,Choudhury,Male,2015-02-19,CLS-04B,4,2021-04-19,Ethan Choudhury,Salaried IT/Corporate,₹3L - ₹6L,False,0,05532295093,Delhi NCR
+STU-1356,Gopal,Basak,Male,2015-10-18,CLS-04B,4,2021-04-06,Ekavir Basak,Business Owner,₹12L - ₹25L,True,0,+910232165957,Delhi NCR
+STU-1357,Gaurangi,Madan,Female,2015-03-05,CLS-04B,4,2021-03-02,Timothy Madan,Business Owner,₹3L - ₹6L,True,0,06528663506,Delhi NCR
+STU-1358,Harish,Bedi,Male,2015-06-12,CLS-04B,4,2021-03-30,Tristan Bedi,Salaried IT/Corporate,₹3L - ₹6L,True,0,08383113975,Delhi NCR
+STU-1359,Shivansh,Patil,Male,2015-07-12,CLS-04B,4,2021-04-16,Qadim Patil,Retail/Shopkeeper,> ₹25L,True,0,2389631809,Delhi NCR
+STU-1360,Tristan,Tank,Male,2015-02-21,CLS-04B,4,2021-03-23,Farhan Tank,Business Owner,₹6L - ₹12L,True,0,2386651900,Delhi NCR
+STU-1361,Netra,Khurana,Female,2015-05-09,CLS-04B,4,2021-04-05,Jai Khurana,Salaried IT/Corporate,₹6L - ₹12L,True,0,09962750230,Delhi NCR
+STU-1362,Indali,Devan,Female,2015-03-13,CLS-04B,4,2021-03-09,Zayyan Devan,Salaried IT/Corporate,₹6L - ₹12L,False,0,00036186043,Delhi NCR
+STU-1363,Bishakha,Soni,Female,2015-04-28,CLS-04B,4,2021-03-05,Kabir Soni,Healthcare/Doctor,₹6L - ₹12L,True,0,09801927294,Delhi NCR
+STU-1364,Wahab,Sunder,Male,2015-04-14,CLS-04B,4,2021-04-22,Girik Sunder,Healthcare/Doctor,> ₹25L,False,0,05186781333,Delhi NCR
+STU-1365,Neha,Kari,Female,2015-02-11,CLS-04B,4,2021-04-17,Bachittar Kari,Business Owner,₹12L - ₹25L,True,0,+912191446459,Delhi NCR
+STU-1366,Frederick,Suri,Male,2015-07-24,CLS-04B,4,2021-04-05,Ayushman Suri,Salaried IT/Corporate,₹6L - ₹12L,False,0,+919321968846,Delhi NCR
+STU-1367,Warjas,Prabhu,Male,2015-03-26,CLS-04B,4,2021-03-06,Sarthak Prabhu,Government Service,₹12L - ₹25L,False,0,03505824163,Delhi NCR
+STU-1368,Timothy,Kadakia,Male,2015-05-27,CLS-04B,4,2021-03-01,Devansh Kadakia,Salaried IT/Corporate,₹6L - ₹12L,False,0,2099345271,Delhi NCR
+STU-1369,Pratyush,Date,Male,2015-12-20,CLS-04B,4,2021-03-07,Vedant Date,Government Service,₹3L - ₹6L,False,0,05999269193,Delhi NCR
+STU-1370,Tripti,Sarin,Female,2015-02-18,CLS-04B,4,2021-04-02,Abhiram Sarin,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,00122882883,Delhi NCR
+STU-1371,Raksha,Tailor,Female,2015-12-11,CLS-04B,4,2021-04-19,Luke Tailor,Salaried IT/Corporate,₹6L - ₹12L,True,0,8800891464,Delhi NCR
+STU-1372,Utkarsh,Wagle,Male,2015-04-07,CLS-04B,4,2021-03-02,Jackson Wagle,Salaried IT/Corporate,₹3L - ₹6L,False,25,+915526655422,Delhi NCR
+STU-1373,Yahvi,Chana,Female,2015-09-30,CLS-04B,4,2021-03-25,Yash Chana,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,7791577946,Delhi NCR
+STU-1374,Ira,Morar,Female,2015-11-01,CLS-04B,4,2021-03-30,Sai Morar,Government Service,> ₹25L,True,0,8525777431,Delhi NCR
+STU-1375,Gauri,Dixit,Female,2015-06-21,CLS-04B,4,2021-04-23,Zayyan Dixit,Business Owner,₹6L - ₹12L,False,0,5225500452,Delhi NCR
+STU-1376,Lila,Sahota,Female,2015-12-21,CLS-04B,4,2021-04-24,Charan Sahota,Salaried IT/Corporate,₹6L - ₹12L,False,0,+919064915828,Delhi NCR
+STU-1377,Yash,Sahota,Male,2015-02-14,CLS-04B,4,2021-03-01,Gautam Sahota,Salaried IT/Corporate,> ₹25L,False,0,2139222944,Delhi NCR
+STU-1378,Charles,Bedi,Male,2015-02-15,CLS-04B,4,2021-04-10,Yagnesh Bedi,Business Owner,₹3L - ₹6L,False,0,8208065423,Delhi NCR
+STU-1379,Noah,Yohannan,Male,2015-09-18,CLS-04B,4,2021-03-30,Ayushman Yohannan,Salaried IT/Corporate,< ₹3L,False,50,+915089276603,Delhi NCR
+STU-1380,Chakrika,Shanker,Female,2015-04-14,CLS-04B,4,2021-03-12,Ishwar Shanker,Business Owner,₹3L - ₹6L,True,0,+912819590629,Delhi NCR
+STU-1381,Harshil,Mittal,Male,2015-02-28,CLS-04B,4,2021-03-29,Ranveer Mittal,Business Owner,₹3L - ₹6L,False,0,+919816360816,Delhi NCR
+STU-1382,Hema,Karan,Female,2015-11-23,CLS-04B,4,2021-03-14,Umang Karan,Government Service,₹6L - ₹12L,True,0,+918772375847,Delhi NCR
+STU-1383,Damyanti,Deshmukh,Female,2015-12-15,CLS-04B,4,2021-03-19,Abhiram Deshmukh,Healthcare/Doctor,₹3L - ₹6L,False,0,01498216844,Delhi NCR
+STU-1384,Aadhya,Choudhry,Female,2015-04-18,CLS-04B,4,2021-04-03,Aarnav Choudhry,Business Owner,₹3L - ₹6L,True,0,+913739074782,Delhi NCR
+STU-1385,Harsh,Bhargava,Male,2015-11-01,CLS-04B,4,2021-04-08,Ayushman Bhargava,Healthcare/Doctor,₹6L - ₹12L,False,0,2318029611,Delhi NCR
+STU-1386,Yutika,Tailor,Female,2015-02-02,CLS-04C,4,2021-03-28,Ayush Tailor,Salaried IT/Corporate,₹6L - ₹12L,False,0,7655960477,Delhi NCR
+STU-1387,Thomas,Aurora,Male,2015-12-03,CLS-04C,4,2021-04-27,Ekaraj Aurora,Government Service,> ₹25L,False,0,+918857893208,Delhi NCR
+STU-1388,Bhavya,Butala,Female,2015-02-04,CLS-04C,4,2021-04-23,Parth Butala,Business Owner,₹6L - ₹12L,False,0,9584423744,Delhi NCR
+STU-1389,Zansi,Dhillon,Female,2015-04-26,CLS-04C,4,2021-04-11,Indrajit Dhillon,Healthcare/Doctor,₹3L - ₹6L,True,0,3629451901,Delhi NCR
+STU-1390,Advika,Sundaram,Female,2015-11-29,CLS-04C,4,2021-04-14,Falan Sundaram,Healthcare/Doctor,₹6L - ₹12L,True,0,+915566015103,Delhi NCR
+STU-1391,Dayita,Mani,Female,2015-06-14,CLS-04C,4,2021-04-22,Mohammed Mani,Government Service,₹3L - ₹6L,True,0,3601269056,Delhi NCR
+STU-1392,Zaitra,Kara,Female,2015-05-30,CLS-04C,4,2021-04-10,Agastya Kara,Salaried IT/Corporate,₹6L - ₹12L,False,0,00386868770,Delhi NCR
+STU-1393,Chandresh,Yadav,Male,2015-02-03,CLS-04C,4,2021-03-08,Samar Yadav,Salaried IT/Corporate,₹6L - ₹12L,True,0,+916622048335,Delhi NCR
+STU-1394,Onkar,Dass,Male,2015-08-21,CLS-04C,4,2021-03-12,Siddharth Dass,Business Owner,₹6L - ₹12L,False,0,+914280456508,Delhi NCR
+STU-1395,Yahvi,Kumar,Female,2015-03-01,CLS-04C,4,2021-04-22,Udant Kumar,Healthcare/Doctor,₹6L - ₹12L,False,0,4512926958,Delhi NCR
+STU-1396,Yamini,Mutti,Female,2015-10-02,CLS-04C,4,2021-04-29,Hemang Mutti,Salaried IT/Corporate,₹6L - ₹12L,True,0,4028932811,Delhi NCR
+STU-1397,Balhaar,Nagy,Male,2015-05-21,CLS-04C,4,2021-03-31,Qasim Nagy,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,01419525670,Delhi NCR
+STU-1398,Kashvi,Pillay,Female,2015-11-12,CLS-04C,4,2021-03-17,Yug Pillay,Salaried IT/Corporate,₹3L - ₹6L,False,0,6754512262,Delhi NCR
+STU-1399,Dhriti,Wable,Female,2015-10-24,CLS-04C,4,2021-04-25,Sathvik Wable,Retail/Shopkeeper,₹6L - ₹12L,False,0,+915232114344,Delhi NCR
+STU-1400,Anamika,Rajagopalan,Female,2015-11-03,CLS-04C,4,2021-03-09,Shivansh Rajagopalan,Salaried IT/Corporate,₹3L - ₹6L,True,0,+919478306435,Delhi NCR
+STU-1401,Jhalak,Dube,Female,2015-09-26,CLS-04C,4,2021-04-11,Bachittar Dube,Healthcare/Doctor,> ₹25L,True,0,+919732863200,Delhi NCR
+STU-1402,Bishakha,Naik,Female,2015-10-26,CLS-04C,4,2021-03-09,Samar Naik,Business Owner,₹6L - ₹12L,False,0,5971017878,Delhi NCR
+STU-1403,Rudra,Kaur,Male,2015-06-23,CLS-04C,4,2021-03-12,Dalbir Kaur,Business Owner,₹6L - ₹12L,False,0,5957948075,Delhi NCR
+STU-1404,Varsha,Dora,Female,2015-07-04,CLS-04C,4,2021-04-04,Tanveer Dora,Healthcare/Doctor,> ₹25L,False,0,7006567087,Delhi NCR
+STU-1405,Charan,Jaggi,Male,2015-01-15,CLS-04C,4,2021-03-11,Yatan Jaggi,Salaried IT/Corporate,> ₹25L,False,0,07758602593,Delhi NCR
+STU-1406,Amrita,Lal,Female,2015-09-17,CLS-04C,4,2021-04-13,Lohit Lal,Salaried IT/Corporate,₹6L - ₹12L,False,0,3783950692,Delhi NCR
+STU-1407,Warda,Ahluwalia,Female,2015-08-10,CLS-04C,4,2021-04-13,Onkar Ahluwalia,Salaried IT/Corporate,₹6L - ₹12L,True,0,00968528715,Delhi NCR
+STU-1408,Praneel,Lal,Male,2015-10-19,CLS-04C,4,2021-03-28,Ayaan Lal,Business Owner,₹6L - ₹12L,True,0,4937706569,Delhi NCR
+STU-1409,Falan,Roy,Male,2015-11-03,CLS-04C,4,2021-04-26,Ronith Roy,Government Service,₹6L - ₹12L,True,0,+918055159573,Delhi NCR
+STU-1410,Widisha,Pandey,Female,2015-07-17,CLS-04C,4,2021-03-30,Advaith Pandey,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,3518192878,Delhi NCR
+STU-1411,Naveen,Batra,Male,2015-11-20,CLS-04C,4,2021-03-01,Nihal Batra,Retail/Shopkeeper,> ₹25L,False,0,+910745374567,Delhi NCR
+STU-1412,Rachana,Kuruvilla,Female,2015-04-20,CLS-04C,4,2021-04-21,Baljiwan Kuruvilla,Salaried IT/Corporate,₹12L - ₹25L,False,0,0263100450,Delhi NCR
+STU-1413,Bhavini,Garg,Female,2015-09-09,CLS-04C,4,2021-03-16,Faraj Garg,Salaried IT/Corporate,₹12L - ₹25L,True,0,05867490062,Delhi NCR
+STU-1414,Nitara,Agrawal,Female,2015-07-29,CLS-04C,4,2021-03-21,Viraj Agrawal,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,03297438871,Delhi NCR
+STU-1415,Aditya,Dewan,Male,2015-05-30,CLS-04C,4,2021-03-05,Jonathan Dewan,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,01056983089,Delhi NCR
+STU-1416,Chanchal,Brar,Female,2015-01-13,CLS-04C,4,2021-04-26,Gaurang Brar,Business Owner,₹3L - ₹6L,False,0,07896954250,Delhi NCR
+STU-1417,Gaurangi,Mukherjee,Female,2015-10-09,CLS-04C,4,2021-04-12,Yuvraj Mukherjee,Business Owner,< ₹3L,False,50,5306741904,Delhi NCR
+STU-1418,Yash,Lal,Male,2015-03-06,CLS-04C,4,2021-04-07,Gagan Lal,Business Owner,₹6L - ₹12L,True,0,+913909252310,Delhi NCR
+STU-1419,Naksh,Devi,Male,2014-02-19,CLS-05A,5,2020-04-07,Brijesh Devi,Healthcare/Doctor,₹3L - ₹6L,False,0,0144630761,Delhi NCR
+STU-1420,Warda,Sem,Female,2014-06-07,CLS-05A,5,2020-03-02,Ayaan Sem,Salaried IT/Corporate,₹6L - ₹12L,False,0,07919573788,Delhi NCR
+STU-1421,Bhavna,Tank,Female,2014-10-05,CLS-05A,5,2020-03-06,Balvan Tank,Healthcare/Doctor,₹6L - ₹12L,True,0,+914734117036,Delhi NCR
+STU-1422,Dhriti,Batta,Female,2014-01-04,CLS-05A,5,2020-04-10,Tanveer Batta,Business Owner,₹6L - ₹12L,False,0,+914782461369,Delhi NCR
+STU-1423,William,Rajan,Male,2014-12-12,CLS-05A,5,2020-04-06,Yatan Rajan,Government Service,< ₹3L,False,25,03389429418,Delhi NCR
+STU-1424,Gautam,Desai,Male,2014-05-23,CLS-05A,5,2020-04-17,Banjeet Desai,Salaried IT/Corporate,₹3L - ₹6L,False,0,+912978477867,Delhi NCR
+STU-1425,Omaja,Bhavsar,Female,2014-05-10,CLS-05A,5,2020-04-15,Max Bhavsar,Government Service,₹3L - ₹6L,True,25,08735163220,Delhi NCR
+STU-1426,Rohan,Ratta,Male,2014-05-01,CLS-05A,5,2020-04-05,Rachit Ratta,Salaried IT/Corporate,< ₹3L,False,0,5885476835,Delhi NCR
+STU-1427,Lila,Bose,Female,2014-07-30,CLS-05A,5,2020-04-09,Wridesh Bose,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,+910808254009,Delhi NCR
+STU-1428,Aadhya,Rajagopalan,Female,2014-08-06,CLS-05A,5,2020-03-08,Jeet Rajagopalan,Salaried IT/Corporate,₹3L - ₹6L,False,0,6304050601,Delhi NCR
+STU-1429,Advik,Kant,Male,2014-05-22,CLS-05A,5,2020-04-28,Abhiram Kant,Business Owner,₹6L - ₹12L,True,0,6818818200,Delhi NCR
+STU-1430,Kala,Dhillon,Female,2014-11-29,CLS-05A,5,2020-04-07,Abeer Dhillon,Business Owner,₹6L - ₹12L,True,0,+911087862328,Delhi NCR
+STU-1431,Gautami,Yadav,Female,2014-08-21,CLS-05A,5,2020-03-08,Aarnav Yadav,Business Owner,₹6L - ₹12L,True,0,02014032494,Delhi NCR
+STU-1432,Ayaan,Tara,Male,2014-06-04,CLS-05A,5,2020-03-03,Jason Tara,Business Owner,₹6L - ₹12L,True,0,00719121533,Delhi NCR
+STU-1433,Ayushman,Madan,Male,2014-05-30,CLS-05A,5,2020-04-13,Oscar Madan,Business Owner,₹12L - ₹25L,True,0,09767423347,Delhi NCR
+STU-1434,Amaira,Trivedi,Female,2014-08-14,CLS-05A,5,2020-04-01,Imaran Trivedi,Retail/Shopkeeper,₹6L - ₹12L,False,0,+917878210408,Delhi NCR
+STU-1435,Ridhi,Modi,Female,2014-07-23,CLS-05A,5,2020-03-22,Krish Modi,Business Owner,₹6L - ₹12L,False,0,03240911844,Delhi NCR
+STU-1436,Waida,Chawla,Female,2014-08-17,CLS-05A,5,2020-04-22,Hitesh Chawla,Government Service,₹6L - ₹12L,False,0,1462257181,Delhi NCR
+STU-1437,Vedika,Garde,Female,2014-12-19,CLS-05A,5,2020-03-27,Atharv Garde,Healthcare/Doctor,₹3L - ₹6L,True,0,+919879816437,Delhi NCR
+STU-1438,Abhiram,Amble,Male,2014-09-21,CLS-05A,5,2020-03-10,Ikbal Amble,Salaried IT/Corporate,₹3L - ₹6L,True,0,7273298286,Delhi NCR
+STU-1439,Yashvi,Parmer,Female,2014-11-21,CLS-05A,5,2020-04-24,Isaiah Parmer,Salaried IT/Corporate,₹6L - ₹12L,True,0,+913406098838,Delhi NCR
+STU-1440,Nimrat,Mannan,Female,2014-02-11,CLS-05A,5,2020-03-09,Oscar Mannan,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,3576395129,Delhi NCR
+STU-1441,Yash,Gara,Male,2014-06-15,CLS-05A,5,2020-03-01,Indrajit Gara,Business Owner,₹12L - ₹25L,False,0,9686011441,Delhi NCR
+STU-1442,Anay,Dugar,Male,2014-04-13,CLS-05A,5,2020-03-08,Samarth Dugar,Government Service,₹6L - ₹12L,True,0,8223301193,Delhi NCR
+STU-1443,Janya,Kota,Female,2014-10-13,CLS-05A,5,2020-03-11,Faraj Kota,Salaried IT/Corporate,₹3L - ₹6L,True,0,+912650188648,Delhi NCR
+STU-1444,Hema,Bhat,Female,2014-03-07,CLS-05A,5,2020-03-04,Darpan Bhat,Salaried IT/Corporate,₹3L - ₹6L,False,25,01975781520,Delhi NCR
+STU-1445,Upma,Sankaran,Female,2014-11-18,CLS-05A,5,2020-04-07,Chakradhar Sankaran,Business Owner,₹6L - ₹12L,True,0,9438806836,Delhi NCR
+STU-1446,Yatan,Ramaswamy,Male,2014-07-13,CLS-05A,5,2020-04-26,Ojas Ramaswamy,Salaried IT/Corporate,₹3L - ₹6L,True,0,03588460273,Delhi NCR
+STU-1447,Vedant,Mishra,Male,2014-02-20,CLS-05A,5,2020-04-26,Hardik Mishra,Government Service,₹6L - ₹12L,True,0,2574900809,Delhi NCR
+STU-1448,Yug,Loke,Male,2014-08-22,CLS-05A,5,2020-04-26,Nathan Loke,Business Owner,< ₹3L,True,0,02081371984,Delhi NCR
+STU-1449,Fiyaz,Shroff,Male,2014-06-21,CLS-05A,5,2020-03-14,Sathvik Shroff,Business Owner,< ₹3L,True,0,1727510271,Delhi NCR
+STU-1450,Chaitanya,Mallick,Male,2014-06-23,CLS-05A,5,2020-04-11,Champak Mallick,Salaried IT/Corporate,> ₹25L,False,0,+913467018994,Delhi NCR
+STU-1451,Yashoda,Chad,Female,2014-02-08,CLS-05A,5,2020-03-23,Vivaan Chad,Healthcare/Doctor,₹12L - ₹25L,True,0,+914033543039,Delhi NCR
+STU-1452,Tanish,Munshi,Male,2014-07-01,CLS-05A,5,2020-03-23,Abhimanyu Munshi,Government Service,₹3L - ₹6L,False,0,+910508012611,Delhi NCR
+STU-1453,Maanav,Malhotra,Male,2014-05-31,CLS-05A,5,2020-03-10,Chandran Malhotra,Business Owner,₹6L - ₹12L,True,0,09028773130,Delhi NCR
+STU-1454,Yashvi,Jha,Female,2014-06-13,CLS-05A,5,2020-04-22,Azad Jha,Business Owner,₹6L - ₹12L,False,0,1225897322,Delhi NCR
+STU-1455,Warda,Patil,Female,2014-11-03,CLS-05A,5,2020-04-12,Christopher Patil,Healthcare/Doctor,₹6L - ₹12L,False,0,+915296320320,Delhi NCR
+STU-1456,Kashish,Rau,Female,2014-10-01,CLS-05A,5,2020-04-04,Utkarsh Rau,Salaried IT/Corporate,₹6L - ₹12L,True,0,+919612173649,Delhi NCR
+STU-1457,Daksha,Pandey,Female,2014-07-25,CLS-05B,5,2020-03-30,Orinder Pandey,Salaried IT/Corporate,₹3L - ₹6L,True,0,+917258837797,Delhi NCR
+STU-1458,Tanvi,Srinivasan,Female,2014-11-19,CLS-05B,5,2020-04-19,Charles Srinivasan,Business Owner,₹12L - ₹25L,False,0,6045706892,Delhi NCR
+STU-1459,Ishita,Murty,Female,2014-07-30,CLS-05B,5,2020-03-11,David Murty,Salaried IT/Corporate,₹3L - ₹6L,True,0,03990384217,Delhi NCR
+STU-1460,Avni,Mahal,Female,2014-10-20,CLS-05B,5,2020-03-09,Agastya Mahal,Salaried IT/Corporate,₹12L - ₹25L,True,0,07260429183,Delhi NCR
+STU-1461,Hemang,Parikh,Male,2014-06-30,CLS-05B,5,2020-03-05,Rachit Parikh,Government Service,₹3L - ₹6L,True,10,7162011275,Delhi NCR
+STU-1462,Warhi,Chander,Female,2014-11-29,CLS-05B,5,2020-03-06,Nakul Chander,Government Service,₹6L - ₹12L,True,0,7278428430,Delhi NCR
+STU-1463,Nitesh,Toor,Male,2014-12-04,CLS-05B,5,2020-03-26,Faris Toor,Salaried IT/Corporate,₹12L - ₹25L,True,0,+918496239976,Delhi NCR
+STU-1464,Udant,Chakraborty,Male,2014-12-11,CLS-05B,5,2020-04-13,Farhan Chakraborty,Government Service,₹3L - ₹6L,False,0,05098024062,Delhi NCR
+STU-1465,Veda,Walia,Female,2014-01-13,CLS-05B,5,2020-03-02,Umang Walia,Government Service,₹6L - ₹12L,False,0,+910778496746,Delhi NCR
+STU-1466,Pallavi,Chana,Female,2014-05-12,CLS-05B,5,2020-03-08,Qarin Chana,Healthcare/Doctor,₹6L - ₹12L,False,0,09926842371,Delhi NCR
+STU-1467,Madhav,Dhar,Male,2014-03-16,CLS-05B,5,2020-03-28,Harsh Dhar,Salaried IT/Corporate,₹6L - ₹12L,False,0,+918308878604,Delhi NCR
+STU-1468,Nakul,Prasad,Male,2014-06-15,CLS-05B,5,2020-04-01,Kai Prasad,Salaried IT/Corporate,₹6L - ₹12L,False,0,02186841146,Delhi NCR
+STU-1469,Adweta,Sangha,Female,2014-06-08,CLS-05B,5,2020-03-21,Anirudh Sangha,Salaried IT/Corporate,₹3L - ₹6L,True,0,9197828906,Delhi NCR
+STU-1470,Anamika,Andra,Female,2014-11-19,CLS-05B,5,2020-04-14,Gavin Andra,Salaried IT/Corporate,₹3L - ₹6L,False,0,4691886421,Delhi NCR
+STU-1471,Viraj,Aurora,Male,2014-01-17,CLS-05B,5,2020-03-08,Ryan Aurora,Salaried IT/Corporate,₹3L - ₹6L,True,0,0382513713,Delhi NCR
+STU-1472,Samarth,Banerjee,Male,2014-11-07,CLS-05B,5,2020-04-24,Naveen Banerjee,Government Service,₹6L - ₹12L,False,0,7685248463,Delhi NCR
+STU-1473,Vrishti,Garg,Female,2014-01-01,CLS-05B,5,2020-04-18,Lohit Garg,Government Service,₹6L - ₹12L,False,0,09601681107,Delhi NCR
+STU-1474,Jason,Talwar,Male,2014-10-04,CLS-05B,5,2020-03-27,Rehaan Talwar,Business Owner,₹6L - ₹12L,True,0,05837671717,Delhi NCR
+STU-1475,Vedika,Cheema,Female,2014-03-22,CLS-05B,5,2020-03-18,Sathvik Cheema,Retail/Shopkeeper,₹6L - ₹12L,True,0,+912873928913,Delhi NCR
+STU-1476,Janya,Pillai,Female,2014-08-10,CLS-05B,5,2020-03-18,Kevin Pillai,Salaried IT/Corporate,₹12L - ₹25L,True,0,5699621894,Delhi NCR
+STU-1477,Vanya,Lad,Female,2014-11-15,CLS-05B,5,2020-04-06,Aarav Lad,Retail/Shopkeeper,₹6L - ₹12L,True,0,2036542928,Delhi NCR
+STU-1478,Isaac,Baria,Male,2014-03-29,CLS-05B,5,2020-03-30,Samuel Baria,Salaried IT/Corporate,₹3L - ₹6L,True,0,07777364954,Delhi NCR
+STU-1479,Udyati,Thakkar,Female,2014-06-18,CLS-05B,5,2020-04-22,Aarav Thakkar,Government Service,₹6L - ₹12L,False,0,+913318907158,Delhi NCR
+STU-1480,Isha,Bandi,Female,2014-08-22,CLS-05B,5,2020-04-24,Manthan Bandi,Business Owner,< ₹3L,True,0,+912484624527,Delhi NCR
+STU-1481,Daksha,Deshpande,Female,2014-07-05,CLS-05B,5,2020-04-14,Abeer Deshpande,Driver/Daily Wage Worker,₹3L - ₹6L,True,25,2393387354,Delhi NCR
+STU-1482,Kalpit,Baria,Male,2014-09-03,CLS-05B,5,2020-04-29,Rudra Baria,Salaried IT/Corporate,< ₹3L,False,100,+913842754585,Delhi NCR
+STU-1483,Bhanumati,Jayaraman,Female,2014-08-21,CLS-05B,5,2020-04-22,Simon Jayaraman,Business Owner,₹3L - ₹6L,False,0,9161888742,Delhi NCR
+STU-1484,Ayaan,Khurana,Male,2014-11-12,CLS-05B,5,2020-03-12,Darpan Khurana,Government Service,₹3L - ₹6L,True,0,+912496278447,Delhi NCR
+STU-1485,Varenya,Buch,Female,2014-09-27,CLS-05B,5,2020-03-25,Thomas Buch,Healthcare/Doctor,₹12L - ₹25L,True,0,4643488116,Delhi NCR
+STU-1486,Maanas,Vora,Male,2014-09-12,CLS-05B,5,2020-03-15,Ayaan Vora,Business Owner,₹3L - ₹6L,True,0,6736967447,Delhi NCR
+STU-1487,Isaiah,Kara,Male,2014-03-01,CLS-05B,5,2020-04-18,Ekalinga Kara,Government Service,₹12L - ₹25L,False,0,9054847181,Delhi NCR
+STU-1488,Vrishti,Chada,Female,2014-11-15,CLS-05B,5,2020-03-27,Ayush Chada,Salaried IT/Corporate,₹12L - ₹25L,True,0,06000394885,Delhi NCR
+STU-1489,Isaiah,Kara,Male,2014-08-16,CLS-05B,5,2020-03-30,Fitan Kara,Government Service,₹12L - ₹25L,False,0,1012193545,Delhi NCR
+STU-1490,William,Puri,Male,2014-11-28,CLS-05B,5,2020-03-16,Lucky Puri,Government Service,₹12L - ₹25L,False,0,7393500240,Delhi NCR
+STU-1491,Yochana,Sankaran,Female,2014-05-17,CLS-05B,5,2020-03-12,Udant Sankaran,Salaried IT/Corporate,₹6L - ₹12L,False,0,7476014090,Delhi NCR
+STU-1492,Lucky,Brar,Male,2014-12-13,CLS-05B,5,2020-03-11,Michael Brar,Salaried IT/Corporate,₹3L - ₹6L,False,0,+913204106791,Delhi NCR
+STU-1493,Amruta,Palla,Female,2014-07-18,CLS-05B,5,2020-03-23,Faras Palla,Business Owner,₹3L - ₹6L,False,0,5783799053,Delhi NCR
+STU-1494,Tanmayi,Naik,Female,2014-10-29,CLS-05B,5,2020-03-10,Qadim Naik,Business Owner,₹6L - ₹12L,True,0,05020932046,Delhi NCR
+STU-1495,Rachita,Parsa,Female,2014-06-17,CLS-05C,5,2020-04-19,Devansh Parsa,Business Owner,₹6L - ₹12L,False,0,+919683419739,Delhi NCR
+STU-1496,Jagat,Munshi,Male,2014-08-28,CLS-05C,5,2020-04-03,Charles Munshi,Retail/Shopkeeper,₹6L - ₹12L,False,0,1654153084,Delhi NCR
+STU-1497,Hemal,Vasa,Female,2014-01-01,CLS-05C,5,2020-03-21,Chatresh Vasa,Business Owner,₹6L - ₹12L,False,0,8563099601,Delhi NCR
+STU-1498,Kabir,Sachdeva,Male,2014-01-24,CLS-05C,5,2020-04-27,Vincent Sachdeva,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,04735037763,Delhi NCR
+STU-1499,Raksha,Kata,Female,2014-11-13,CLS-05C,5,2020-03-14,Omkaar Kata,Salaried IT/Corporate,₹3L - ₹6L,False,0,3306271508,Delhi NCR
+STU-1500,Samarth,Sen,Male,2014-12-25,CLS-05C,5,2020-04-21,Balveer Sen,Healthcare/Doctor,₹6L - ₹12L,True,0,7289475720,Delhi NCR
+STU-1501,Onkar,Hayre,Male,2014-03-14,CLS-05C,5,2020-03-23,Joshua Hayre,Government Service,₹3L - ₹6L,False,0,9734903183,Delhi NCR
+STU-1502,Parth,Chakraborty,Male,2014-11-14,CLS-05C,5,2020-04-03,Alexander Chakraborty,Salaried IT/Corporate,< ₹3L,False,50,+910737270126,Delhi NCR
+STU-1503,Anmol,Chhabra,Male,2014-04-25,CLS-05C,5,2020-04-17,Tristan Chhabra,Business Owner,< ₹3L,False,0,+914719106545,Delhi NCR
+STU-1504,Chakradhar,Uppal,Male,2014-06-24,CLS-05C,5,2020-03-29,Daniel Uppal,Business Owner,< ₹3L,False,0,05439833593,Delhi NCR
+STU-1505,Pahal,Mistry,Female,2014-09-24,CLS-05C,5,2020-04-19,Jeet Mistry,Business Owner,< ₹3L,True,0,+913756167840,Delhi NCR
+STU-1506,Bhavna,Kade,Female,2014-11-21,CLS-05C,5,2020-03-26,Ranbir Kade,Business Owner,₹3L - ₹6L,False,25,04979782641,Delhi NCR
+STU-1507,Warinder,Sridhar,Male,2014-12-01,CLS-05C,5,2020-04-15,Jai Sridhar,Business Owner,< ₹3L,False,0,+914075577350,Delhi NCR
+STU-1508,Bina,Raval,Female,2014-04-18,CLS-05C,5,2020-03-24,Nicholas Raval,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,2456939382,Delhi NCR
+STU-1509,Bina,Cherian,Female,2014-10-30,CLS-05C,5,2020-03-01,Samar Cherian,Salaried IT/Corporate,₹3L - ₹6L,False,0,06849278288,Delhi NCR
+STU-1510,Harsh,Khosla,Male,2014-06-14,CLS-05C,5,2020-03-28,Zehaan Khosla,Healthcare/Doctor,₹6L - ₹12L,False,0,+916662383107,Delhi NCR
+STU-1511,Faris,Pandya,Male,2014-07-06,CLS-05C,5,2020-04-26,Upkaar Pandya,Healthcare/Doctor,₹6L - ₹12L,True,0,8886412739,Delhi NCR
+STU-1512,Jackson,Murty,Male,2014-08-22,CLS-05C,5,2020-03-11,Mitesh Murty,Government Service,₹6L - ₹12L,False,0,+915198435881,Delhi NCR
+STU-1513,Jacob,Date,Male,2014-03-17,CLS-05C,5,2020-03-06,Christopher Date,Driver/Daily Wage Worker,> ₹25L,False,0,03704813701,Delhi NCR
+STU-1514,Falguni,Bains,Female,2014-11-28,CLS-05C,5,2020-04-27,Upkaar Bains,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,04839199530,Delhi NCR
+STU-1515,Peter,Raju,Male,2014-08-04,CLS-05C,5,2020-04-09,Reyansh Raju,Healthcare/Doctor,₹3L - ₹6L,True,0,09229774048,Delhi NCR
+STU-1516,Waida,Mutti,Female,2014-07-27,CLS-05C,5,2020-04-22,Girish Mutti,Government Service,₹6L - ₹12L,True,0,07662212746,Delhi NCR
+STU-1517,Saanvi,Parmar,Female,2014-08-28,CLS-05C,5,2020-03-21,Azaan Parmar,Government Service,₹6L - ₹12L,False,0,+913369544248,Delhi NCR
+STU-1518,Widisha,Iyer,Female,2014-05-13,CLS-05C,5,2020-04-10,Lohit Iyer,Salaried IT/Corporate,₹12L - ₹25L,False,0,+915459611446,Delhi NCR
+STU-1519,Falak,Khalsa,Female,2014-01-21,CLS-05C,5,2020-04-22,Charles Khalsa,Salaried IT/Corporate,₹3L - ₹6L,True,0,5942691196,Delhi NCR
+STU-1520,Sai,Sankaran,Female,2014-11-15,CLS-05C,5,2020-04-06,Sarthak Sankaran,Salaried IT/Corporate,₹12L - ₹25L,False,0,+915537570983,Delhi NCR
+STU-1521,Sai,Sem,Female,2014-06-26,CLS-05C,5,2020-03-19,Anthony Sem,Retail/Shopkeeper,₹6L - ₹12L,False,0,+912929523626,Delhi NCR
+STU-1522,Raksha,Gupta,Female,2014-04-04,CLS-05C,5,2020-04-01,Jackson Gupta,Business Owner,₹12L - ₹25L,True,0,02711299339,Delhi NCR
+STU-1523,Amol,Parmer,Male,2014-05-18,CLS-05C,5,2020-04-22,Rohan Parmer,Government Service,₹3L - ₹6L,True,0,+918902386290,Delhi NCR
+STU-1524,Pushti,Kadakia,Female,2014-12-13,CLS-05C,5,2020-04-15,Harish Kadakia,Government Service,₹6L - ₹12L,False,0,5822435692,Delhi NCR
+STU-1525,Lekha,Mukhopadhyay,Female,2014-11-22,CLS-05C,5,2020-04-24,Timothy Mukhopadhyay,Salaried IT/Corporate,₹6L - ₹12L,False,0,09231643204,Delhi NCR
+STU-1526,Kevin,Kala,Male,2014-11-30,CLS-05C,5,2020-04-23,Gopal Kala,Business Owner,₹6L - ₹12L,True,0,04273213044,Delhi NCR
+STU-1527,Neel,D’Alia,Male,2014-03-26,CLS-05C,5,2020-03-06,Chandresh D’Alia,Healthcare/Doctor,₹3L - ₹6L,True,0,+910838056629,Delhi NCR
+STU-1528,Harish,Natt,Male,2014-06-12,CLS-05C,5,2020-04-29,Logan Natt,Salaried IT/Corporate,< ₹3L,True,0,4027463212,Delhi NCR
+STU-1529,Finn,Dugal,Male,2014-09-05,CLS-05C,5,2020-04-12,Fiyaz Dugal,Salaried IT/Corporate,> ₹25L,False,0,03849730731,Delhi NCR
+STU-1530,Champak,Kapur,Male,2014-07-30,CLS-05C,5,2020-04-13,Mitesh Kapur,Business Owner,₹12L - ₹25L,False,0,+918106988503,Delhi NCR
+STU-1531,Advaith,Mangal,Male,2014-03-09,CLS-05C,5,2020-03-26,Hitesh Mangal,Government Service,₹6L - ₹12L,False,0,+918513160259,Delhi NCR
+STU-1532,Chatresh,Sidhu,Male,2014-05-13,CLS-05C,5,2020-04-17,Charles Sidhu,Government Service,< ₹3L,True,50,+916364325452,Delhi NCR
+STU-1533,Anamika,Rao,Female,2013-10-04,CLS-06A,6,2019-03-27,Kalpit Rao,Government Service,₹12L - ₹25L,True,0,+919814728245,Delhi NCR
+STU-1534,Vedhika,Ratta,Female,2013-04-08,CLS-06A,6,2019-04-09,Balvan Ratta,Business Owner,₹3L - ₹6L,False,0,0723215526,Delhi NCR
+STU-1535,Deepa,Kaul,Female,2013-10-04,CLS-06A,6,2019-04-20,Darsh Kaul,Government Service,₹3L - ₹6L,True,0,8539939546,Delhi NCR
+STU-1536,Udarsh,Ahuja,Male,2013-12-10,CLS-06A,6,2019-03-14,Andrew Ahuja,Salaried IT/Corporate,₹6L - ₹12L,True,0,07000107492,Delhi NCR
+STU-1537,Faqid,Baral,Male,2013-11-23,CLS-06A,6,2019-04-10,Lucky Baral,Healthcare/Doctor,₹12L - ₹25L,True,0,+911993148659,Delhi NCR
+STU-1538,Saanvi,Buch,Female,2013-08-20,CLS-06A,6,2019-03-24,Tejas Buch,Business Owner,₹12L - ₹25L,False,0,+916467565883,Delhi NCR
+STU-1539,Wridesh,Raman,Male,2013-04-18,CLS-06A,6,2019-03-14,Hemang Raman,Salaried IT/Corporate,₹6L - ₹12L,False,0,05933915168,Delhi NCR
+STU-1540,Maya,Venkatesh,Female,2013-03-27,CLS-06A,6,2019-03-30,Theodore Venkatesh,Business Owner,₹6L - ₹12L,False,0,08326183737,Delhi NCR
+STU-1541,Mitali,Srivastava,Female,2013-08-24,CLS-06A,6,2019-04-20,Devansh Srivastava,Retail/Shopkeeper,₹3L - ₹6L,False,0,5977539449,Delhi NCR
+STU-1542,Ganga,Pandit,Female,2013-07-08,CLS-06A,6,2019-03-27,Dakshesh Pandit,Government Service,₹6L - ₹12L,False,0,6610562833,Delhi NCR
+STU-1543,Hardik,Dayal,Male,2013-02-05,CLS-06A,6,2019-04-06,Warinder Dayal,Salaried IT/Corporate,₹3L - ₹6L,False,0,3394870073,Delhi NCR
+STU-1544,Kai,Jayaraman,Male,2013-09-09,CLS-06A,6,2019-04-22,Peter Jayaraman,Business Owner,₹3L - ₹6L,True,0,+911997250994,Delhi NCR
+STU-1545,Anamika,Gola,Female,2013-03-08,CLS-06A,6,2019-03-21,Tanish Gola,Salaried IT/Corporate,₹6L - ₹12L,False,0,+910862830698,Delhi NCR
+STU-1546,Ijaya,Chand,Female,2013-05-26,CLS-06A,6,2019-04-28,Samesh Chand,Retail/Shopkeeper,₹6L - ₹12L,True,0,+914017834580,Delhi NCR
+STU-1547,Shaurya,Murthy,Male,2013-05-02,CLS-06A,6,2019-03-03,Gabriel Murthy,Business Owner,₹3L - ₹6L,False,0,+913698082986,Delhi NCR
+STU-1548,Nachiket,Oza,Male,2013-08-23,CLS-06A,6,2019-03-30,Rushil Oza,Government Service,₹6L - ₹12L,False,0,+911885759627,Delhi NCR
+STU-1549,Aarush,Baria,Male,2013-04-14,CLS-06A,6,2019-03-29,Daniel Baria,Salaried IT/Corporate,< ₹3L,False,0,2854087984,Delhi NCR
+STU-1550,Devansh,Gade,Male,2013-02-28,CLS-06A,6,2019-03-07,Tristan Gade,Salaried IT/Corporate,₹3L - ₹6L,False,0,4341468941,Delhi NCR
+STU-1551,Rajeshri,Gola,Female,2013-06-01,CLS-06A,6,2019-04-15,Anirudh Gola,Salaried IT/Corporate,< ₹3L,False,0,+914796644745,Delhi NCR
+STU-1552,Indira,Panchal,Female,2013-03-25,CLS-06A,6,2019-03-13,Fitan Panchal,Healthcare/Doctor,₹12L - ₹25L,False,0,5801325743,Delhi NCR
+STU-1553,Charita,Das,Female,2013-02-11,CLS-06A,6,2019-04-29,Ayaan Das,Salaried IT/Corporate,> ₹25L,True,0,+912831679083,Delhi NCR
+STU-1554,Henry,Jhaveri,Male,2013-09-11,CLS-06A,6,2019-03-29,Yash Jhaveri,Business Owner,> ₹25L,False,0,+913263798878,Delhi NCR
+STU-1555,Vasatika,Behl,Female,2013-05-23,CLS-06A,6,2019-04-19,Matthew Behl,Retail/Shopkeeper,< ₹3L,True,25,02119321789,Delhi NCR
+STU-1556,Aashi,Chowdhury,Female,2013-10-03,CLS-06A,6,2019-04-23,Zashil Chowdhury,Business Owner,₹6L - ₹12L,False,0,+916496127686,Delhi NCR
+STU-1557,Jairaj,Butala,Male,2013-04-03,CLS-06A,6,2019-03-26,Tanveer Butala,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910718252257,Delhi NCR
+STU-1558,Falak,Konda,Female,2013-12-18,CLS-06A,6,2019-03-04,Wridesh Konda,Business Owner,₹6L - ₹12L,True,0,09936871919,Delhi NCR
+STU-1559,Farhan,Patil,Male,2013-09-01,CLS-06A,6,2019-04-08,Rachit Patil,Salaried IT/Corporate,₹6L - ₹12L,False,0,3433973415,Delhi NCR
+STU-1560,Radha,Hayer,Female,2013-01-17,CLS-06A,6,2019-04-09,Gunbir Hayer,Retail/Shopkeeper,₹6L - ₹12L,True,0,7863780151,Delhi NCR
+STU-1561,Darpan,Saha,Male,2013-07-26,CLS-06A,6,2019-04-18,Qarin Saha,Business Owner,₹12L - ₹25L,True,0,+914729818995,Delhi NCR
+STU-1562,Garima,Misra,Female,2013-10-07,CLS-06A,6,2019-04-15,Tejas Misra,Salaried IT/Corporate,₹12L - ₹25L,True,0,2483319984,Delhi NCR
+STU-1563,Balendra,Ahuja,Male,2013-10-12,CLS-06A,6,2019-03-09,Frederick Ahuja,Healthcare/Doctor,₹6L - ₹12L,False,0,01474200957,Delhi NCR
+STU-1564,Manthan,Nayak,Male,2013-01-27,CLS-06A,6,2019-04-06,Owen Nayak,Salaried IT/Corporate,₹6L - ₹12L,False,0,+919889189350,Delhi NCR
+STU-1565,Orinder,Cherian,Male,2013-12-12,CLS-06A,6,2019-03-14,Timothy Cherian,Healthcare/Doctor,< ₹3L,False,0,6206099461,Delhi NCR
+STU-1566,Samaksh,Panchal,Male,2013-04-03,CLS-06A,6,2019-03-24,Girindra Panchal,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,+919467101965,Delhi NCR
+STU-1567,Viraj,Saraf,Male,2013-08-17,CLS-06A,6,2019-03-09,Tarak Saraf,Healthcare/Doctor,< ₹3L,False,0,8567726220,Delhi NCR
+STU-1568,Upasna,Prashad,Female,2013-04-01,CLS-06A,6,2019-04-17,Manbir Prashad,Retail/Shopkeeper,₹6L - ₹12L,False,0,00563307993,Delhi NCR
+STU-1569,Dalbir,Chopra,Male,2013-09-16,CLS-06A,6,2019-03-27,Arjun Chopra,Salaried IT/Corporate,₹6L - ₹12L,False,0,0718254113,Delhi NCR
+STU-1570,Dayamai,Dara,Female,2013-05-05,CLS-06B,6,2019-03-28,Jeremiah Dara,Business Owner,₹3L - ₹6L,False,0,07856969274,Delhi NCR
+STU-1571,Oviya,Ahuja,Female,2013-04-04,CLS-06B,6,2019-04-17,Caleb Ahuja,Healthcare/Doctor,₹12L - ₹25L,True,0,05547640352,Delhi NCR
+STU-1572,Ikbal,Vig,Male,2013-03-04,CLS-06B,6,2019-03-14,Chanakya Vig,Business Owner,₹12L - ₹25L,True,0,4735226974,Delhi NCR
+STU-1573,Januja,Chanda,Female,2013-01-13,CLS-06B,6,2019-04-21,Dominic Chanda,Business Owner,₹3L - ₹6L,False,0,+917700911976,Delhi NCR
+STU-1574,Yash,Vaidya,Male,2013-03-10,CLS-06B,6,2019-03-14,Laksh Vaidya,Salaried IT/Corporate,₹6L - ₹12L,False,0,+912004944643,Delhi NCR
+STU-1575,Patrick,Narasimhan,Male,2013-06-25,CLS-06B,6,2019-03-20,Orinder Narasimhan,Salaried IT/Corporate,> ₹25L,False,0,2011780063,Delhi NCR
+STU-1576,Aditya,Lad,Male,2013-04-24,CLS-06B,6,2019-04-04,Zayyan Lad,Retail/Shopkeeper,₹3L - ₹6L,False,0,+919297106309,Delhi NCR
+STU-1577,Ekiya,Shetty,Female,2013-08-03,CLS-06B,6,2019-03-14,Kalpit Shetty,Healthcare/Doctor,₹6L - ₹12L,False,0,+917544146091,Delhi NCR
+STU-1578,Aarini,Mannan,Female,2013-08-29,CLS-06B,6,2019-04-22,Qasim Mannan,Salaried IT/Corporate,₹6L - ₹12L,False,0,8179862746,Delhi NCR
+STU-1579,Utkarsh,Yohannan,Male,2013-10-29,CLS-06B,6,2019-03-29,Lohit Yohannan,Business Owner,₹6L - ₹12L,False,0,+913080651689,Delhi NCR
+STU-1580,Girish,Seshadri,Male,2013-09-09,CLS-06B,6,2019-04-15,Dev Seshadri,Healthcare/Doctor,₹6L - ₹12L,False,0,8009000061,Delhi NCR
+STU-1581,Eiravati,Natt,Female,2013-05-14,CLS-06B,6,2019-04-14,Kabir Natt,Salaried IT/Corporate,₹6L - ₹12L,True,0,05495896882,Delhi NCR
+STU-1582,Radhika,Barad,Female,2013-02-03,CLS-06B,6,2019-03-22,Dalbir Barad,Salaried IT/Corporate,< ₹3L,True,0,+912668942461,Delhi NCR
+STU-1583,Patrick,Taneja,Male,2013-09-06,CLS-06B,6,2019-04-24,Aarav Taneja,Retail/Shopkeeper,₹12L - ₹25L,True,0,02664804509,Delhi NCR
+STU-1584,Arjun,Sachdev,Male,2013-10-18,CLS-06B,6,2019-03-14,Matthew Sachdev,Government Service,₹6L - ₹12L,True,0,04577741952,Delhi NCR
+STU-1585,Ranbir,Bassi,Male,2013-01-04,CLS-06B,6,2019-04-28,Ishaan Bassi,Government Service,₹6L - ₹12L,True,0,+915884081118,Delhi NCR
+STU-1586,Bhavna,Varughese,Female,2013-08-19,CLS-06B,6,2019-03-20,Sarthak Varughese,Business Owner,₹6L - ₹12L,True,0,07858427608,Delhi NCR
+STU-1587,Samarth,Mitra,Male,2013-12-21,CLS-06B,6,2019-03-02,Nathaniel Mitra,Healthcare/Doctor,< ₹3L,False,0,4073374443,Delhi NCR
+STU-1588,Chatresh,Choudhary,Male,2013-11-16,CLS-06B,6,2019-03-25,Naksh Choudhary,Healthcare/Doctor,₹6L - ₹12L,True,0,+910586626223,Delhi NCR
+STU-1589,Zaid,Sharaf,Male,2013-10-11,CLS-06B,6,2019-04-09,Jeremiah Sharaf,Business Owner,< ₹3L,False,0,+913105004704,Delhi NCR
+STU-1590,Yashodhara,Wadhwa,Female,2013-04-02,CLS-06B,6,2019-04-15,Faraj Wadhwa,Retail/Shopkeeper,₹6L - ₹12L,False,0,+911329384134,Delhi NCR
+STU-1591,Victor,Rajagopal,Male,2013-09-21,CLS-06B,6,2019-03-24,Laban Rajagopal,Salaried IT/Corporate,₹6L - ₹12L,False,0,7423627035,Delhi NCR
+STU-1592,Dalbir,Sinha,Male,2013-04-04,CLS-06B,6,2019-03-06,Madhav Sinha,Retail/Shopkeeper,< ₹3L,False,0,8540753516,Delhi NCR
+STU-1593,Amol,Swamy,Male,2013-01-01,CLS-06B,6,2019-04-23,Dalbir Swamy,Government Service,₹3L - ₹6L,False,10,+911752711321,Delhi NCR
+STU-1594,Harinakshi,Bhandari,Female,2013-07-11,CLS-06B,6,2019-04-19,Agastya Bhandari,Retail/Shopkeeper,₹3L - ₹6L,False,0,6582505723,Delhi NCR
+STU-1595,Eshana,Shetty,Female,2013-02-26,CLS-06B,6,2019-03-17,Samarth Shetty,Business Owner,₹3L - ₹6L,True,0,7251071532,Delhi NCR
+STU-1596,Charles,Rana,Male,2013-02-27,CLS-06B,6,2019-03-14,Aadi Rana,Salaried IT/Corporate,< ₹3L,False,25,04862551887,Delhi NCR
+STU-1597,Jonathan,Behl,Male,2013-11-25,CLS-06B,6,2019-03-10,Ekapad Behl,Business Owner,₹6L - ₹12L,False,0,02794255717,Delhi NCR
+STU-1598,William,Deshpande,Male,2013-07-15,CLS-06B,6,2019-03-20,Logan Deshpande,Government Service,₹6L - ₹12L,True,0,+919874948371,Delhi NCR
+STU-1599,Finn,Issac,Male,2013-04-26,CLS-06B,6,2019-03-29,Anthony Issac,Business Owner,₹3L - ₹6L,True,0,09174619076,Delhi NCR
+STU-1600,Pavani,Choudhary,Female,2013-05-13,CLS-06B,6,2019-03-09,Charan Choudhary,Government Service,₹3L - ₹6L,True,0,05228124322,Delhi NCR
+STU-1601,Farhan,Bhardwaj,Male,2013-08-09,CLS-06B,6,2019-03-13,Fiyaz Bhardwaj,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,+916034222013,Delhi NCR
+STU-1602,Rishi,Chakrabarti,Male,2013-08-14,CLS-06B,6,2019-04-16,Patrick Chakrabarti,Business Owner,< ₹3L,True,0,+911564604623,Delhi NCR
+STU-1603,Pranit,Manda,Male,2013-12-08,CLS-06B,6,2019-04-15,Azaan Manda,Government Service,₹6L - ₹12L,True,0,07716033850,Delhi NCR
+STU-1604,Yauvani,Palla,Female,2013-12-26,CLS-06C,6,2019-03-09,Umang Palla,Salaried IT/Corporate,₹6L - ₹12L,False,0,09839393770,Delhi NCR
+STU-1605,Gaurika,Sundaram,Female,2013-01-03,CLS-06C,6,2019-03-25,Om Sundaram,Government Service,₹12L - ₹25L,True,0,+917222759428,Delhi NCR
+STU-1606,Tejas,Contractor,Male,2013-11-20,CLS-06C,6,2019-04-29,Pranit Contractor,Retail/Shopkeeper,₹6L - ₹12L,True,0,+914476563794,Delhi NCR
+STU-1607,Jagrati,Guha,Female,2013-11-20,CLS-06C,6,2019-04-28,Viraj Guha,Healthcare/Doctor,< ₹3L,False,25,+915700467960,Delhi NCR
+STU-1608,Urmi,Dar,Female,2013-08-03,CLS-06C,6,2019-04-23,Harshil Dar,Salaried IT/Corporate,₹6L - ₹12L,False,0,00078537022,Delhi NCR
+STU-1609,Chakradhar,Barad,Male,2013-06-25,CLS-06C,6,2019-03-27,Saksham Barad,Retail/Shopkeeper,< ₹3L,False,25,03634179622,Delhi NCR
+STU-1610,Chaaya,Chaudhary,Female,2013-03-05,CLS-06C,6,2019-03-29,Anirudh Chaudhary,Government Service,₹12L - ₹25L,True,0,04905011227,Delhi NCR
+STU-1611,Laksh,Venkataraman,Male,2013-10-13,CLS-06C,6,2019-03-25,Champak Venkataraman,Salaried IT/Corporate,₹6L - ₹12L,True,0,04671404411,Delhi NCR
+STU-1612,Brijesh,Mahajan,Male,2013-03-20,CLS-06C,6,2019-04-03,Yatin Mahajan,Business Owner,₹6L - ₹12L,True,0,7436310502,Delhi NCR
+STU-1613,Devansh,Nadig,Male,2013-01-07,CLS-06C,6,2019-03-04,Samesh Nadig,Salaried IT/Corporate,> ₹25L,False,0,04370694537,Delhi NCR
+STU-1614,Udant,Dara,Male,2013-03-17,CLS-06C,6,2019-03-15,Rayaan Dara,Retail/Shopkeeper,₹3L - ₹6L,True,0,0887989035,Delhi NCR
+STU-1615,Watika,Sandhu,Female,2013-03-03,CLS-06C,6,2019-04-25,Yuvraj Sandhu,Government Service,< ₹3L,True,25,5256671871,Delhi NCR
+STU-1616,Lopa,Rattan,Female,2013-03-31,CLS-06C,6,2019-04-26,Peter Rattan,Business Owner,< ₹3L,False,50,08259808451,Delhi NCR
+STU-1617,Udant,Dey,Male,2013-10-07,CLS-06C,6,2019-03-22,Ishaan Dey,Business Owner,₹6L - ₹12L,False,0,+915275112824,Delhi NCR
+STU-1618,Wakeeta,Balasubramanian,Female,2013-02-08,CLS-06C,6,2019-03-31,Kiaan Balasubramanian,Government Service,₹3L - ₹6L,False,0,+917186825276,Delhi NCR
+STU-1619,Chaitaly,Sha,Female,2013-09-29,CLS-06C,6,2019-04-27,Jatin Sha,Government Service,₹12L - ₹25L,True,0,00551910940,Delhi NCR
+STU-1620,Oliver,Gulati,Male,2013-05-10,CLS-06C,6,2019-03-03,Nachiket Gulati,Salaried IT/Corporate,> ₹25L,False,0,06685851904,Delhi NCR
+STU-1621,Prisha,Bhatnagar,Female,2013-01-20,CLS-06C,6,2019-03-03,Teerth Bhatnagar,Salaried IT/Corporate,₹6L - ₹12L,False,0,06376879271,Delhi NCR
+STU-1622,Ranbir,Nagi,Male,2013-01-05,CLS-06C,6,2019-03-18,Champak Nagi,Retail/Shopkeeper,₹6L - ₹12L,False,0,00968586291,Delhi NCR
+STU-1623,David,Ganguly,Male,2013-03-23,CLS-06C,6,2019-04-06,Harish Ganguly,Salaried IT/Corporate,₹6L - ₹12L,False,0,+910619336676,Delhi NCR
+STU-1624,Kamya,Kala,Female,2013-10-22,CLS-06C,6,2019-04-22,Abdul Kala,Salaried IT/Corporate,> ₹25L,False,0,7013261408,Delhi NCR
+STU-1625,Champak,Chakraborty,Male,2013-08-29,CLS-06C,6,2019-04-08,Thomas Chakraborty,Retail/Shopkeeper,₹12L - ₹25L,False,0,0552012250,Delhi NCR
+STU-1626,Nidra,Mukherjee,Female,2013-07-09,CLS-06C,6,2019-04-27,Umang Mukherjee,Driver/Daily Wage Worker,₹3L - ₹6L,True,10,+910216934024,Delhi NCR
+STU-1627,Nilima,Mutti,Female,2013-11-07,CLS-06C,6,2019-04-26,Ishaan Mutti,Business Owner,₹3L - ₹6L,True,10,+910701761802,Delhi NCR
+STU-1628,Reyansh,Gola,Male,2013-02-23,CLS-06C,6,2019-03-04,Anirudh Gola,Retail/Shopkeeper,₹12L - ₹25L,False,0,+915097227289,Delhi NCR
+STU-1629,Amaira,Garde,Female,2013-08-31,CLS-06C,6,2019-03-25,Jairaj Garde,Salaried IT/Corporate,₹6L - ₹12L,False,0,0713935911,Delhi NCR
+STU-1630,Yatin,Murthy,Male,2013-07-25,CLS-06C,6,2019-04-17,Tejas Murthy,Salaried IT/Corporate,> ₹25L,True,0,00133237128,Delhi NCR
+STU-1631,Chatresh,De,Male,2013-12-04,CLS-06C,6,2019-03-17,David De,Business Owner,₹3L - ₹6L,False,0,05448459558,Delhi NCR
+STU-1632,Sachi,Som,Female,2013-08-01,CLS-06C,6,2019-04-22,Faraj Som,Salaried IT/Corporate,₹3L - ₹6L,True,0,5305092967,Delhi NCR
+STU-1633,Madhav,Patla,Male,2013-04-23,CLS-06C,6,2019-03-30,Girik Patla,Salaried IT/Corporate,₹12L - ₹25L,True,0,02003685666,Delhi NCR
+STU-1634,Balendra,Patla,Male,2013-11-02,CLS-06C,6,2019-04-06,Qarin Patla,Salaried IT/Corporate,₹12L - ₹25L,True,0,04589848502,Delhi NCR
+STU-1635,Qushi,More,Female,2013-09-25,CLS-06C,6,2019-03-23,Peter More,Salaried IT/Corporate,₹3L - ₹6L,True,0,9056130187,Delhi NCR
+STU-1636,Inaya,Gill,Female,2012-11-20,CLS-07A,7,2018-04-21,Girish Gill,Business Owner,₹12L - ₹25L,True,0,+912491368762,Delhi NCR
+STU-1637,Wazir,Lalla,Male,2012-02-18,CLS-07A,7,2018-03-25,Madhav Lalla,Healthcare/Doctor,< ₹3L,True,25,+917059545559,Delhi NCR
+STU-1638,Ishwar,Chaudry,Male,2012-05-07,CLS-07A,7,2018-03-23,Nihal Chaudry,Business Owner,₹12L - ₹25L,True,0,+915798701719,Delhi NCR
+STU-1639,Chaman,Ghose,Female,2012-03-29,CLS-07A,7,2018-04-06,Andrew Ghose,Healthcare/Doctor,₹3L - ₹6L,True,10,5997348157,Delhi NCR
+STU-1640,Vaishnavi,Virk,Female,2012-01-27,CLS-07A,7,2018-03-22,Manbir Virk,Salaried IT/Corporate,₹6L - ₹12L,False,0,+915602595820,Delhi NCR
+STU-1641,Girindra,Chacko,Male,2012-08-27,CLS-07A,7,2018-03-11,Onveer Chacko,Salaried IT/Corporate,> ₹25L,False,0,02955174690,Delhi NCR
+STU-1642,Unnati,Dhawan,Female,2012-02-04,CLS-07A,7,2018-04-01,Warjas Dhawan,Salaried IT/Corporate,₹3L - ₹6L,True,0,07863339959,Delhi NCR
+STU-1643,Wriddhish,Prashad,Male,2012-10-19,CLS-07A,7,2018-03-12,Mohammed Prashad,Salaried IT/Corporate,₹12L - ₹25L,False,0,3357181849,Delhi NCR
+STU-1644,Ikshita,Chander,Female,2012-02-22,CLS-07A,7,2018-03-10,Ekavir Chander,Government Service,< ₹3L,False,50,6041357649,Delhi NCR
+STU-1645,Wyatt,Behl,Male,2012-12-17,CLS-07A,7,2018-03-02,Frado Behl,Salaried IT/Corporate,₹6L - ₹12L,False,0,0349594240,Delhi NCR
+STU-1646,Tanveer,Narain,Male,2012-01-11,CLS-07A,7,2018-03-13,Saksham Narain,Government Service,₹6L - ₹12L,True,0,6810450051,Delhi NCR
+STU-1647,Hema,Agrawal,Female,2012-06-24,CLS-07A,7,2018-04-21,Imaran Agrawal,Healthcare/Doctor,₹12L - ₹25L,False,0,00183443082,Delhi NCR
+STU-1648,Mahika,Pillay,Female,2012-09-17,CLS-07A,7,2018-04-16,Faras Pillay,Business Owner,₹3L - ₹6L,False,0,7389699014,Delhi NCR
+STU-1649,Hitesh,Apte,Male,2012-04-30,CLS-07A,7,2018-04-14,Peter Apte,Salaried IT/Corporate,₹3L - ₹6L,False,0,+916853864406,Delhi NCR
+STU-1650,Oscar,Varty,Male,2012-01-30,CLS-07A,7,2018-03-08,Ayaan Varty,Business Owner,> ₹25L,True,0,+916390427375,Delhi NCR
+STU-1651,Gaurika,Krishna,Female,2012-04-04,CLS-07A,7,2018-04-12,Darsh Krishna,Government Service,< ₹3L,True,100,02509310561,Delhi NCR
+STU-1652,Sanya,Munshi,Female,2012-06-19,CLS-07A,7,2018-03-13,Banjeet Munshi,Business Owner,> ₹25L,False,0,+910229033088,Delhi NCR
+STU-1653,Om,Sem,Male,2012-05-09,CLS-07A,7,2018-04-14,Falan Sem,Retail/Shopkeeper,₹12L - ₹25L,True,0,07840886249,Delhi NCR
+STU-1654,Lucky,Nagi,Male,2012-11-04,CLS-07A,7,2018-04-07,Indrajit Nagi,Government Service,₹3L - ₹6L,True,0,+910950016054,Delhi NCR
+STU-1655,Kavya,Chakraborty,Female,2012-08-28,CLS-07A,7,2018-04-06,Laban Chakraborty,Business Owner,₹3L - ₹6L,False,10,00491132807,Delhi NCR
+STU-1656,Vritti,Dugal,Female,2012-11-17,CLS-07A,7,2018-03-07,Laksh Dugal,Salaried IT/Corporate,₹3L - ₹6L,True,10,+918464490753,Delhi NCR
+STU-1657,Widisha,Bajaj,Female,2012-04-17,CLS-07A,7,2018-03-04,Wazir Bajaj,Retail/Shopkeeper,< ₹3L,False,25,+919568641355,Delhi NCR
+STU-1658,Xalak,Balasubramanian,Female,2012-09-06,CLS-07A,7,2018-04-14,Avi Balasubramanian,Retail/Shopkeeper,₹12L - ₹25L,False,0,03182525642,Delhi NCR
+STU-1659,Liam,Tiwari,Male,2012-11-19,CLS-07A,7,2018-03-15,Tanveer Tiwari,Government Service,₹3L - ₹6L,False,10,00612135714,Delhi NCR
+STU-1660,Brinda,Sami,Female,2012-11-14,CLS-07A,7,2018-04-27,Ikbal Sami,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,5115712631,Delhi NCR
+STU-1661,Faras,Gala,Male,2012-01-12,CLS-07A,7,2018-04-12,Quincy Gala,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,08393742868,Delhi NCR
+STU-1662,Anamika,Nagarajan,Female,2012-01-14,CLS-07A,7,2018-04-11,Mason Nagarajan,Government Service,> ₹25L,True,0,+910290185704,Delhi NCR
+STU-1663,Sanaya,Arya,Female,2012-04-08,CLS-07A,7,2018-04-13,Gaurav Arya,Retail/Shopkeeper,₹6L - ₹12L,False,0,0252412506,Delhi NCR
+STU-1664,Sarthak,Dubey,Male,2012-03-14,CLS-07A,7,2018-03-28,Chatresh Dubey,Salaried IT/Corporate,₹6L - ₹12L,False,0,5005270441,Delhi NCR
+STU-1665,Kritika,Shan,Female,2012-11-22,CLS-07A,7,2018-04-27,Darpan Shan,Salaried IT/Corporate,₹3L - ₹6L,True,25,0328480232,Delhi NCR
+STU-1666,Nicholas,Badal,Male,2012-03-18,CLS-07A,7,2018-03-05,Mitesh Badal,Healthcare/Doctor,₹3L - ₹6L,True,0,09811257118,Delhi NCR
+STU-1667,Zansi,Kannan,Female,2012-06-02,CLS-07A,7,2018-04-29,Alexander Kannan,Government Service,₹3L - ₹6L,False,0,08954811109,Delhi NCR
+STU-1668,Leela,Taneja,Female,2012-06-15,CLS-07B,7,2018-04-13,Avi Taneja,Healthcare/Doctor,> ₹25L,False,0,+919804188488,Delhi NCR
+STU-1669,Luke,Sani,Male,2012-12-28,CLS-07B,7,2018-03-10,Indrajit Sani,Salaried IT/Corporate,₹3L - ₹6L,True,25,8689474128,Delhi NCR
+STU-1670,Rajeshri,Chokshi,Female,2012-08-29,CLS-07B,7,2018-03-20,Kai Chokshi,Business Owner,< ₹3L,True,0,2773675320,Delhi NCR
+STU-1671,Geetika,Dhingra,Female,2012-04-07,CLS-07B,7,2018-04-01,Teerth Dhingra,Business Owner,₹6L - ₹12L,False,0,03361325030,Delhi NCR
+STU-1672,Benjamin,Aurora,Male,2012-04-10,CLS-07B,7,2018-03-08,Nachiket Aurora,Retail/Shopkeeper,₹6L - ₹12L,True,0,08927303946,Delhi NCR
+STU-1673,Balendra,Apte,Male,2012-04-25,CLS-07B,7,2018-03-30,Chakradev Apte,Retail/Shopkeeper,< ₹3L,False,50,+919935364230,Delhi NCR
+STU-1674,Urishilla,Nazareth,Female,2012-01-28,CLS-07B,7,2018-03-10,Wridesh Nazareth,Salaried IT/Corporate,< ₹3L,True,100,6188238199,Delhi NCR
+STU-1675,Ladli,Banik,Female,2012-04-25,CLS-07B,7,2018-04-25,Gaurav Banik,Salaried IT/Corporate,₹12L - ₹25L,False,0,8047428372,Delhi NCR
+STU-1676,Tara,Kara,Female,2012-02-04,CLS-07B,7,2018-03-22,Orinder Kara,Government Service,₹6L - ₹12L,False,0,02422199422,Delhi NCR
+STU-1677,Theodore,Sastry,Male,2012-02-13,CLS-07B,7,2018-04-22,Gautam Sastry,Salaried IT/Corporate,< ₹3L,False,100,01572071583,Delhi NCR
+STU-1678,Urishilla,Saraf,Female,2012-02-09,CLS-07B,7,2018-04-09,Sai Saraf,Salaried IT/Corporate,₹3L - ₹6L,False,0,06678235923,Delhi NCR
+STU-1679,Warjas,Bedi,Male,2012-02-18,CLS-07B,7,2018-03-26,Jagdish Bedi,Business Owner,₹3L - ₹6L,False,0,04353962317,Delhi NCR
+STU-1680,Wahab,Sampath,Male,2012-11-16,CLS-07B,7,2018-04-15,Gabriel Sampath,Salaried IT/Corporate,< ₹3L,False,25,06208299693,Delhi NCR
+STU-1681,Lakshmi,Bhakta,Female,2012-05-27,CLS-07B,7,2018-04-15,Advik Bhakta,Business Owner,₹3L - ₹6L,False,0,+918220809954,Delhi NCR
+STU-1682,Jacob,Anne,Male,2012-05-09,CLS-07B,7,2018-04-13,George Anne,Salaried IT/Corporate,₹6L - ₹12L,False,0,+919788779441,Delhi NCR
+STU-1683,Faraj,Ramakrishnan,Male,2012-01-27,CLS-07B,7,2018-04-20,Jeet Ramakrishnan,Salaried IT/Corporate,₹6L - ₹12L,False,0,4527280750,Delhi NCR
+STU-1684,Balveer,Sankar,Male,2012-08-29,CLS-07B,7,2018-03-08,Veer Sankar,Business Owner,₹12L - ₹25L,True,0,5680109315,Delhi NCR
+STU-1685,Prisha,Garg,Female,2012-11-10,CLS-07B,7,2018-03-08,Lucky Garg,Salaried IT/Corporate,₹6L - ₹12L,False,0,+911648967542,Delhi NCR
+STU-1686,Advika,Kata,Female,2012-09-13,CLS-07B,7,2018-04-25,Advaith Kata,Healthcare/Doctor,₹6L - ₹12L,True,0,6022102091,Delhi NCR
+STU-1687,Watika,Bhavsar,Female,2012-12-23,CLS-07B,7,2018-04-15,Rohan Bhavsar,Healthcare/Doctor,₹12L - ₹25L,False,0,+911642711734,Delhi NCR
+STU-1688,Kamya,Anand,Female,2012-05-25,CLS-07B,7,2018-04-05,Logan Anand,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,+911809959264,Delhi NCR
+STU-1689,Baljiwan,Joshi,Male,2012-09-23,CLS-07B,7,2018-04-10,Harish Joshi,Retail/Shopkeeper,< ₹3L,True,0,+917552381186,Delhi NCR
+STU-1690,Ojas,Rege,Male,2012-08-13,CLS-07B,7,2018-03-29,Qabil Rege,Salaried IT/Corporate,₹12L - ₹25L,True,0,+917891918674,Delhi NCR
+STU-1691,Omya,Bandi,Female,2012-02-27,CLS-07B,7,2018-03-09,Balveer Bandi,Salaried IT/Corporate,₹12L - ₹25L,False,0,07979996724,Delhi NCR
+STU-1692,Fitan,Nanda,Male,2012-06-22,CLS-07B,7,2018-03-17,Arin Nanda,Salaried IT/Corporate,₹6L - ₹12L,True,0,4598268054,Delhi NCR
+STU-1693,Amrita,Rana,Female,2012-10-17,CLS-07B,7,2018-04-27,David Rana,Retail/Shopkeeper,₹3L - ₹6L,True,0,5723995995,Delhi NCR
+STU-1694,Banjeet,Ramakrishnan,Male,2012-06-16,CLS-07B,7,2018-03-02,Gabriel Ramakrishnan,Business Owner,₹6L - ₹12L,False,0,04271875737,Delhi NCR
+STU-1695,Samuel,Pillai,Male,2012-01-28,CLS-07B,7,2018-04-08,Dev Pillai,Salaried IT/Corporate,₹12L - ₹25L,False,0,2218021559,Delhi NCR
+STU-1696,Krish,Kamdar,Male,2012-07-19,CLS-07B,7,2018-04-14,Jairaj Kamdar,Business Owner,₹3L - ₹6L,True,0,+916028231576,Delhi NCR
+STU-1697,Vrinda,Jhaveri,Female,2012-01-28,CLS-07B,7,2018-03-29,Naksh Jhaveri,Salaried IT/Corporate,₹6L - ₹12L,False,0,8457676442,Delhi NCR
+STU-1698,Yoshita,Brahmbhatt,Female,2012-07-24,CLS-07B,7,2018-04-22,Advay Brahmbhatt,Retail/Shopkeeper,₹12L - ₹25L,False,0,+911544686950,Delhi NCR
+STU-1699,Ansh,Chokshi,Male,2012-11-22,CLS-07B,7,2018-03-16,Liam Chokshi,Government Service,₹6L - ₹12L,True,0,02577972972,Delhi NCR
+STU-1700,Jonathan,Palla,Male,2012-09-13,CLS-07B,7,2018-03-01,Gabriel Palla,Government Service,₹6L - ₹12L,False,0,9872006308,Delhi NCR
+STU-1701,Balendra,Peri,Male,2012-10-02,CLS-07C,7,2018-04-16,Advaith Peri,Government Service,₹12L - ₹25L,True,0,+917236391438,Delhi NCR
+STU-1702,Divya,Kanda,Female,2012-12-16,CLS-07C,7,2018-04-11,Tanish Kanda,Retail/Shopkeeper,₹12L - ₹25L,True,0,5453396187,Delhi NCR
+STU-1703,Upkaar,Shah,Male,2012-10-07,CLS-07C,7,2018-03-17,Xavier Shah,Salaried IT/Corporate,₹12L - ₹25L,False,0,+915441956738,Delhi NCR
+STU-1704,Watika,Gole,Female,2012-12-18,CLS-07C,7,2018-04-14,Samar Gole,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,+919092659232,Delhi NCR
+STU-1705,Ishwar,Konda,Male,2012-04-10,CLS-07C,7,2018-04-02,Gautam Konda,Business Owner,> ₹25L,False,0,03831405138,Delhi NCR
+STU-1706,Thomas,Talwar,Male,2012-09-23,CLS-07C,7,2018-04-06,Thomas Talwar,Government Service,₹6L - ₹12L,True,0,+915528571823,Delhi NCR
+STU-1707,Oliver,Bhasin,Male,2012-03-21,CLS-07C,7,2018-03-09,Gavin Bhasin,Business Owner,₹12L - ₹25L,False,0,09341299778,Delhi NCR
+STU-1708,Urvi,Bera,Female,2012-02-07,CLS-07C,7,2018-04-24,Aryan Bera,Healthcare/Doctor,₹12L - ₹25L,True,0,02517083351,Delhi NCR
+STU-1709,Girindra,Kala,Male,2012-12-14,CLS-07C,7,2018-04-18,Abhimanyu Kala,Business Owner,₹6L - ₹12L,True,0,03425253816,Delhi NCR
+STU-1710,Tristan,Bhandari,Male,2012-01-16,CLS-07C,7,2018-04-20,Ayaan Bhandari,Salaried IT/Corporate,₹12L - ₹25L,True,0,+911475583330,Delhi NCR
+STU-1711,Om,Bhatia,Male,2012-11-20,CLS-07C,7,2018-03-14,Samarth Bhatia,Retail/Shopkeeper,₹6L - ₹12L,True,0,08925128136,Delhi NCR
+STU-1712,Kiaan,Dara,Male,2012-03-04,CLS-07C,7,2018-04-29,Luke Dara,Business Owner,₹12L - ₹25L,True,0,2461210171,Delhi NCR
+STU-1713,Rachana,Date,Female,2012-09-09,CLS-07C,7,2018-03-17,Neel Date,Business Owner,₹3L - ₹6L,False,0,1764883124,Delhi NCR
+STU-1714,Rajeshri,Nagi,Female,2012-01-31,CLS-07C,7,2018-04-17,Bahadurjit Nagi,Salaried IT/Corporate,₹3L - ₹6L,True,0,+911122634962,Delhi NCR
+STU-1715,Aarush,Toor,Male,2012-04-14,CLS-07C,7,2018-03-22,Dev Toor,Salaried IT/Corporate,₹3L - ₹6L,True,0,+915892203036,Delhi NCR
+STU-1716,Hemal,Rege,Female,2012-10-08,CLS-07C,7,2018-03-06,Krishna Rege,Government Service,₹6L - ₹12L,False,0,+910518496991,Delhi NCR
+STU-1717,Gaurangi,Sanghvi,Female,2012-02-15,CLS-07C,7,2018-04-28,Nathan Sanghvi,Retail/Shopkeeper,₹6L - ₹12L,True,0,02080252562,Delhi NCR
+STU-1718,Aarnav,Patla,Male,2012-04-24,CLS-07C,7,2018-04-24,Luke Patla,Salaried IT/Corporate,₹3L - ₹6L,True,0,+914781104592,Delhi NCR
+STU-1719,Yagnesh,Dhillon,Male,2012-09-17,CLS-07C,7,2018-04-10,Abeer Dhillon,Salaried IT/Corporate,₹12L - ₹25L,False,0,+918335961026,Delhi NCR
+STU-1720,Jacob,Pau,Male,2012-08-07,CLS-07C,7,2018-04-18,Chandran Pau,Salaried IT/Corporate,₹3L - ₹6L,False,0,01687911541,Delhi NCR
+STU-1721,Nicholas,Choudhury,Male,2012-09-27,CLS-07C,7,2018-04-14,Rachit Choudhury,Government Service,₹6L - ₹12L,True,0,7115580948,Delhi NCR
+STU-1722,Manthan,Keer,Male,2012-07-16,CLS-07C,7,2018-03-29,Ishwar Keer,Driver/Daily Wage Worker,> ₹25L,False,0,08966918620,Delhi NCR
+STU-1723,Kashvi,Nagi,Female,2012-07-27,CLS-07C,7,2018-03-04,Kalpit Nagi,Salaried IT/Corporate,₹6L - ₹12L,True,0,+911229691576,Delhi NCR
+STU-1724,Umang,Sani,Male,2012-08-16,CLS-07C,7,2018-03-11,Chatura Sani,Salaried IT/Corporate,₹3L - ₹6L,False,0,09265468014,Delhi NCR
+STU-1725,Ansh,Salvi,Male,2012-09-12,CLS-07C,7,2018-03-12,Raghav Salvi,Retail/Shopkeeper,₹6L - ₹12L,False,0,6318731731,Delhi NCR
+STU-1726,Chakradev,Hayer,Male,2012-12-01,CLS-07C,7,2018-03-09,Falan Hayer,Salaried IT/Corporate,₹6L - ₹12L,True,0,07144267087,Delhi NCR
+STU-1727,Lipika,Maharaj,Female,2012-10-20,CLS-07C,7,2018-03-22,Krish Maharaj,Government Service,₹12L - ₹25L,False,0,2622160117,Delhi NCR
+STU-1728,Mitali,Dube,Female,2012-04-28,CLS-07C,7,2018-03-07,Mason Dube,Government Service,₹6L - ₹12L,False,0,+914406506929,Delhi NCR
+STU-1729,Guneet,Magar,Male,2012-07-04,CLS-07C,7,2018-03-08,Omkaar Magar,Business Owner,₹6L - ₹12L,True,0,03378623047,Delhi NCR
+STU-1730,Jasmit,Madan,Female,2012-11-28,CLS-07C,7,2018-04-18,Harish Madan,Healthcare/Doctor,> ₹25L,False,0,+913721257622,Delhi NCR
+STU-1731,Gayathri,Shankar,Female,2012-05-10,CLS-07C,7,2018-04-23,Nathaniel Shankar,Business Owner,₹3L - ₹6L,False,0,02403036924,Delhi NCR
+STU-1732,Fiyaz,Tandon,Male,2012-08-23,CLS-07C,7,2018-04-01,Gagan Tandon,Retail/Shopkeeper,₹12L - ₹25L,True,0,+912734452676,Delhi NCR
+STU-1733,Dominic,Vora,Male,2011-03-17,CLS-08A,8,2017-04-03,Wyatt Vora,Salaried IT/Corporate,₹3L - ₹6L,True,0,0733951636,Delhi NCR
+STU-1734,Isha,Chatterjee,Female,2011-10-25,CLS-08A,8,2017-03-06,Ishwar Chatterjee,Government Service,₹12L - ₹25L,True,0,+914227007080,Delhi NCR
+STU-1735,Warjas,Rana,Male,2011-08-09,CLS-08A,8,2017-04-12,Raghav Rana,Salaried IT/Corporate,₹6L - ₹12L,False,0,5729616233,Delhi NCR
+STU-1736,Frederick,Ravi,Male,2011-05-28,CLS-08A,8,2017-03-03,Luke Ravi,Business Owner,₹6L - ₹12L,True,0,4561873218,Delhi NCR
+STU-1737,Aarush,Hari,Male,2011-05-05,CLS-08A,8,2017-04-19,Laban Hari,Business Owner,₹12L - ₹25L,True,0,9596104511,Delhi NCR
+STU-1738,Caleb,Kale,Male,2011-04-29,CLS-08A,8,2017-03-22,Jack Kale,Salaried IT/Corporate,₹3L - ₹6L,False,0,4431603777,Delhi NCR
+STU-1739,Balendra,Bava,Male,2011-03-23,CLS-08A,8,2017-03-29,Dakshesh Bava,Salaried IT/Corporate,₹12L - ₹25L,True,0,9044189858,Delhi NCR
+STU-1740,Ojas,Sehgal,Male,2011-01-25,CLS-08A,8,2017-03-10,Onkar Sehgal,Retail/Shopkeeper,> ₹25L,False,0,06955246420,Delhi NCR
+STU-1741,Timothy,Mody,Male,2011-05-22,CLS-08A,8,2017-03-20,Karan Mody,Salaried IT/Corporate,₹12L - ₹25L,True,0,09981189402,Delhi NCR
+STU-1742,Ekaraj,Sawhney,Male,2011-04-25,CLS-08A,8,2017-04-10,Advay Sawhney,Salaried IT/Corporate,₹6L - ₹12L,True,0,+915386089595,Delhi NCR
+STU-1743,Daksh,Buch,Male,2011-05-12,CLS-08A,8,2017-04-22,Ranbir Buch,Healthcare/Doctor,₹3L - ₹6L,True,0,06490056676,Delhi NCR
+STU-1744,Faras,Malhotra,Male,2011-01-07,CLS-08A,8,2017-03-11,Bakhshi Malhotra,Salaried IT/Corporate,₹12L - ₹25L,False,0,+914361524337,Delhi NCR
+STU-1745,Anika,Choudhary,Female,2011-09-23,CLS-08A,8,2017-03-11,Agastya Choudhary,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,+913546212952,Delhi NCR
+STU-1746,Oliver,Shukla,Male,2011-02-08,CLS-08A,8,2017-04-15,Neel Shukla,Government Service,₹6L - ₹12L,True,0,01399459667,Delhi NCR
+STU-1747,Jasmit,Mishra,Female,2011-10-26,CLS-08A,8,2017-04-15,Simon Mishra,Business Owner,₹12L - ₹25L,True,0,09375482556,Delhi NCR
+STU-1748,Pooja,Chahal,Female,2011-05-07,CLS-08A,8,2017-04-16,Jack Chahal,Salaried IT/Corporate,₹6L - ₹12L,False,0,+912123804229,Delhi NCR
+STU-1749,Vihaan,Mall,Male,2011-08-01,CLS-08A,8,2017-03-18,Omkaar Mall,Business Owner,< ₹3L,True,25,+917308100824,Delhi NCR
+STU-1750,Girik,Ramanathan,Male,2011-12-24,CLS-08A,8,2017-03-30,Indrajit Ramanathan,Government Service,₹3L - ₹6L,False,0,09116886945,Delhi NCR
+STU-1751,Lakshit,Johal,Male,2011-12-09,CLS-08A,8,2017-04-15,Timothy Johal,Salaried IT/Corporate,₹6L - ₹12L,False,0,9547293384,Delhi NCR
+STU-1752,Tejas,Wali,Male,2011-07-31,CLS-08A,8,2017-03-11,Gavin Wali,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,05310655340,Delhi NCR
+STU-1753,Finn,Sarkar,Male,2011-11-09,CLS-08A,8,2017-04-17,Tanay Sarkar,Driver/Daily Wage Worker,₹3L - ₹6L,True,0,02314188882,Delhi NCR
+STU-1754,Riya,Yadav,Female,2011-05-31,CLS-08A,8,2017-04-15,Thomas Yadav,Business Owner,₹3L - ₹6L,True,0,2569909412,Delhi NCR
+STU-1755,Logan,Kota,Male,2011-07-03,CLS-08A,8,2017-04-23,Ronith Kota,Healthcare/Doctor,₹6L - ₹12L,True,0,00466470992,Delhi NCR
+STU-1756,Dayita,Kapadia,Female,2011-08-17,CLS-08A,8,2017-03-02,Nicholas Kapadia,Salaried IT/Corporate,< ₹3L,True,0,6297399825,Delhi NCR
+STU-1757,Wakeeta,Thakkar,Female,2011-06-22,CLS-08A,8,2017-04-21,Ronith Thakkar,Business Owner,₹6L - ₹12L,False,0,1830507144,Delhi NCR
+STU-1758,Girindra,Shanker,Male,2011-10-11,CLS-08A,8,2017-03-27,Arin Shanker,Government Service,₹3L - ₹6L,False,0,4722055817,Delhi NCR
+STU-1759,Ronith,Natarajan,Male,2011-03-11,CLS-08A,8,2017-03-06,Mohammed Natarajan,Business Owner,< ₹3L,True,0,+919060329893,Delhi NCR
+STU-1760,Isaiah,Oommen,Male,2011-03-17,CLS-08A,8,2017-03-16,Nihal Oommen,Business Owner,₹12L - ₹25L,True,0,05178547451,Delhi NCR
+STU-1761,Ayaan,Kamdar,Male,2011-07-04,CLS-08A,8,2017-04-26,Owen Kamdar,Business Owner,₹12L - ₹25L,True,0,09002454452,Delhi NCR
+STU-1762,Lekha,Chaudhuri,Female,2011-04-26,CLS-08A,8,2017-03-09,Nihal Chaudhuri,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,+912690890775,Delhi NCR
+STU-1763,Lila,Jha,Female,2011-03-23,CLS-08A,8,2017-03-02,Gabriel Jha,Salaried IT/Corporate,₹3L - ₹6L,True,0,9460022853,Delhi NCR
+STU-1764,Charvi,Konda,Female,2011-05-15,CLS-08A,8,2017-03-20,Baljiwan Konda,Salaried IT/Corporate,₹6L - ₹12L,True,0,07473742749,Delhi NCR
+STU-1765,Bhanumati,Chawla,Female,2011-10-16,CLS-08A,8,2017-03-24,Ethan Chawla,Retail/Shopkeeper,₹12L - ₹25L,False,0,05209299523,Delhi NCR
+STU-1766,Rayaan,Boase,Male,2011-05-25,CLS-08A,8,2017-04-12,Oliver Boase,Business Owner,< ₹3L,True,0,+914642411693,Delhi NCR
+STU-1767,Idika,Chanda,Female,2011-09-05,CLS-08B,8,2017-03-23,Max Chanda,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,+918197042575,Delhi NCR
+STU-1768,Ekalinga,Nair,Male,2011-03-09,CLS-08B,8,2017-04-07,Gabriel Nair,Salaried IT/Corporate,< ₹3L,False,50,00539473756,Delhi NCR
+STU-1769,Rajata,Thaker,Female,2011-03-23,CLS-08B,8,2017-03-12,Zashil Thaker,Government Service,₹3L - ₹6L,True,10,+912785486395,Delhi NCR
+STU-1770,Kritika,Wali,Female,2011-11-24,CLS-08B,8,2017-04-02,Gautam Wali,Salaried IT/Corporate,₹6L - ₹12L,False,0,4197949121,Delhi NCR
+STU-1771,Ekani,Swamy,Female,2011-11-19,CLS-08B,8,2017-03-11,Chatresh Swamy,Salaried IT/Corporate,> ₹25L,True,0,00906422220,Delhi NCR
+STU-1772,Om,Bhatt,Male,2011-11-21,CLS-08B,8,2017-04-10,Faras Bhatt,Salaried IT/Corporate,₹3L - ₹6L,False,0,+911956237265,Delhi NCR
+STU-1773,Bahadurjit,Sharma,Male,2011-08-21,CLS-08B,8,2017-03-02,Victor Sharma,Retail/Shopkeeper,₹3L - ₹6L,True,0,5063099887,Delhi NCR
+STU-1774,Yash,Loke,Male,2011-09-02,CLS-08B,8,2017-03-15,Guneet Loke,Salaried IT/Corporate,₹6L - ₹12L,True,0,06357247268,Delhi NCR
+STU-1775,Isaiah,Kale,Male,2011-03-10,CLS-08B,8,2017-04-16,Quincy Kale,Business Owner,₹12L - ₹25L,False,0,+915269293722,Delhi NCR
+STU-1776,Harrison,Walia,Male,2011-04-28,CLS-08B,8,2017-03-30,Ranveer Walia,Business Owner,₹3L - ₹6L,False,10,+914756259961,Delhi NCR
+STU-1777,Adya,Sheth,Female,2011-05-26,CLS-08B,8,2017-04-03,Rachit Sheth,Business Owner,< ₹3L,False,50,9464997673,Delhi NCR
+STU-1778,Dominic,Deo,Male,2011-12-10,CLS-08B,8,2017-03-15,Arin Deo,Business Owner,₹12L - ₹25L,True,0,+910731674760,Delhi NCR
+STU-1779,Widisha,Oza,Female,2011-06-30,CLS-08B,8,2017-03-16,Vivaan Oza,Salaried IT/Corporate,₹6L - ₹12L,True,0,+919825368911,Delhi NCR
+STU-1780,Frado,Pradhan,Male,2011-04-29,CLS-08B,8,2017-03-11,Nakul Pradhan,Business Owner,₹6L - ₹12L,False,0,2335186501,Delhi NCR
+STU-1781,Faras,Sathe,Male,2011-08-14,CLS-08B,8,2017-04-05,Chatresh Sathe,Retail/Shopkeeper,₹12L - ₹25L,True,0,+912170624749,Delhi NCR
+STU-1782,Isaac,Varma,Male,2011-04-12,CLS-08B,8,2017-04-17,Siddharth Varma,Business Owner,> ₹25L,False,0,1156062452,Delhi NCR
+STU-1783,Leela,Wadhwa,Female,2011-01-19,CLS-08B,8,2017-03-30,Parth Wadhwa,Salaried IT/Corporate,₹12L - ₹25L,False,0,03342846937,Delhi NCR
+STU-1784,Samesh,Yogi,Male,2011-11-02,CLS-08B,8,2017-04-24,Girindra Yogi,Salaried IT/Corporate,₹3L - ₹6L,False,0,4951830777,Delhi NCR
+STU-1785,Samuel,Goswami,Male,2011-02-24,CLS-08B,8,2017-03-30,Qarin Goswami,Business Owner,₹3L - ₹6L,False,0,06262771423,Delhi NCR
+STU-1786,Liam,Chand,Male,2011-12-25,CLS-08B,8,2017-03-29,Girik Chand,Salaried IT/Corporate,₹6L - ₹12L,False,0,+913088822982,Delhi NCR
+STU-1787,Vrishti,Yohannan,Female,2011-02-27,CLS-08B,8,2017-04-24,Daksh Yohannan,Business Owner,< ₹3L,True,100,0292298640,Delhi NCR
+STU-1788,Ekiya,Manda,Female,2011-08-05,CLS-08B,8,2017-04-12,Abdul Manda,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,+913431926397,Delhi NCR
+STU-1789,Keya,Mukherjee,Female,2011-07-11,CLS-08B,8,2017-03-13,Kai Mukherjee,Government Service,₹6L - ₹12L,False,0,03629353324,Delhi NCR
+STU-1790,Nilima,Baral,Female,2011-07-15,CLS-08B,8,2017-04-24,Aarush Baral,Salaried IT/Corporate,₹3L - ₹6L,False,0,08548032927,Delhi NCR
+STU-1791,Laksh,Nair,Male,2011-09-08,CLS-08B,8,2017-04-09,Akshay Nair,Business Owner,₹12L - ₹25L,False,0,4875584822,Delhi NCR
+STU-1792,Madhavi,Maharaj,Female,2011-09-07,CLS-08B,8,2017-04-08,Liam Maharaj,Healthcare/Doctor,< ₹3L,False,50,0950479495,Delhi NCR
+STU-1793,Waida,Pillay,Female,2011-03-08,CLS-08B,8,2017-04-27,Anthony Pillay,Salaried IT/Corporate,> ₹25L,False,0,0421685716,Delhi NCR
+STU-1794,Bhavna,Ratta,Female,2011-07-02,CLS-08B,8,2017-03-03,Victor Ratta,Salaried IT/Corporate,< ₹3L,False,100,04222090306,Delhi NCR
+STU-1795,Noah,Rajagopalan,Male,2011-01-18,CLS-08B,8,2017-03-19,Chakradev Rajagopalan,Salaried IT/Corporate,₹6L - ₹12L,False,0,4365381033,Delhi NCR
+STU-1796,David,Jayaraman,Male,2011-01-26,CLS-08B,8,2017-04-26,Karan Jayaraman,Salaried IT/Corporate,₹12L - ₹25L,False,0,+911453233881,Delhi NCR
+STU-1797,Samarth,Pandya,Male,2011-07-05,CLS-08B,8,2017-03-28,Yatin Pandya,Retail/Shopkeeper,₹6L - ₹12L,True,0,+914334159754,Delhi NCR
+STU-1798,Falguni,Zacharia,Female,2011-10-25,CLS-08B,8,2017-03-07,Ekaraj Zacharia,Government Service,₹6L - ₹12L,True,0,+910904270167,Delhi NCR
+STU-1799,Vaishnavi,Andra,Female,2011-01-29,CLS-08B,8,2017-03-07,Noah Andra,Government Service,< ₹3L,False,0,05453416581,Delhi NCR
+STU-1800,Bhanumati,Vala,Female,2011-11-25,CLS-08B,8,2017-04-23,Yatan Vala,Business Owner,₹6L - ₹12L,True,0,4596227155,Delhi NCR
+STU-1801,Anya,Kanda,Female,2011-01-05,CLS-08C,8,2017-03-06,Agastya Kanda,Salaried IT/Corporate,₹6L - ₹12L,False,0,05279887110,Delhi NCR
+STU-1802,Hamsini,Sarraf,Female,2011-05-11,CLS-08C,8,2017-03-17,Zaid Sarraf,Salaried IT/Corporate,₹6L - ₹12L,False,0,02995623915,Delhi NCR
+STU-1803,Chatura,Sunder,Male,2011-09-22,CLS-08C,8,2017-04-18,Ronith Sunder,Government Service,₹6L - ₹12L,True,0,08766577162,Delhi NCR
+STU-1804,Farhan,Char,Male,2011-05-15,CLS-08C,8,2017-04-19,Tanish Char,Driver/Daily Wage Worker,> ₹25L,False,0,9821489999,Delhi NCR
+STU-1805,Urishilla,Barad,Female,2011-09-15,CLS-08C,8,2017-03-25,Ansh Barad,Government Service,₹3L - ₹6L,False,0,03569985009,Delhi NCR
+STU-1806,Veda,Brahmbhatt,Female,2011-09-28,CLS-08C,8,2017-03-30,Girik Brahmbhatt,Salaried IT/Corporate,₹6L - ₹12L,True,0,05890483158,Delhi NCR
+STU-1807,Anay,Gandhi,Male,2011-09-02,CLS-08C,8,2017-04-23,Krishna Gandhi,Salaried IT/Corporate,₹6L - ₹12L,False,0,02012330281,Delhi NCR
+STU-1808,Aarini,Mody,Female,2011-03-25,CLS-08C,8,2017-04-07,Umang Mody,Government Service,₹3L - ₹6L,True,0,+915420333925,Delhi NCR
+STU-1809,Banjeet,Bhatnagar,Male,2011-10-01,CLS-08C,8,2017-04-13,Amol Bhatnagar,Salaried IT/Corporate,₹6L - ₹12L,True,0,+919191552079,Delhi NCR
+STU-1810,Forum,Patla,Female,2011-08-10,CLS-08C,8,2017-04-03,Pranit Patla,Business Owner,₹6L - ₹12L,False,0,+918098067448,Delhi NCR
+STU-1811,Rajeshri,Rastogi,Female,2011-06-10,CLS-08C,8,2017-03-10,Owen Rastogi,Business Owner,₹12L - ₹25L,False,0,00809972292,Delhi NCR
+STU-1812,Chandani,Bhargava,Female,2011-02-23,CLS-08C,8,2017-04-14,Isaac Bhargava,Salaried IT/Corporate,₹6L - ₹12L,True,0,1154915336,Delhi NCR
+STU-1813,Tanay,Banik,Male,2011-03-26,CLS-08C,8,2017-03-25,Hemang Banik,Salaried IT/Corporate,< ₹3L,False,0,8998366365,Delhi NCR
+STU-1814,Hemani,Lala,Female,2011-05-22,CLS-08C,8,2017-03-27,Harsh Lala,Salaried IT/Corporate,₹3L - ₹6L,True,0,1924129811,Delhi NCR
+STU-1815,Omisha,Sami,Female,2011-06-15,CLS-08C,8,2017-04-24,Harsh Sami,Healthcare/Doctor,< ₹3L,True,100,4399490943,Delhi NCR
+STU-1816,Omya,Sandal,Female,2011-01-14,CLS-08C,8,2017-03-22,Gunbir Sandal,Salaried IT/Corporate,₹6L - ₹12L,False,0,02868307111,Delhi NCR
+STU-1817,Gaurika,Sani,Female,2011-02-16,CLS-08C,8,2017-03-22,Parth Sani,Business Owner,< ₹3L,False,0,09714787375,Delhi NCR
+STU-1818,Baghyawati,Char,Female,2011-03-15,CLS-08C,8,2017-03-06,Tanish Char,Government Service,< ₹3L,True,50,+915135385730,Delhi NCR
+STU-1819,Bhavika,Bhardwaj,Female,2011-01-29,CLS-08C,8,2017-04-24,Tanish Bhardwaj,Government Service,₹6L - ₹12L,True,0,6960489116,Delhi NCR
+STU-1820,Vanya,Rao,Female,2011-06-12,CLS-08C,8,2017-04-21,Fiyaz Rao,Salaried IT/Corporate,> ₹25L,True,0,02377889668,Delhi NCR
+STU-1821,Yashasvi,Hegde,Female,2011-01-09,CLS-08C,8,2017-03-10,Neel Hegde,Driver/Daily Wage Worker,< ₹3L,True,0,+918879440131,Delhi NCR
+STU-1822,Jacob,Bumb,Male,2011-09-16,CLS-08C,8,2017-03-03,Jatin Bumb,Business Owner,₹6L - ₹12L,True,0,+916586174248,Delhi NCR
+STU-1823,Sarthak,Thaman,Male,2011-06-11,CLS-08C,8,2017-03-24,Chakradhar Thaman,Salaried IT/Corporate,₹12L - ₹25L,False,0,02851209156,Delhi NCR
+STU-1824,Tanvi,Tandon,Female,2011-01-29,CLS-08C,8,2017-04-10,Jacob Tandon,Salaried IT/Corporate,₹3L - ₹6L,True,0,08332030218,Delhi NCR
+STU-1825,Idika,Bhatt,Female,2011-01-22,CLS-08C,8,2017-03-19,Arjun Bhatt,Retail/Shopkeeper,₹6L - ₹12L,False,0,+917578843208,Delhi NCR
+STU-1826,Aarush,Dora,Male,2011-03-29,CLS-08C,8,2017-04-16,Jackson Dora,Business Owner,₹6L - ₹12L,False,0,+910291655551,Delhi NCR
+STU-1827,Falguni,Mann,Female,2011-03-31,CLS-08C,8,2017-04-21,Zayan Mann,Business Owner,> ₹25L,True,0,+918197010769,Delhi NCR
+STU-1828,Vihaan,Raghavan,Male,2011-03-27,CLS-08C,8,2017-04-15,Praneel Raghavan,Salaried IT/Corporate,₹6L - ₹12L,True,0,+910501808370,Delhi NCR
+STU-1829,Veda,Thaman,Female,2011-06-26,CLS-08C,8,2017-03-05,Hritik Thaman,Salaried IT/Corporate,₹6L - ₹12L,False,0,07062166480,Delhi NCR
+STU-1830,Upkaar,Rastogi,Male,2011-02-10,CLS-08C,8,2017-03-18,Udant Rastogi,Business Owner,₹12L - ₹25L,True,0,08838615255,Delhi NCR
+STU-1831,Andrew,Keer,Male,2011-06-26,CLS-08C,8,2017-03-18,George Keer,Salaried IT/Corporate,₹3L - ₹6L,True,0,5653628955,Delhi NCR
+STU-1832,Garima,Khosla,Female,2011-06-05,CLS-08C,8,2017-03-11,Imaran Khosla,Salaried IT/Corporate,₹6L - ₹12L,True,0,+917540132761,Delhi NCR
+STU-1833,Michael,Khosla,Male,2011-01-09,CLS-08C,8,2017-04-26,Zaid Khosla,Salaried IT/Corporate,₹6L - ₹12L,False,0,7559838542,Delhi NCR
+STU-1834,Samar,Parsa,Male,2011-07-06,CLS-08C,8,2017-04-09,Wridesh Parsa,Business Owner,₹6L - ₹12L,False,0,06969657518,Delhi NCR
+STU-1835,Amaira,Sachar,Female,2011-03-18,CLS-08C,8,2017-03-23,Aarush Sachar,Business Owner,₹3L - ₹6L,True,0,03742769248,Delhi NCR
+STU-1836,Lila,Iyer,Female,2011-05-09,CLS-08C,8,2017-03-30,Ronith Iyer,Business Owner,₹12L - ₹25L,True,0,1712796555,Delhi NCR
+STU-1837,Warinder,Iyengar,Male,2011-06-13,CLS-08C,8,2017-04-11,Qasim Iyengar,Salaried IT/Corporate,₹6L - ₹12L,False,0,+915513576405,Delhi NCR
+STU-1838,Girik,Kota,Male,2010-07-22,CLS-09A,9,2016-03-03,Siddharth Kota,Government Service,₹6L - ₹12L,False,0,00013787027,Delhi NCR
+STU-1839,Darika,Batra,Female,2010-05-20,CLS-09A,9,2016-04-22,Fitan Batra,Government Service,> ₹25L,True,0,+917788135290,Delhi NCR
+STU-1840,Wahab,Ramachandran,Male,2010-08-05,CLS-09A,9,2016-04-04,Alexander Ramachandran,Salaried IT/Corporate,₹6L - ₹12L,True,0,05389661292,Delhi NCR
+STU-1841,Samuel,Hayer,Male,2010-07-31,CLS-09A,9,2016-03-14,Umang Hayer,Business Owner,₹12L - ₹25L,True,0,02040034482,Delhi NCR
+STU-1842,Amruta,Bala,Female,2010-07-29,CLS-09A,9,2016-03-02,Balendra Bala,Business Owner,₹6L - ₹12L,False,0,05346271449,Delhi NCR
+STU-1843,Pranav,Mital,Male,2010-05-08,CLS-09A,9,2016-04-05,Zehaan Mital,Government Service,< ₹3L,True,0,5676579684,Delhi NCR
+STU-1844,Bhavini,Keer,Female,2010-03-20,CLS-09A,9,2016-03-10,Kabir Keer,Government Service,₹6L - ₹12L,True,0,+917001645750,Delhi NCR
+STU-1845,Tristan,Dara,Male,2010-01-17,CLS-09A,9,2016-03-16,Rachit Dara,Salaried IT/Corporate,₹6L - ₹12L,False,0,7719472579,Delhi NCR
+STU-1846,Kavya,Karpe,Female,2010-07-02,CLS-09A,9,2016-04-08,Max Karpe,Retail/Shopkeeper,₹3L - ₹6L,True,0,05698228499,Delhi NCR
+STU-1847,Balveer,Sant,Male,2010-12-02,CLS-09A,9,2016-03-20,Simon Sant,Salaried IT/Corporate,₹6L - ₹12L,False,0,7178743588,Delhi NCR
+STU-1848,Radhika,Brar,Female,2010-01-17,CLS-09A,9,2016-04-01,Azaan Brar,Salaried IT/Corporate,₹12L - ₹25L,True,0,+914031026433,Delhi NCR
+STU-1849,Shivansh,Nagarajan,Male,2010-06-26,CLS-09A,9,2016-03-28,Amol Nagarajan,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,07794388323,Delhi NCR
+STU-1850,Krishna,Sur,Female,2010-03-03,CLS-09A,9,2016-03-31,Charles Sur,Retail/Shopkeeper,< ₹3L,True,25,2780476848,Delhi NCR
+STU-1851,Chaitaly,Hayer,Female,2010-02-21,CLS-09A,9,2016-03-13,Qadim Hayer,Business Owner,₹3L - ₹6L,False,10,+919269878214,Delhi NCR
+STU-1852,Harish,Dutt,Male,2010-03-15,CLS-09A,9,2016-03-01,Pranav Dutt,Retail/Shopkeeper,₹12L - ₹25L,True,0,+918608538123,Delhi NCR
+STU-1853,Bahadurjit,Puri,Male,2010-10-04,CLS-09A,9,2016-03-27,Anay Puri,Retail/Shopkeeper,₹3L - ₹6L,True,0,5252672390,Delhi NCR
+STU-1854,Chakrika,Suresh,Female,2010-02-04,CLS-09A,9,2016-03-31,Oscar Suresh,Salaried IT/Corporate,₹6L - ₹12L,False,0,09041282635,Delhi NCR
+STU-1855,Bina,Bains,Female,2010-08-05,CLS-09A,9,2016-04-23,Frederick Bains,Government Service,< ₹3L,False,25,+919257929131,Delhi NCR
+STU-1856,Lakshmi,Sastry,Female,2010-05-16,CLS-09A,9,2016-03-10,Dhruv Sastry,Government Service,₹3L - ₹6L,False,0,6517175261,Delhi NCR
+STU-1857,Ira,Setty,Female,2010-10-15,CLS-09A,9,2016-04-08,Kai Setty,Salaried IT/Corporate,₹12L - ₹25L,False,0,+910895712489,Delhi NCR
+STU-1858,Yagnesh,Rege,Male,2010-10-13,CLS-09A,9,2016-04-06,Balvan Rege,Government Service,₹6L - ₹12L,True,0,+911203976791,Delhi NCR
+STU-1859,Gauri,Dey,Female,2010-11-05,CLS-09A,9,2016-03-19,Ishwar Dey,Salaried IT/Corporate,₹3L - ₹6L,True,0,8023469800,Delhi NCR
+STU-1860,Oliver,Murty,Male,2010-06-30,CLS-09A,9,2016-03-24,Quincy Murty,Government Service,₹12L - ₹25L,False,0,+916655063286,Delhi NCR
+STU-1861,Aryan,Verma,Male,2010-04-22,CLS-09A,9,2016-03-28,Upkaar Verma,Government Service,₹3L - ₹6L,False,0,01527854062,Delhi NCR
+STU-1862,Abdul,Rastogi,Male,2010-05-14,CLS-09A,9,2016-03-24,Jai Rastogi,Salaried IT/Corporate,₹3L - ₹6L,True,0,+911467930619,Delhi NCR
+STU-1863,Barkha,Rau,Female,2010-10-26,CLS-09A,9,2016-03-06,Rushil Rau,Salaried IT/Corporate,< ₹3L,True,0,02801710584,Delhi NCR
+STU-1864,Ekalinga,Vig,Male,2010-04-23,CLS-09A,9,2016-03-23,Krishna Vig,Salaried IT/Corporate,₹12L - ₹25L,True,0,0116809140,Delhi NCR
+STU-1865,Ishanvi,Badal,Female,2010-12-24,CLS-09A,9,2016-03-01,George Badal,Government Service,₹12L - ₹25L,False,0,+912376252607,Delhi NCR
+STU-1866,Anjali,Dora,Female,2010-06-15,CLS-09A,9,2016-04-16,Charan Dora,Salaried IT/Corporate,₹3L - ₹6L,False,0,07826817467,Delhi NCR
+STU-1867,Krishna,Vig,Female,2010-03-07,CLS-09A,9,2016-04-28,Balvan Vig,Business Owner,₹3L - ₹6L,False,0,7486603499,Delhi NCR
+STU-1868,Advaith,Dugar,Male,2010-11-19,CLS-09A,9,2016-04-23,Chatura Dugar,Salaried IT/Corporate,₹6L - ₹12L,False,0,+919031758870,Delhi NCR
+STU-1869,Dakshesh,Subramaniam,Male,2010-11-29,CLS-09A,9,2016-04-05,Michael Subramaniam,Retail/Shopkeeper,₹6L - ₹12L,True,0,3398391199,Delhi NCR
+STU-1870,Jasmit,Solanki,Female,2010-12-21,CLS-09A,9,2016-04-28,David Solanki,Salaried IT/Corporate,₹3L - ₹6L,True,0,6750404416,Delhi NCR
+STU-1871,Varsha,Sule,Female,2010-08-28,CLS-09A,9,2016-03-07,Nihal Sule,Business Owner,₹6L - ₹12L,True,0,3818873430,Delhi NCR
+STU-1872,Kavya,Kalita,Female,2010-06-22,CLS-09A,9,2016-03-14,Elijah Kalita,Salaried IT/Corporate,₹3L - ₹6L,True,0,+919429556383,Delhi NCR
+STU-1873,Charan,Sundaram,Male,2010-03-15,CLS-09A,9,2016-04-13,Abhimanyu Sundaram,Business Owner,₹12L - ₹25L,False,0,4438756289,Delhi NCR
+STU-1874,Nirja,Pingle,Female,2010-07-10,CLS-09A,9,2016-04-13,Jagat Pingle,Government Service,< ₹3L,False,100,02505575878,Delhi NCR
+STU-1875,Unnati,Modi,Female,2010-07-11,CLS-09A,9,2016-03-30,Akshay Modi,Business Owner,₹3L - ₹6L,False,0,04840717880,Delhi NCR
+STU-1876,Harini,Saxena,Female,2010-02-23,CLS-09B,9,2016-03-26,Ranveer Saxena,Salaried IT/Corporate,₹12L - ₹25L,False,0,1529039737,Delhi NCR
+STU-1877,Naksh,Khalsa,Male,2010-10-04,CLS-09B,9,2016-03-13,Timothy Khalsa,Business Owner,₹12L - ₹25L,False,0,1168639989,Delhi NCR
+STU-1878,Yashoda,Khanna,Female,2010-01-04,CLS-09B,9,2016-03-09,Mason Khanna,Healthcare/Doctor,₹3L - ₹6L,True,0,2427985002,Delhi NCR
+STU-1879,Lohit,Aggarwal,Male,2010-07-05,CLS-09B,9,2016-03-05,Chaitanya Aggarwal,Salaried IT/Corporate,₹3L - ₹6L,True,25,06154317539,Delhi NCR
+STU-1880,Qabil,Jaggi,Male,2010-08-26,CLS-09B,9,2016-04-07,Vivaan Jaggi,Government Service,₹3L - ₹6L,True,0,9843347247,Delhi NCR
+STU-1881,Champak,Mani,Male,2010-04-21,CLS-09B,9,2016-04-12,Kai Mani,Salaried IT/Corporate,₹3L - ₹6L,False,0,7206803480,Delhi NCR
+STU-1882,Onkar,Bath,Male,2010-04-21,CLS-09B,9,2016-03-31,Alexander Bath,Retail/Shopkeeper,₹3L - ₹6L,True,10,06928630718,Delhi NCR
+STU-1883,Kavya,Gupta,Female,2010-11-01,CLS-09B,9,2016-04-03,Chatresh Gupta,Government Service,₹3L - ₹6L,True,10,3636453182,Delhi NCR
+STU-1884,Shaurya,Raman,Male,2010-08-18,CLS-09B,9,2016-04-28,Hardik Raman,Business Owner,₹12L - ₹25L,False,0,+918689816331,Delhi NCR
+STU-1885,Advika,Sampath,Female,2010-10-20,CLS-09B,9,2016-04-29,Naksh Sampath,Salaried IT/Corporate,₹6L - ₹12L,False,0,0129480239,Delhi NCR
+STU-1886,Raagini,Khurana,Female,2010-02-01,CLS-09B,9,2016-03-27,Kabir Khurana,Government Service,₹3L - ₹6L,False,0,3476032812,Delhi NCR
+STU-1887,Gaurang,Kurian,Male,2010-08-19,CLS-09B,9,2016-03-06,Peter Kurian,Government Service,₹12L - ₹25L,True,0,8123065970,Delhi NCR
+STU-1888,Ubika,Saini,Female,2010-01-26,CLS-09B,9,2016-03-14,Daksh Saini,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916346408325,Delhi NCR
+STU-1889,Suhani,More,Female,2010-12-04,CLS-09B,9,2016-03-10,Praneel More,Salaried IT/Corporate,₹6L - ₹12L,False,0,04399143298,Delhi NCR
+STU-1890,Rohan,Goyal,Male,2010-04-29,CLS-09B,9,2016-04-05,Warjas Goyal,Salaried IT/Corporate,< ₹3L,False,0,1109774914,Delhi NCR
+STU-1891,Damyanti,Venkataraman,Female,2010-08-18,CLS-09B,9,2016-03-11,Krishna Venkataraman,Salaried IT/Corporate,₹6L - ₹12L,True,0,01525836811,Delhi NCR
+STU-1892,Ishanvi,Datta,Female,2010-09-26,CLS-09B,9,2016-04-11,Rayaan Datta,Healthcare/Doctor,₹6L - ₹12L,True,0,+912573574828,Delhi NCR
+STU-1893,Darsh,Khatri,Male,2010-09-16,CLS-09B,9,2016-03-19,Wriddhish Khatri,Government Service,₹3L - ₹6L,False,0,9611223593,Delhi NCR
+STU-1894,Manya,Brahmbhatt,Female,2010-02-18,CLS-09B,9,2016-03-26,Ranveer Brahmbhatt,Salaried IT/Corporate,₹3L - ₹6L,True,0,9605907119,Delhi NCR
+STU-1895,Jeevika,Devi,Female,2010-12-21,CLS-09B,9,2016-04-14,Ethan Devi,Healthcare/Doctor,₹6L - ₹12L,False,0,+916059523318,Delhi NCR
+STU-1896,Ishani,Srivastava,Female,2010-07-02,CLS-09B,9,2016-03-13,Isaiah Srivastava,Healthcare/Doctor,₹6L - ₹12L,True,0,+914059718707,Delhi NCR
+STU-1897,Chakradev,Magar,Male,2010-07-06,CLS-09B,9,2016-03-01,Ryan Magar,Healthcare/Doctor,₹3L - ₹6L,True,0,08771523621,Delhi NCR
+STU-1898,Yuvraj,Raghavan,Male,2010-04-23,CLS-09B,9,2016-04-09,Siddharth Raghavan,Business Owner,₹12L - ₹25L,True,0,3867313947,Delhi NCR
+STU-1899,Karan,Om,Male,2010-03-09,CLS-09B,9,2016-04-11,Rayaan Om,Salaried IT/Corporate,₹6L - ₹12L,True,0,9246126447,Delhi NCR
+STU-1900,Christopher,Kota,Male,2010-10-16,CLS-09B,9,2016-04-16,Michael Kota,Salaried IT/Corporate,₹3L - ₹6L,False,0,+916768341963,Delhi NCR
+STU-1901,Saksham,Devan,Male,2010-03-11,CLS-09B,9,2016-03-20,Chatura Devan,Government Service,₹3L - ₹6L,False,0,+911832984964,Delhi NCR
+STU-1902,Meera,Chada,Female,2010-06-19,CLS-09B,9,2016-04-28,Samesh Chada,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,+911217355927,Delhi NCR
+STU-1903,Vansha,Ravel,Female,2010-07-20,CLS-09B,9,2016-03-08,Faris Ravel,Healthcare/Doctor,₹6L - ₹12L,False,0,07186839615,Delhi NCR
+STU-1904,Ayaan,Sur,Male,2010-01-30,CLS-09B,9,2016-03-02,Viraj Sur,Business Owner,₹6L - ₹12L,False,0,0330417728,Delhi NCR
+STU-1905,Krishna,Vora,Female,2010-08-09,CLS-09B,9,2016-03-13,Ekaraj Vora,Business Owner,₹12L - ₹25L,True,0,04543422690,Delhi NCR
+STU-1906,Mugdha,Chauhan,Female,2010-12-13,CLS-09B,9,2016-03-14,Ishaan Chauhan,Government Service,₹6L - ₹12L,False,0,09143278018,Delhi NCR
+STU-1907,Prisha,Deo,Female,2010-02-13,CLS-09B,9,2016-03-06,Vihaan Deo,Salaried IT/Corporate,> ₹25L,False,0,05153426582,Delhi NCR
+STU-1908,Lopa,Biswas,Female,2010-07-14,CLS-09B,9,2016-04-01,Nachiket Biswas,Government Service,₹12L - ₹25L,True,0,01736473300,Delhi NCR
+STU-1909,Robert,Grover,Male,2010-04-20,CLS-09B,9,2016-03-27,Samaksh Grover,Salaried IT/Corporate,> ₹25L,True,0,+912654997039,Delhi NCR
+STU-1910,Chatura,Pathak,Male,2010-08-09,CLS-09C,9,2016-03-23,Anmol Pathak,Business Owner,₹12L - ₹25L,True,0,5247280095,Delhi NCR
+STU-1911,Mitesh,Uppal,Male,2010-05-05,CLS-09C,9,2016-04-16,Michael Uppal,Government Service,₹3L - ₹6L,False,0,08417153789,Delhi NCR
+STU-1912,Nisha,Singhal,Female,2010-07-28,CLS-09C,9,2016-04-06,Advik Singhal,Government Service,₹6L - ₹12L,True,0,+914681798535,Delhi NCR
+STU-1913,Yamini,Majumdar,Female,2010-08-07,CLS-09C,9,2016-03-02,Rohan Majumdar,Government Service,₹12L - ₹25L,False,0,07507126084,Delhi NCR
+STU-1914,Frederick,Barad,Male,2010-10-25,CLS-09C,9,2016-04-21,Devansh Barad,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,06973806963,Delhi NCR
+STU-1915,Shaurya,Misra,Male,2010-04-17,CLS-09C,9,2016-03-28,Girik Misra,Business Owner,₹12L - ₹25L,True,0,3951959436,Delhi NCR
+STU-1916,Kashvi,Warrior,Female,2010-12-14,CLS-09C,9,2016-04-07,Vincent Warrior,Business Owner,₹6L - ₹12L,True,0,+912739236473,Delhi NCR
+STU-1917,Vasana,Bhakta,Female,2010-02-01,CLS-09C,9,2016-03-04,Udant Bhakta,Salaried IT/Corporate,< ₹3L,False,100,+913524641538,Delhi NCR
+STU-1918,Girish,Memon,Male,2010-05-31,CLS-09C,9,2016-04-02,Yug Memon,Salaried IT/Corporate,₹3L - ₹6L,True,0,4594101784,Delhi NCR
+STU-1919,Ishanvi,Sundaram,Female,2010-01-19,CLS-09C,9,2016-03-09,Laksh Sundaram,Business Owner,₹6L - ₹12L,False,0,8645748161,Delhi NCR
+STU-1920,Guneet,Hari,Male,2010-12-07,CLS-09C,9,2016-03-17,Tejas Hari,Salaried IT/Corporate,₹12L - ₹25L,True,0,6205426403,Delhi NCR
+STU-1921,Aadi,Chawla,Male,2010-12-13,CLS-09C,9,2016-03-15,Aadi Chawla,Salaried IT/Corporate,₹6L - ₹12L,True,0,08110363431,Delhi NCR
+STU-1922,Ojas,Dalal,Male,2010-03-07,CLS-09C,9,2016-04-06,Caleb Dalal,Salaried IT/Corporate,< ₹3L,False,25,7641017859,Delhi NCR
+STU-1923,Xalak,Deshmukh,Female,2010-12-25,CLS-09C,9,2016-04-14,Aarush Deshmukh,Business Owner,₹12L - ₹25L,False,0,08906468864,Delhi NCR
+STU-1924,Yashasvi,Shroff,Female,2010-05-07,CLS-09C,9,2016-03-08,Pranit Shroff,Healthcare/Doctor,₹6L - ₹12L,False,0,05724829845,Delhi NCR
+STU-1925,Yoshita,Bahl,Female,2010-05-26,CLS-09C,9,2016-04-14,Harish Bahl,Business Owner,₹6L - ₹12L,True,0,8076870607,Delhi NCR
+STU-1926,Abeer,Brahmbhatt,Male,2010-01-30,CLS-09C,9,2016-04-06,Rohan Brahmbhatt,Business Owner,₹3L - ₹6L,True,0,04747160074,Delhi NCR
+STU-1927,Chanchal,Doshi,Female,2010-03-12,CLS-09C,9,2016-03-11,Orinder Doshi,Salaried IT/Corporate,₹3L - ₹6L,True,0,+915996499308,Delhi NCR
+STU-1928,Lekha,Ravi,Female,2010-11-09,CLS-09C,9,2016-03-04,Wazir Ravi,Salaried IT/Corporate,₹3L - ₹6L,False,0,+912346924601,Delhi NCR
+STU-1929,Warinder,Doctor,Male,2010-04-08,CLS-09C,9,2016-04-24,Andrew Doctor,Business Owner,> ₹25L,False,0,7175168400,Delhi NCR
+STU-1930,Ethan,Dhawan,Male,2010-01-07,CLS-09C,9,2016-03-31,Jagat Dhawan,Salaried IT/Corporate,₹6L - ₹12L,True,0,03039359943,Delhi NCR
+STU-1931,Ayushman,Banerjee,Male,2010-08-17,CLS-09C,9,2016-03-24,Rudra Banerjee,Government Service,₹3L - ₹6L,True,0,3710262252,Delhi NCR
+STU-1932,David,Soni,Male,2010-06-12,CLS-09C,9,2016-03-01,Simon Soni,Retail/Shopkeeper,₹12L - ₹25L,False,0,0707054830,Delhi NCR
+STU-1933,Faris,Choudhury,Male,2010-01-09,CLS-09C,9,2016-03-25,Rishi Choudhury,Retail/Shopkeeper,< ₹3L,False,0,02775398127,Delhi NCR
+STU-1934,Ucchal,Bhatia,Female,2010-11-08,CLS-09C,9,2016-04-16,Jeet Bhatia,Business Owner,₹12L - ₹25L,True,0,1519928823,Delhi NCR
+STU-1935,Bhavani,Contractor,Female,2010-11-02,CLS-09C,9,2016-03-24,Rachit Contractor,Salaried IT/Corporate,₹3L - ₹6L,False,0,8487125396,Delhi NCR
+STU-1936,Chatura,Gokhale,Male,2010-04-03,CLS-09C,9,2016-03-12,Robert Gokhale,Retail/Shopkeeper,> ₹25L,False,0,5078935031,Delhi NCR
+STU-1937,Pratyush,Lal,Male,2010-10-23,CLS-09C,9,2016-03-07,Oliver Lal,Salaried IT/Corporate,₹12L - ₹25L,False,0,2660920552,Delhi NCR
+STU-1938,Laksh,Rana,Male,2010-08-01,CLS-09C,9,2016-04-15,Manbir Rana,Business Owner,₹6L - ₹12L,False,0,+917831226082,Delhi NCR
+STU-1939,Sara,Chakrabarti,Female,2010-07-08,CLS-09C,9,2016-04-10,Theodore Chakrabarti,Business Owner,₹12L - ₹25L,True,0,+914828778537,Delhi NCR
+STU-1940,Yutika,Memon,Female,2010-08-12,CLS-09C,9,2016-03-11,Nicholas Memon,Government Service,₹6L - ₹12L,True,0,5135618749,Delhi NCR
+STU-1941,Aachal,Sama,Female,2010-10-25,CLS-09C,9,2016-04-14,Yuvraj Sama,Salaried IT/Corporate,₹3L - ₹6L,False,0,6598914610,Delhi NCR
+STU-1942,Rachit,Dasgupta,Male,2010-04-10,CLS-09C,9,2016-04-04,Henry Dasgupta,Salaried IT/Corporate,₹3L - ₹6L,False,0,+914550293657,Delhi NCR
+STU-1943,Nathaniel,Sanghvi,Male,2010-06-01,CLS-09C,9,2016-03-15,Tanish Sanghvi,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916725048534,Delhi NCR
+STU-1944,Faras,Wason,Male,2010-08-23,CLS-09C,9,2016-04-09,Chanakya Wason,Business Owner,₹6L - ₹12L,True,0,3734060150,Delhi NCR
+STU-1945,Hamsini,Rastogi,Female,2010-07-06,CLS-09C,9,2016-03-11,Vedant Rastogi,Healthcare/Doctor,₹6L - ₹12L,False,0,+919314020354,Delhi NCR
+STU-1946,Ucchal,Grewal,Female,2010-07-22,CLS-09C,9,2016-03-24,Parth Grewal,Retail/Shopkeeper,₹6L - ₹12L,True,0,03139334870,Delhi NCR
+STU-1947,Ojas,Loke,Male,2010-07-11,CLS-09C,9,2016-03-07,Aadi Loke,Salaried IT/Corporate,> ₹25L,True,0,+919779064130,Delhi NCR
+STU-1948,Mason,Chakraborty,Male,2009-04-01,CLS-10A,10,2015-04-08,Christopher Chakraborty,Retail/Shopkeeper,₹3L - ₹6L,False,0,02279031961,Delhi NCR
+STU-1949,Eiravati,Bajwa,Female,2009-04-11,CLS-10A,10,2015-03-22,Hemang Bajwa,Business Owner,₹3L - ₹6L,False,0,+918409832032,Delhi NCR
+STU-1950,Vivaan,Warrior,Male,2009-01-01,CLS-10A,10,2015-04-06,Maanav Warrior,Salaried IT/Corporate,₹3L - ₹6L,True,0,06674888820,Delhi NCR
+STU-1951,Warinder,Parikh,Male,2009-04-25,CLS-10A,10,2015-03-31,Liam Parikh,Business Owner,₹3L - ₹6L,False,0,+915846981233,Delhi NCR
+STU-1952,Kabir,Mannan,Male,2009-07-26,CLS-10A,10,2015-04-28,Abhimanyu Mannan,Business Owner,₹6L - ₹12L,True,0,3574616247,Delhi NCR
+STU-1953,Yochana,Kala,Female,2009-01-16,CLS-10A,10,2015-04-18,Alexander Kala,Business Owner,₹6L - ₹12L,False,0,+915277125228,Delhi NCR
+STU-1954,Udant,Balay,Male,2009-01-11,CLS-10A,10,2015-04-20,Vivaan Balay,Business Owner,₹6L - ₹12L,False,0,+913539334819,Delhi NCR
+STU-1955,Bhanumati,Natarajan,Female,2009-02-26,CLS-10A,10,2015-03-08,Aayush Natarajan,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910624896236,Delhi NCR
+STU-1956,Kamya,Sengupta,Female,2009-05-18,CLS-10A,10,2015-03-12,Ishaan Sengupta,Retail/Shopkeeper,₹6L - ₹12L,False,0,+919037900770,Delhi NCR
+STU-1957,Krishna,Kala,Female,2009-07-23,CLS-10A,10,2015-04-10,Wyatt Kala,Retail/Shopkeeper,₹6L - ₹12L,True,0,+912610748255,Delhi NCR
+STU-1958,Ekaraj,Madan,Male,2009-05-18,CLS-10A,10,2015-04-11,Ishwar Madan,Salaried IT/Corporate,₹3L - ₹6L,False,0,+913326676215,Delhi NCR
+STU-1959,Veda,Agrawal,Female,2009-02-22,CLS-10A,10,2015-03-07,Sathvik Agrawal,Retail/Shopkeeper,₹3L - ₹6L,False,0,+918990687375,Delhi NCR
+STU-1960,Gayathri,Koshy,Female,2009-10-26,CLS-10A,10,2015-04-08,Robert Koshy,Business Owner,₹6L - ₹12L,True,0,+919441684169,Delhi NCR
+STU-1961,Chaitanya,Agate,Male,2009-03-29,CLS-10A,10,2015-03-17,Gunbir Agate,Government Service,< ₹3L,True,0,02478541105,Delhi NCR
+STU-1962,Hardik,Dave,Male,2009-01-19,CLS-10A,10,2015-04-26,Brijesh Dave,Salaried IT/Corporate,₹3L - ₹6L,False,0,0841486413,Delhi NCR
+STU-1963,Amaira,Shankar,Female,2009-06-21,CLS-10A,10,2015-04-29,Tanish Shankar,Business Owner,< ₹3L,True,0,1846004616,Delhi NCR
+STU-1964,Nathan,Kade,Male,2009-10-28,CLS-10A,10,2015-03-24,Dalbir Kade,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916981827412,Delhi NCR
+STU-1965,Tejas,Sundaram,Male,2009-05-22,CLS-10A,10,2015-03-23,Aayush Sundaram,Salaried IT/Corporate,₹3L - ₹6L,True,0,00532912582,Delhi NCR
+STU-1966,Nisha,Modi,Female,2009-01-12,CLS-10A,10,2015-04-12,Ayaan Modi,Salaried IT/Corporate,₹3L - ₹6L,False,0,08719664250,Delhi NCR
+STU-1967,Upma,Kumer,Female,2009-04-06,CLS-10A,10,2015-04-29,Abhiram Kumer,Retail/Shopkeeper,₹6L - ₹12L,False,0,+914062967033,Delhi NCR
+STU-1968,Zilmil,Shah,Female,2009-09-18,CLS-10A,10,2015-03-13,Timothy Shah,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,02827054372,Delhi NCR
+STU-1969,Zaitra,Shanker,Female,2009-07-05,CLS-10A,10,2015-03-16,Balveer Shanker,Business Owner,₹6L - ₹12L,False,0,5565715275,Delhi NCR
+STU-1970,Harini,Dixit,Female,2009-01-23,CLS-10A,10,2015-04-15,Nihal Dixit,Salaried IT/Corporate,₹6L - ₹12L,True,0,4731449059,Delhi NCR
+STU-1971,Zaid,Kakar,Male,2009-06-01,CLS-10A,10,2015-03-03,Udarsh Kakar,Salaried IT/Corporate,₹3L - ₹6L,True,0,08204133738,Delhi NCR
+STU-1972,Triveni,Purohit,Female,2009-07-08,CLS-10A,10,2015-03-29,Benjamin Purohit,Salaried IT/Corporate,₹12L - ₹25L,False,0,6403239684,Delhi NCR
+STU-1973,Samesh,Sarraf,Male,2009-11-12,CLS-10A,10,2015-04-04,Anirudh Sarraf,Retail/Shopkeeper,< ₹3L,False,0,08440381566,Delhi NCR
+STU-1974,Banjeet,Anne,Male,2009-08-16,CLS-10A,10,2015-03-18,Laban Anne,Healthcare/Doctor,₹12L - ₹25L,True,0,+916932997069,Delhi NCR
+STU-1975,Kashish,Chaudry,Female,2009-12-22,CLS-10A,10,2015-04-06,Girish Chaudry,Salaried IT/Corporate,₹6L - ₹12L,False,0,+915379952826,Delhi NCR
+STU-1976,Ryan,Bassi,Male,2009-01-22,CLS-10A,10,2015-03-14,Hitesh Bassi,Government Service,₹3L - ₹6L,False,0,2222202372,Delhi NCR
+STU-1977,Daniel,Sanghvi,Male,2009-04-08,CLS-10A,10,2015-04-14,Lohit Sanghvi,Government Service,< ₹3L,False,0,06515107784,Delhi NCR
+STU-1978,Anthony,Kala,Male,2009-11-28,CLS-10A,10,2015-03-06,Jagat Kala,Healthcare/Doctor,₹6L - ₹12L,False,0,09898251496,Delhi NCR
+STU-1979,Yuvraj,Bhargava,Male,2009-06-14,CLS-10A,10,2015-04-07,Vincent Bhargava,Salaried IT/Corporate,< ₹3L,False,50,1069125387,Delhi NCR
+STU-1980,Kai,Roy,Male,2009-06-07,CLS-10A,10,2015-03-28,Abhiram Roy,Salaried IT/Corporate,₹6L - ₹12L,True,0,9637757357,Delhi NCR
+STU-1981,Abhimanyu,Narang,Male,2009-09-22,CLS-10B,10,2015-03-02,Indrajit Narang,Salaried IT/Corporate,₹6L - ₹12L,True,0,+912173893779,Delhi NCR
+STU-1982,Krish,Kalla,Male,2009-07-30,CLS-10B,10,2015-04-29,Baljiwan Kalla,Business Owner,₹3L - ₹6L,True,10,08121889579,Delhi NCR
+STU-1983,Balendra,Goswami,Male,2009-12-09,CLS-10B,10,2015-03-19,Bahadurjit Goswami,Business Owner,₹3L - ₹6L,False,0,+915101886239,Delhi NCR
+STU-1984,Radha,Choudhury,Female,2009-09-11,CLS-10B,10,2015-03-11,Hredhaan Choudhury,Healthcare/Doctor,₹6L - ₹12L,False,0,7503482434,Delhi NCR
+STU-1985,Baljiwan,Pandit,Male,2009-11-05,CLS-10B,10,2015-03-29,Balveer Pandit,Salaried IT/Corporate,₹12L - ₹25L,False,0,2748924665,Delhi NCR
+STU-1986,Harini,Dixit,Female,2009-10-25,CLS-10B,10,2015-03-25,Agastya Dixit,Business Owner,< ₹3L,False,50,+914267417302,Delhi NCR
+STU-1987,Radha,Dutt,Female,2009-05-23,CLS-10B,10,2015-04-12,Kiaan Dutt,Healthcare/Doctor,₹3L - ₹6L,False,0,04162751443,Delhi NCR
+STU-1988,Tarak,Naik,Male,2009-11-21,CLS-10B,10,2015-04-27,Vivaan Naik,Salaried IT/Corporate,> ₹25L,True,0,0443966567,Delhi NCR
+STU-1989,Gauri,Kalla,Female,2009-01-30,CLS-10B,10,2015-04-01,Reyansh Kalla,Business Owner,> ₹25L,False,0,3217232827,Delhi NCR
+STU-1990,Aradhana,Narang,Female,2009-10-13,CLS-10B,10,2015-03-20,Sathvik Narang,Government Service,₹3L - ₹6L,True,0,+916860349401,Delhi NCR
+STU-1991,Vedant,Chatterjee,Male,2009-12-23,CLS-10B,10,2015-04-27,Ekaraj Chatterjee,Salaried IT/Corporate,₹6L - ₹12L,True,0,07398137844,Delhi NCR
+STU-1992,Vedika,Bansal,Female,2009-11-01,CLS-10B,10,2015-04-16,Anay Bansal,Salaried IT/Corporate,₹3L - ₹6L,False,0,+914327449844,Delhi NCR
+STU-1993,Madhav,Goel,Male,2009-08-23,CLS-10B,10,2015-03-13,Rishi Goel,Business Owner,₹12L - ₹25L,False,0,+919145021940,Delhi NCR
+STU-1994,Radha,Dayal,Female,2009-10-24,CLS-10B,10,2015-04-13,Theodore Dayal,Salaried IT/Corporate,< ₹3L,False,0,+911016751937,Delhi NCR
+STU-1995,Diya,Kumar,Female,2009-03-29,CLS-10B,10,2015-04-01,Chanakya Kumar,Healthcare/Doctor,₹3L - ₹6L,False,0,02079755933,Delhi NCR
+STU-1996,Balhaar,Keer,Male,2009-11-30,CLS-10B,10,2015-04-05,Maanas Keer,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,4332148630,Delhi NCR
+STU-1997,Umang,Tailor,Male,2009-06-26,CLS-10B,10,2015-04-10,Farhan Tailor,Government Service,₹6L - ₹12L,True,0,5229894655,Delhi NCR
+STU-1998,Utkarsh,Raghavan,Male,2009-12-01,CLS-10B,10,2015-04-19,Sai Raghavan,Driver/Daily Wage Worker,₹3L - ₹6L,False,0,4214395730,Delhi NCR
+STU-1999,Bhavna,Gala,Female,2009-06-23,CLS-10B,10,2015-04-06,Isaiah Gala,Salaried IT/Corporate,₹6L - ₹12L,False,0,02538580875,Delhi NCR
+STU-2000,Henry,Bir,Male,2009-12-28,CLS-10B,10,2015-03-27,Qabil Bir,Retail/Shopkeeper,₹3L - ₹6L,False,0,+919193280029,Delhi NCR
+STU-2001,Neha,Anand,Female,2009-02-10,CLS-10B,10,2015-04-15,Onkar Anand,Business Owner,₹6L - ₹12L,True,0,1438651924,Delhi NCR
+STU-2002,Eiravati,Mangal,Female,2009-07-16,CLS-10B,10,2015-04-06,Atharv Mangal,Business Owner,₹3L - ₹6L,True,0,2906360752,Delhi NCR
+STU-2003,Nathan,Dada,Male,2009-10-18,CLS-10B,10,2015-03-02,Jai Dada,Salaried IT/Corporate,₹3L - ₹6L,False,0,04033515412,Delhi NCR
+STU-2004,Gagan,Doshi,Male,2009-05-15,CLS-10B,10,2015-03-31,Quincy Doshi,Business Owner,₹12L - ₹25L,True,0,08762450199,Delhi NCR
+STU-2005,Garima,Karan,Female,2009-07-22,CLS-10B,10,2015-04-07,Rushil Karan,Business Owner,₹6L - ₹12L,True,0,4240691135,Delhi NCR
+STU-2006,Gaurav,Goda,Male,2009-07-12,CLS-10B,10,2015-03-01,Jackson Goda,Driver/Daily Wage Worker,< ₹3L,True,0,2732525989,Delhi NCR
+STU-2007,Kala,Kaur,Female,2009-10-04,CLS-10B,10,2015-04-17,Ekavir Kaur,Business Owner,₹6L - ₹12L,False,0,5522250776,Delhi NCR
+STU-2008,Tanish,Bhardwaj,Male,2009-04-21,CLS-10B,10,2015-04-11,Pratyush Bhardwaj,Salaried IT/Corporate,₹6L - ₹12L,True,0,06801227397,Delhi NCR
+STU-2009,Chandran,Swaminathan,Male,2009-08-16,CLS-10B,10,2015-03-17,Harshil Swaminathan,Salaried IT/Corporate,> ₹25L,True,0,8981057635,Delhi NCR
+STU-2010,Jackson,Loyal,Male,2009-05-12,CLS-10B,10,2015-03-27,Yug Loyal,Salaried IT/Corporate,₹6L - ₹12L,False,0,8772488382,Delhi NCR
+STU-2011,Garima,Bhalla,Female,2009-07-13,CLS-10B,10,2015-03-23,Thomas Bhalla,Government Service,₹6L - ₹12L,False,0,8094375125,Delhi NCR
+STU-2012,Gagan,Goda,Male,2009-01-10,CLS-10B,10,2015-03-10,Amol Goda,Government Service,₹3L - ₹6L,False,10,9477396575,Delhi NCR
+STU-2013,Harinakshi,Dixit,Female,2009-09-29,CLS-10B,10,2015-04-24,Tanveer Dixit,Business Owner,₹12L - ₹25L,True,0,04429840858,Delhi NCR
+STU-2014,Amara,Palan,Female,2009-01-29,CLS-10C,10,2015-03-16,Mason Palan,Business Owner,> ₹25L,False,0,+914315218458,Delhi NCR
+STU-2015,Yashvi,Mallick,Female,2009-08-15,CLS-10C,10,2015-04-18,Arin Mallick,Government Service,< ₹3L,True,0,6537714451,Delhi NCR
+STU-2016,Ishita,Barman,Female,2009-02-09,CLS-10C,10,2015-04-24,Maanas Barman,Salaried IT/Corporate,< ₹3L,True,0,+911341621901,Delhi NCR
+STU-2017,Mohini,Patil,Female,2009-10-16,CLS-10C,10,2015-03-31,Timothy Patil,Salaried IT/Corporate,₹6L - ₹12L,True,0,07093825905,Delhi NCR
+STU-2018,Hemani,Pathak,Female,2009-06-28,CLS-10C,10,2015-04-28,Tanveer Pathak,Business Owner,> ₹25L,False,0,7044935975,Delhi NCR
+STU-2019,Rachana,Kala,Female,2009-11-08,CLS-10C,10,2015-04-23,Chandresh Kala,Business Owner,₹12L - ₹25L,False,0,8980367535,Delhi NCR
+STU-2020,Nikita,Bhatia,Female,2009-08-29,CLS-10C,10,2015-04-23,Aarav Bhatia,Salaried IT/Corporate,₹6L - ₹12L,True,0,4327968450,Delhi NCR
+STU-2021,Isha,Padmanabhan,Female,2009-03-09,CLS-10C,10,2015-04-02,Abeer Padmanabhan,Government Service,₹6L - ₹12L,False,0,08018195116,Delhi NCR
+STU-2022,Edhitha,Wali,Female,2009-07-26,CLS-10C,10,2015-03-31,Agastya Wali,Business Owner,₹12L - ₹25L,False,0,+915249274743,Delhi NCR
+STU-2023,Vidhi,Cheema,Female,2009-08-07,CLS-10C,10,2015-04-19,Advay Cheema,Government Service,₹6L - ₹12L,False,0,+919696750175,Delhi NCR
+STU-2024,Rajata,Apte,Female,2009-03-01,CLS-10C,10,2015-03-30,Qadim Apte,Salaried IT/Corporate,₹6L - ₹12L,False,0,6983906139,Delhi NCR
+STU-2025,Ryan,Prabhu,Male,2009-09-27,CLS-10C,10,2015-03-05,Chatura Prabhu,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,07783410713,Delhi NCR
+STU-2026,Yashodhara,Chakraborty,Female,2009-03-14,CLS-10C,10,2015-03-29,Zehaan Chakraborty,Business Owner,> ₹25L,True,0,+914219733082,Delhi NCR
+STU-2027,Dayita,Chaudhry,Female,2009-09-29,CLS-10C,10,2015-03-08,Aarav Chaudhry,Salaried IT/Corporate,₹3L - ₹6L,False,0,+911182211862,Delhi NCR
+STU-2028,Isaiah,Deo,Male,2009-10-23,CLS-10C,10,2015-04-07,Maanav Deo,Government Service,₹12L - ₹25L,False,0,6930774542,Delhi NCR
+STU-2029,Sanya,Parikh,Female,2009-07-07,CLS-10C,10,2015-04-16,Robert Parikh,Business Owner,₹6L - ₹12L,True,0,3359227000,Delhi NCR
+STU-2030,Yug,Dash,Male,2009-03-12,CLS-10C,10,2015-03-13,Patrick Dash,Salaried IT/Corporate,₹6L - ₹12L,False,0,3840759336,Delhi NCR
+STU-2031,Anmol,Shere,Male,2009-11-20,CLS-10C,10,2015-03-24,Charles Shere,Salaried IT/Corporate,₹6L - ₹12L,False,0,+914879994006,Delhi NCR
+STU-2032,Ranveer,Pandya,Male,2009-05-21,CLS-10C,10,2015-03-02,Madhav Pandya,Retail/Shopkeeper,₹3L - ₹6L,False,0,3531906066,Delhi NCR
+STU-2033,Veda,Singhal,Female,2009-04-21,CLS-10C,10,2015-04-06,Ayushman Singhal,Healthcare/Doctor,₹3L - ₹6L,True,0,+916932153068,Delhi NCR
+STU-2034,Damyanti,Devan,Female,2009-01-15,CLS-10C,10,2015-04-23,Raghav Devan,Government Service,₹3L - ₹6L,True,0,04390019962,Delhi NCR
+STU-2035,Indali,Chaudhari,Female,2009-05-13,CLS-10C,10,2015-04-21,Girindra Chaudhari,Salaried IT/Corporate,₹12L - ₹25L,False,0,01359412480,Delhi NCR
+STU-2036,Warjas,Chana,Male,2009-03-08,CLS-10C,10,2015-04-16,Vivaan Chana,Retail/Shopkeeper,₹12L - ₹25L,True,0,02775581134,Delhi NCR
+STU-2037,Shivani,Sharma,Female,2009-08-06,CLS-10C,10,2015-03-22,Amol Sharma,Retail/Shopkeeper,₹12L - ₹25L,False,0,6176845385,Delhi NCR
+STU-2038,Isaac,Cheema,Male,2009-07-15,CLS-10C,10,2015-04-14,Omkaar Cheema,Salaried IT/Corporate,₹6L - ₹12L,True,0,+913664362780,Delhi NCR
+STU-2039,Qabil,Tiwari,Male,2009-05-12,CLS-10C,10,2015-03-27,Gabriel Tiwari,Salaried IT/Corporate,₹6L - ₹12L,False,0,02480351719,Delhi NCR
+STU-2040,Amrita,Narain,Female,2009-04-16,CLS-10C,10,2015-03-04,Yash Narain,Business Owner,₹12L - ₹25L,True,0,2242857232,Delhi NCR
+STU-2041,Qabil,Gola,Male,2009-03-13,CLS-10C,10,2015-04-12,Manthan Gola,Business Owner,₹3L - ₹6L,False,10,01216180263,Delhi NCR
+STU-2042,Dipta,Dugal,Female,2009-06-13,CLS-10C,10,2015-03-29,Ekalinga Dugal,Business Owner,< ₹3L,False,100,+918477710431,Delhi NCR
+STU-2043,Rachita,Kale,Female,2009-10-24,CLS-10C,10,2015-03-03,Nathan Kale,Salaried IT/Corporate,₹3L - ₹6L,False,0,+910109089100,Delhi NCR
+STU-2044,Udant,Bawa,Male,2009-06-14,CLS-10C,10,2015-03-09,Jack Bawa,Business Owner,₹6L - ₹12L,True,0,2652708390,Delhi NCR
+STU-2045,Fiyaz,Desai,Male,2009-09-21,CLS-10C,10,2015-03-07,Jairaj Desai,Business Owner,₹3L - ₹6L,True,0,09543816218,Delhi NCR
+STU-2046,David,Garde,Male,2009-07-10,CLS-10C,10,2015-04-21,Ekaraj Garde,Business Owner,₹6L - ₹12L,True,0,03890034767,Delhi NCR
+STU-2047,Joshua,Kamdar,Male,2009-03-19,CLS-10C,10,2015-03-08,Imaran Kamdar,Salaried IT/Corporate,₹6L - ₹12L,False,0,00696727235,Delhi NCR
+STU-2048,Urmi,Kurian,Female,2008-01-01,CLS-11A,11,2014-03-20,Dominic Kurian,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,6142356507,Delhi NCR
+STU-2049,Ladli,Narang,Female,2008-05-06,CLS-11A,11,2014-03-14,Wazir Narang,Retail/Shopkeeper,₹6L - ₹12L,True,0,+918748938433,Delhi NCR
+STU-2050,Rushil,Sengupta,Male,2008-04-09,CLS-11A,11,2014-03-10,Gavin Sengupta,Healthcare/Doctor,₹3L - ₹6L,True,0,5320750419,Delhi NCR
+STU-2051,Raagini,Nagar,Female,2008-08-12,CLS-11A,11,2014-03-31,Raghav Nagar,Government Service,₹3L - ₹6L,True,25,4436895701,Delhi NCR
+STU-2052,Qadim,Rege,Male,2008-03-10,CLS-11A,11,2014-04-20,Orinder Rege,Salaried IT/Corporate,₹12L - ₹25L,False,0,08838103314,Delhi NCR
+STU-2053,Arin,Ramakrishnan,Male,2008-03-15,CLS-11A,11,2014-03-06,Zaid Ramakrishnan,Business Owner,₹3L - ₹6L,False,0,+918295804380,Delhi NCR
+STU-2054,Dhriti,Banik,Female,2008-07-23,CLS-11A,11,2014-03-30,Samarth Banik,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,09579148365,Delhi NCR
+STU-2055,Veer,Salvi,Male,2008-01-22,CLS-11A,11,2014-03-18,Jacob Salvi,Business Owner,₹12L - ₹25L,False,0,1635956969,Delhi NCR
+STU-2056,Krish,Murty,Male,2008-01-10,CLS-11A,11,2014-03-25,Agastya Murty,Healthcare/Doctor,₹3L - ₹6L,True,0,9924423252,Delhi NCR
+STU-2057,Kevin,Tripathi,Male,2008-05-30,CLS-11A,11,2014-03-24,Nicholas Tripathi,Salaried IT/Corporate,> ₹25L,False,0,+919461282962,Delhi NCR
+STU-2058,Harini,Cherian,Female,2008-11-11,CLS-11A,11,2014-03-20,Ekansh Cherian,Business Owner,₹12L - ₹25L,True,0,+913626775968,Delhi NCR
+STU-2059,Viraj,Sheth,Male,2008-09-17,CLS-11A,11,2014-03-08,Ekalinga Sheth,Government Service,₹12L - ₹25L,True,0,+915592355324,Delhi NCR
+STU-2060,Kamya,Peri,Female,2008-08-10,CLS-11A,11,2014-03-18,Warinder Peri,Government Service,₹6L - ₹12L,False,0,09526223318,Delhi NCR
+STU-2061,Faris,Devan,Male,2008-12-12,CLS-11A,11,2014-04-10,Quincy Devan,Salaried IT/Corporate,₹6L - ₹12L,True,0,05936778443,Delhi NCR
+STU-2062,Ekaraj,Basu,Male,2008-11-20,CLS-11A,11,2014-04-08,Chatura Basu,Retail/Shopkeeper,₹6L - ₹12L,True,0,01323405426,Delhi NCR
+STU-2063,Maanav,Sama,Male,2008-10-19,CLS-11A,11,2014-04-10,Nihal Sama,Salaried IT/Corporate,₹12L - ₹25L,False,0,4400588416,Delhi NCR
+STU-2064,Zehaan,Dayal,Male,2008-03-16,CLS-11A,11,2014-03-30,Liam Dayal,Salaried IT/Corporate,₹3L - ₹6L,False,0,05071279019,Delhi NCR
+STU-2065,Girindra,Deo,Male,2008-04-30,CLS-11A,11,2014-03-04,Qabil Deo,Business Owner,> ₹25L,True,0,04737848878,Delhi NCR
+STU-2066,Tripti,Deshmukh,Female,2008-07-09,CLS-11A,11,2014-03-30,Liam Deshmukh,Retail/Shopkeeper,₹12L - ₹25L,True,0,+918831811587,Delhi NCR
+STU-2067,Vrinda,Prabhakar,Female,2008-11-06,CLS-11A,11,2014-03-15,Charan Prabhakar,Salaried IT/Corporate,> ₹25L,False,0,5190206484,Delhi NCR
+STU-2068,Unni,Dugar,Female,2008-05-27,CLS-11A,11,2014-04-11,Zaid Dugar,Salaried IT/Corporate,₹6L - ₹12L,False,0,+912989338885,Delhi NCR
+STU-2069,Hemal,Buch,Female,2008-10-17,CLS-11A,11,2014-03-31,Samesh Buch,Retail/Shopkeeper,₹6L - ₹12L,True,0,6470138693,Delhi NCR
+STU-2070,Akshay,Seth,Male,2008-02-29,CLS-11A,11,2014-04-28,Viraj Seth,Business Owner,₹6L - ₹12L,False,0,+911462424910,Delhi NCR
+STU-2071,Arya,Bora,Female,2008-08-07,CLS-11A,11,2014-04-26,Chatura Bora,Business Owner,₹3L - ₹6L,True,0,+914867528619,Delhi NCR
+STU-2072,Kavya,Ahuja,Female,2008-04-07,CLS-11A,11,2014-04-21,Rehaan Ahuja,Salaried IT/Corporate,₹6L - ₹12L,True,0,+910936555696,Delhi NCR
+STU-2073,Zaid,Karan,Male,2008-08-07,CLS-11A,11,2014-04-22,Udarsh Karan,Business Owner,₹6L - ₹12L,True,0,7000776021,Delhi NCR
+STU-2074,Upkaar,Ravi,Male,2008-07-04,CLS-11A,11,2014-04-17,Tanay Ravi,Healthcare/Doctor,₹12L - ₹25L,True,0,3695654612,Delhi NCR
+STU-2075,Falan,Ahuja,Male,2008-12-15,CLS-11A,11,2014-04-10,Harsh Ahuja,Driver/Daily Wage Worker,₹6L - ₹12L,True,0,8158660972,Delhi NCR
+STU-2076,Nihal,Gaba,Male,2008-04-15,CLS-11A,11,2014-04-18,Abhiram Gaba,Salaried IT/Corporate,₹12L - ₹25L,True,0,4298988881,Delhi NCR
+STU-2077,Maya,Ramesh,Female,2008-03-13,CLS-11A,11,2014-04-20,Kevin Ramesh,Business Owner,₹12L - ₹25L,False,0,+912766694864,Delhi NCR
+STU-2078,Balhaar,Bhardwaj,Male,2008-11-10,CLS-11A,11,2014-03-08,Girindra Bhardwaj,Healthcare/Doctor,₹6L - ₹12L,False,0,7174025507,Delhi NCR
+STU-2079,Tanish,Swamy,Male,2008-12-24,CLS-11A,11,2014-03-23,Nachiket Swamy,Salaried IT/Corporate,₹3L - ₹6L,True,25,+915172392110,Delhi NCR
+STU-2080,Hema,Talwar,Female,2008-10-28,CLS-11A,11,2014-04-03,Fariq Talwar,Salaried IT/Corporate,₹3L - ₹6L,True,25,04996164812,Delhi NCR
+STU-2081,Eiravati,Sanghvi,Female,2008-03-18,CLS-11B,11,2014-03-29,Qadim Sanghvi,Government Service,₹6L - ₹12L,True,0,+910935448193,Delhi NCR
+STU-2082,Kamya,Salvi,Female,2008-05-07,CLS-11B,11,2014-03-12,Xavier Salvi,Salaried IT/Corporate,₹6L - ₹12L,True,0,01813607047,Delhi NCR
+STU-2083,Frederick,Chahal,Male,2008-05-03,CLS-11B,11,2014-04-27,Banjeet Chahal,Driver/Daily Wage Worker,₹6L - ₹12L,False,0,5612449434,Delhi NCR
+STU-2084,Gaurika,Kale,Female,2008-03-16,CLS-11B,11,2014-03-03,Samaksh Kale,Government Service,₹3L - ₹6L,True,0,3381067215,Delhi NCR
+STU-2085,Frederick,Sur,Male,2008-02-23,CLS-11B,11,2014-03-27,Jacob Sur,Driver/Daily Wage Worker,₹12L - ₹25L,False,0,02444481159,Delhi NCR
+STU-2086,Ucchal,Wagle,Female,2008-05-31,CLS-11B,11,2014-04-10,Udant Wagle,Retail/Shopkeeper,₹12L - ₹25L,False,0,3268550480,Delhi NCR
+STU-2087,Rachit,Narula,Male,2008-09-30,CLS-11B,11,2014-04-26,Advaith Narula,Government Service,< ₹3L,False,50,+915704866706,Delhi NCR
+STU-2088,Wakeeta,Devi,Female,2008-05-25,CLS-11B,11,2014-04-14,Kiaan Devi,Business Owner,₹6L - ₹12L,True,0,8814687176,Delhi NCR
+STU-2089,Jasmit,Magar,Female,2008-06-20,CLS-11B,11,2014-03-14,Chandresh Magar,Healthcare/Doctor,₹6L - ₹12L,True,0,0170107626,Delhi NCR
+STU-2090,Pahal,Prakash,Female,2008-10-08,CLS-11B,11,2014-03-07,Jason Prakash,Business Owner,₹3L - ₹6L,True,0,6914578459,Delhi NCR
+STU-2091,Zarna,Mani,Female,2008-11-23,CLS-11B,11,2014-03-18,Tanay Mani,Government Service,₹6L - ₹12L,True,0,5906931215,Delhi NCR
+STU-2092,Advay,D’Alia,Male,2008-05-07,CLS-11B,11,2014-04-17,Fiyaz D’Alia,Retail/Shopkeeper,₹6L - ₹12L,False,0,+918226012312,Delhi NCR
+STU-2093,Ekavir,Bedi,Male,2008-09-06,CLS-11B,11,2014-04-22,Azad Bedi,Government Service,₹6L - ₹12L,True,0,+917355980472,Delhi NCR
+STU-2094,Varsha,Chandran,Female,2008-02-27,CLS-11B,11,2014-03-11,Ranveer Chandran,Business Owner,₹12L - ₹25L,False,0,00133611196,Delhi NCR
+STU-2095,Isaiah,Ratta,Male,2008-06-08,CLS-11B,11,2014-04-25,Charles Ratta,Salaried IT/Corporate,₹6L - ₹12L,True,0,08906359005,Delhi NCR
+STU-2096,Ronith,Mangat,Male,2008-02-25,CLS-11B,11,2014-03-02,Ojas Mangat,Salaried IT/Corporate,₹3L - ₹6L,True,0,+910480530838,Delhi NCR
+STU-2097,Chakrika,Jani,Female,2008-02-21,CLS-11B,11,2014-03-09,Wyatt Jani,Salaried IT/Corporate,< ₹3L,True,0,1416559333,Delhi NCR
+STU-2098,Mitali,Baral,Female,2008-10-20,CLS-11B,11,2014-04-29,Nihal Baral,Salaried IT/Corporate,₹3L - ₹6L,False,0,+910000629370,Delhi NCR
+STU-2099,Samar,Dugal,Male,2008-11-05,CLS-11B,11,2014-03-04,Ayaan Dugal,Government Service,₹6L - ₹12L,True,0,+912811891712,Delhi NCR
+STU-2100,Harshil,Luthra,Male,2008-12-27,CLS-11B,11,2014-03-08,Girik Luthra,Healthcare/Doctor,₹3L - ₹6L,True,0,01452284362,Delhi NCR
+STU-2101,Gunbir,Soman,Male,2008-04-10,CLS-11B,11,2014-04-21,Chandran Soman,Healthcare/Doctor,₹3L - ₹6L,False,25,+916130289333,Delhi NCR
+STU-2102,Warda,Tella,Female,2008-09-04,CLS-11B,11,2014-04-28,Mitesh Tella,Salaried IT/Corporate,> ₹25L,True,0,+915169288062,Delhi NCR
+STU-2103,Jeet,Kothari,Male,2008-08-23,CLS-11B,11,2014-04-28,Ethan Kothari,Salaried IT/Corporate,₹3L - ₹6L,False,0,6551524704,Delhi NCR
+STU-2104,Manthan,Srinivas,Male,2008-06-08,CLS-11B,11,2014-04-21,Aadi Srinivas,Business Owner,₹6L - ₹12L,True,0,07910836398,Delhi NCR
+STU-2105,Forum,Issac,Female,2008-06-16,CLS-11B,11,2014-03-01,Brijesh Issac,Salaried IT/Corporate,₹6L - ₹12L,False,0,8850408678,Delhi NCR
+STU-2106,Liam,Aggarwal,Male,2008-12-23,CLS-11B,11,2014-03-03,Mohammed Aggarwal,Government Service,₹6L - ₹12L,True,0,02727592806,Delhi NCR
+STU-2107,Isaiah,Wable,Male,2008-09-10,CLS-11B,11,2014-03-09,Chandresh Wable,Government Service,₹6L - ₹12L,True,0,07760993214,Delhi NCR
+STU-2108,Darsh,Bal,Male,2008-02-14,CLS-11B,11,2014-04-24,Elijah Bal,Government Service,₹3L - ₹6L,False,10,6254925846,Delhi NCR
+STU-2109,Gaurang,Madan,Male,2008-06-09,CLS-11B,11,2014-04-14,Shivansh Madan,Salaried IT/Corporate,< ₹3L,True,0,9800894022,Delhi NCR
+STU-2110,Aadhya,Dave,Female,2008-11-24,CLS-11B,11,2014-03-17,Laban Dave,Government Service,₹6L - ₹12L,True,0,+912205029324,Delhi NCR
+STU-2111,Gaurika,Bahri,Female,2008-07-13,CLS-11B,11,2014-04-15,Ayush Bahri,Business Owner,₹6L - ₹12L,True,0,06399011403,Delhi NCR
+STU-2112,Chatura,Krish,Male,2008-11-26,CLS-11B,11,2014-04-03,Pratyush Krish,Business Owner,₹3L - ₹6L,True,0,+911550527064,Delhi NCR
+STU-2113,Indira,Tandon,Female,2008-11-15,CLS-11B,11,2014-03-18,Gopal Tandon,Salaried IT/Corporate,₹12L - ₹25L,False,0,6661991009,Delhi NCR
+STU-2114,Mason,Hegde,Male,2008-07-03,CLS-11B,11,2014-04-08,Ayaan Hegde,Salaried IT/Corporate,₹6L - ₹12L,False,0,+916390899531,Delhi NCR
+STU-2115,Gauri,Om,Female,2008-03-23,CLS-11B,11,2014-03-16,Agastya Om,Government Service,₹6L - ₹12L,True,0,+915632558696,Delhi NCR
+STU-2116,Suhani,Panchal,Female,2008-11-18,CLS-11B,11,2014-03-03,Ranbir Panchal,Business Owner,> ₹25L,True,0,+916439722496,Delhi NCR
+STU-2117,Diya,Seth,Female,2007-10-10,CLS-12A,12,2013-03-13,Anirudh Seth,Healthcare/Doctor,₹6L - ₹12L,False,0,+919923068738,Delhi NCR
+STU-2118,Banjeet,Keer,Male,2007-09-30,CLS-12A,12,2013-04-21,Veer Keer,Salaried IT/Corporate,₹12L - ₹25L,False,0,+914208841669,Delhi NCR
+STU-2119,Yutika,Chaudhary,Female,2007-06-02,CLS-12A,12,2013-04-08,Chatresh Chaudhary,Business Owner,₹6L - ₹12L,False,0,1317180524,Delhi NCR
+STU-2120,Girik,Swamy,Male,2007-10-11,CLS-12A,12,2013-03-20,Jeremiah Swamy,Government Service,₹3L - ₹6L,True,0,7903959850,Delhi NCR
+STU-2121,Gaurav,Kanda,Male,2007-02-27,CLS-12A,12,2013-04-02,Wyatt Kanda,Government Service,< ₹3L,False,25,08691925456,Delhi NCR
+STU-2122,Umang,Aggarwal,Male,2007-01-31,CLS-12A,12,2013-04-29,Ansh Aggarwal,Business Owner,₹3L - ₹6L,True,0,8593464745,Delhi NCR
+STU-2123,Aahana,Shere,Female,2007-04-26,CLS-12A,12,2013-03-18,Andrew Shere,Salaried IT/Corporate,₹6L - ₹12L,True,0,3351826963,Delhi NCR
+STU-2124,Baljiwan,Dhaliwal,Male,2007-06-08,CLS-12A,12,2013-04-04,Balveer Dhaliwal,Salaried IT/Corporate,₹6L - ₹12L,True,0,+915123299746,Delhi NCR
+STU-2125,Timothy,Dutt,Male,2007-08-10,CLS-12A,12,2013-04-01,Victor Dutt,Business Owner,₹3L - ₹6L,True,0,05651066666,Delhi NCR
+STU-2126,Gayathri,Pathak,Female,2007-05-14,CLS-12A,12,2013-03-11,Ethan Pathak,Retail/Shopkeeper,₹3L - ₹6L,False,0,5633493761,Delhi NCR
+STU-2127,Tanmayi,Kar,Female,2007-12-24,CLS-12A,12,2013-04-28,Shaurya Kar,Government Service,₹12L - ₹25L,False,0,02494364145,Delhi NCR
+STU-2128,Kevin,Hora,Male,2007-06-09,CLS-12A,12,2013-04-13,Chatura Hora,Retail/Shopkeeper,₹6L - ₹12L,False,0,8288425890,Delhi NCR
+STU-2129,Viraj,Gokhale,Male,2007-09-26,CLS-12A,12,2013-04-15,Warinder Gokhale,Retail/Shopkeeper,₹12L - ₹25L,True,0,3744987282,Delhi NCR
+STU-2130,Yashoda,Tripathi,Female,2007-09-11,CLS-12A,12,2013-03-30,Noah Tripathi,Government Service,₹3L - ₹6L,True,0,9577152756,Delhi NCR
+STU-2131,Ryan,Jha,Male,2007-01-07,CLS-12A,12,2013-03-09,William Jha,Healthcare/Doctor,₹6L - ₹12L,False,0,+912064549919,Delhi NCR
+STU-2132,Timothy,Contractor,Male,2007-06-22,CLS-12A,12,2013-04-20,Advik Contractor,Retail/Shopkeeper,₹3L - ₹6L,False,0,+919848851876,Delhi NCR
+STU-2133,Jalsa,Randhawa,Female,2007-08-14,CLS-12A,12,2013-04-08,Jacob Randhawa,Business Owner,₹12L - ₹25L,False,0,00859923755,Delhi NCR
+STU-2134,Tanay,Badami,Male,2007-11-10,CLS-12A,12,2013-04-27,Xavier Badami,Healthcare/Doctor,< ₹3L,True,50,05369430280,Delhi NCR
+STU-2135,Krish,Narasimhan,Male,2007-10-15,CLS-12A,12,2013-03-14,Wriddhish Narasimhan,Retail/Shopkeeper,< ₹3L,True,50,06484494112,Delhi NCR
+STU-2136,Aradhana,Nair,Female,2007-11-11,CLS-12A,12,2013-03-03,Ekansh Nair,Business Owner,₹3L - ₹6L,True,10,+919789066583,Delhi NCR
+STU-2137,Daniel,Rana,Male,2007-09-27,CLS-12A,12,2013-04-15,Neel Rana,Business Owner,< ₹3L,True,0,+911522894287,Delhi NCR
+STU-2138,Sarthak,Nagy,Male,2007-02-16,CLS-12A,12,2013-03-25,Chakradhar Nagy,Retail/Shopkeeper,₹6L - ₹12L,False,0,+914562152113,Delhi NCR
+STU-2139,Nimrat,Deo,Female,2007-05-19,CLS-12A,12,2013-04-12,Azaan Deo,Retail/Shopkeeper,₹3L - ₹6L,True,0,7750224061,Delhi NCR
+STU-2140,Jeremiah,Aurora,Male,2007-03-08,CLS-12A,12,2013-04-06,Harish Aurora,Business Owner,< ₹3L,True,0,2133096698,Delhi NCR
+STU-2141,Atharv,Nagarajan,Male,2007-07-27,CLS-12A,12,2013-04-25,Jagdish Nagarajan,Government Service,> ₹25L,True,0,2358774781,Delhi NCR
+STU-2142,Ekbal,Vora,Male,2007-02-22,CLS-12A,12,2013-04-15,Simon Vora,Salaried IT/Corporate,₹12L - ₹25L,False,0,03203674431,Delhi NCR
+STU-2143,Max,Anne,Male,2007-09-01,CLS-12A,12,2013-03-25,Avi Anne,Government Service,₹12L - ₹25L,True,0,08252703922,Delhi NCR
+STU-2144,Om,Sura,Male,2007-05-08,CLS-12A,12,2013-03-30,Bahadurjit Sura,Salaried IT/Corporate,₹3L - ₹6L,False,0,2902166180,Delhi NCR
+STU-2145,Tara,Vaidya,Female,2007-03-10,CLS-12A,12,2013-04-05,Krish Vaidya,Salaried IT/Corporate,₹3L - ₹6L,True,10,+915318299754,Delhi NCR
+STU-2146,Kamala,Malhotra,Female,2007-08-10,CLS-12A,12,2013-04-07,Bakhshi Malhotra,Salaried IT/Corporate,₹6L - ₹12L,False,0,+911121282455,Delhi NCR
+STU-2147,Anjali,Setty,Female,2007-11-25,CLS-12A,12,2013-03-19,Kevin Setty,Salaried IT/Corporate,₹3L - ₹6L,False,0,+917912312484,Delhi NCR
+STU-2148,Banjeet,Chana,Male,2007-12-16,CLS-12A,12,2013-04-02,Kevin Chana,Retail/Shopkeeper,< ₹3L,True,50,+914593400608,Delhi NCR
+STU-2149,Manbir,Golla,Male,2007-06-26,CLS-12A,12,2013-03-23,Ansh Golla,Government Service,₹3L - ₹6L,False,0,06449538203,Delhi NCR
+STU-2150,Vamakshi,Sur,Female,2007-11-22,CLS-12A,12,2013-04-16,Matthew Sur,Healthcare/Doctor,₹3L - ₹6L,True,0,5788890061,Delhi NCR
+STU-2151,Upasna,Parmer,Female,2007-12-12,CLS-12A,12,2013-03-06,Yagnesh Parmer,Business Owner,₹12L - ₹25L,True,0,07153320982,Delhi NCR
+STU-2152,Lipika,Rama,Female,2007-12-04,CLS-12B,12,2013-04-04,Nachiket Rama,Business Owner,₹12L - ₹25L,False,0,+911538561114,Delhi NCR
+STU-2153,Ronith,Comar,Male,2007-11-26,CLS-12B,12,2013-04-23,Jack Comar,Healthcare/Doctor,₹6L - ₹12L,False,0,6047353571,Delhi NCR
+STU-2154,Nitesh,Ravi,Male,2007-12-29,CLS-12B,12,2013-03-19,Chanakya Ravi,Retail/Shopkeeper,₹3L - ₹6L,False,0,00344147194,Delhi NCR
+STU-2155,Brijesh,Pandya,Male,2007-10-16,CLS-12B,12,2013-03-10,Pratyush Pandya,Government Service,₹6L - ₹12L,False,0,+919644933185,Delhi NCR
+STU-2156,Arin,Chahal,Male,2007-05-30,CLS-12B,12,2013-04-01,Qasim Chahal,Business Owner,< ₹3L,True,50,8894526878,Delhi NCR
+STU-2157,Chanakya,Sandal,Male,2007-04-20,CLS-12B,12,2013-03-08,Fariq Sandal,Business Owner,₹3L - ₹6L,False,0,4302847228,Delhi NCR
+STU-2158,Zinal,Sani,Female,2007-06-28,CLS-12B,12,2013-03-04,Bahadurjit Sani,Salaried IT/Corporate,₹12L - ₹25L,True,0,+917384729218,Delhi NCR
+STU-2159,Vedika,Thakur,Female,2007-10-21,CLS-12B,12,2013-03-05,Luke Thakur,Business Owner,₹6L - ₹12L,False,0,09910217809,Delhi NCR
+STU-2160,Nathaniel,Dua,Male,2007-09-24,CLS-12B,12,2013-03-28,Advaith Dua,Salaried IT/Corporate,₹3L - ₹6L,True,0,00212796807,Delhi NCR
+STU-2161,Udarsh,Handa,Male,2007-05-28,CLS-12B,12,2013-04-21,Qabil Handa,Business Owner,₹12L - ₹25L,False,0,01266970275,Delhi NCR
+STU-2162,Bishakha,Rana,Female,2007-03-23,CLS-12B,12,2013-03-01,Frado Rana,Government Service,₹3L - ₹6L,True,0,00577632376,Delhi NCR
+STU-2163,Advika,Dass,Female,2007-05-19,CLS-12B,12,2013-04-16,Ekbal Dass,Retail/Shopkeeper,₹6L - ₹12L,True,0,01758692612,Delhi NCR
+STU-2164,Aadhya,Menon,Female,2007-09-04,CLS-12B,12,2013-04-05,Ekavir Menon,Business Owner,₹6L - ₹12L,False,0,04632913758,Delhi NCR
+STU-2165,Orinder,Iyer,Male,2007-02-17,CLS-12B,12,2013-04-17,Banjeet Iyer,Salaried IT/Corporate,> ₹25L,True,0,+916738901597,Delhi NCR
+STU-2166,Mohini,Pal,Female,2007-06-24,CLS-12B,12,2013-03-31,Qarin Pal,Healthcare/Doctor,₹6L - ₹12L,False,0,9964557915,Delhi NCR
+STU-2167,Bakhshi,Sethi,Male,2007-02-19,CLS-12B,12,2013-03-30,Yuvraj Sethi,Salaried IT/Corporate,₹6L - ₹12L,True,0,2777462090,Delhi NCR
+STU-2168,Mekhala,Nadig,Female,2007-08-10,CLS-12B,12,2013-04-10,Praneel Nadig,Government Service,₹12L - ₹25L,True,0,+912234135809,Delhi NCR
+STU-2169,Unnati,Swaminathan,Female,2007-09-05,CLS-12B,12,2013-03-15,Darpan Swaminathan,Business Owner,₹6L - ₹12L,False,0,7080173839,Delhi NCR
+STU-2170,Krishna,Pandey,Male,2007-10-27,CLS-12B,12,2013-04-09,Aarav Pandey,Salaried IT/Corporate,₹6L - ₹12L,False,0,+910272791077,Delhi NCR
+STU-2171,Anmol,Thaker,Male,2007-05-13,CLS-12B,12,2013-03-12,Orinder Thaker,Government Service,₹12L - ₹25L,False,0,+912654048308,Delhi NCR
+STU-2172,Charita,More,Female,2007-01-18,CLS-12B,12,2013-04-11,Harrison More,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,+910495467971,Delhi NCR
+STU-2173,Nidra,Saraf,Female,2007-11-04,CLS-12B,12,2013-03-21,Chatresh Saraf,Retail/Shopkeeper,₹6L - ₹12L,False,0,0090273646,Delhi NCR
+STU-2174,Nathaniel,Bandi,Male,2007-05-07,CLS-12B,12,2013-03-18,Caleb Bandi,Driver/Daily Wage Worker,₹12L - ₹25L,True,0,07469868437,Delhi NCR
+STU-2175,Oni,Lata,Female,2007-11-24,CLS-12B,12,2013-04-16,Faqid Lata,Business Owner,₹12L - ₹25L,False,0,8793668955,Delhi NCR
+STU-2176,Vidhi,Mander,Female,2007-07-06,CLS-12B,12,2013-04-27,Fitan Mander,Government Service,₹3L - ₹6L,False,0,3412003568,Delhi NCR
+STU-2177,Gautami,Dora,Female,2007-06-14,CLS-12B,12,2013-04-03,Jacob Dora,Business Owner,₹6L - ₹12L,True,0,02645976552,Delhi NCR
+STU-2178,Bhavna,Varghese,Female,2007-06-07,CLS-12B,12,2013-03-13,Amol Varghese,Salaried IT/Corporate,₹6L - ₹12L,False,0,05991832403,Delhi NCR
+STU-2179,Mitali,Andra,Female,2007-02-25,CLS-12B,12,2013-04-05,Jatin Andra,Business Owner,₹3L - ₹6L,True,0,+912382835203,Delhi NCR
+STU-2180,Advik,Som,Male,2007-07-16,CLS-12B,12,2013-04-23,Rishi Som,Salaried IT/Corporate,< ₹3L,False,0,02412664871,Delhi NCR
+STU-2181,Eesha,Subramaniam,Female,2007-07-26,CLS-12B,12,2013-04-05,Udant Subramaniam,Salaried IT/Corporate,> ₹25L,True,0,+914177879384,Delhi NCR
+STU-2182,Xiti,Chhabra,Female,2007-05-10,CLS-12B,12,2013-04-26,Nicholas Chhabra,Business Owner,₹6L - ₹12L,False,0,2126033791,Delhi NCR
+STU-2183,Upadhriti,Deo,Female,2007-07-22,CLS-12B,12,2013-04-06,Gagan Deo,Business Owner,₹6L - ₹12L,False,0,09022750199,Delhi NCR
